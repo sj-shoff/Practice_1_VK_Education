@@ -1,0 +1,7 @@
+NAME                 IMAGE                                     COMMAND                  SERVICE      CREATED          STATUS                      PORTS
+p1q18-lakekeeper-1   quay.io/lakekeeper/catalog:v0.14.0        "/home/nonroot/lakek…"   lakekeeper   17 minutes ago   Up 17 minutes (healthy)     127.0.0.1:8181->8181/tcp
+p1q18-migrate-1      quay.io/lakekeeper/catalog:v0.14.0        "/home/nonroot/lakek…"   migrate      17 minutes ago   Exited (0) 15 minutes ago
+p1q18-minio-1        pgsty/silo:RELEASE.2026-09-03T13-18-01Z   "/usr/bin/docker-ent…"   minio        17 minutes ago   Up 17 minutes               127.0.0.1:9000-9001->9000-9001/tcp
+p1q18-minio-init-1   pgsty/silo:RELEASE.2026-09-03T13-18-01Z   "/bin/sh -c 'set -eu…"   minio-init   17 minutes ago   Exited (0) 15 minutes ago
+p1q18-postgres-1     postgres:17                               "docker-entrypoint.s…"   postgres     17 minutes ago   Up 17 minutes (healthy)     5432/tcp
+p1q18-trino-1        trinodb/trino:476                         "/usr/lib/trino/bin/…"   trino        15 minutes ago   Up 15 minutes (healthy)     127.0.0.1:8080->8080/tcp

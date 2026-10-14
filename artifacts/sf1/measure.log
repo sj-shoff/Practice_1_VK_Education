@@ -1,0 +1,50 @@
+[
+  {
+    "table": "bronze.sf1.customer",
+    "rows": 150000,
+    "files": 1,
+    "bytes": 243571,
+    "mib": 0.23228740692138672,
+    "ddl": "CREATE TABLE bronze.sf1.customer (\n   custkey bigint,\n   name varchar\n)\nWITH (\n   format = 'PARQUET',\n   format_version = 2,\n   location = 's3://bronze/customer-2a9999b412774fbbb73b5b8fd9d3a66d',\n   max_commit_retry = 4\n)"
+  },
+  {
+    "table": "bronze.sf1.orders",
+    "rows": 1500000,
+    "files": 1,
+    "bytes": 13512470,
+    "mib": 12.886495590209961,
+    "ddl": "CREATE TABLE bronze.sf1.orders (\n   orderkey bigint,\n   custkey bigint,\n   orderdate date,\n   totalprice double\n)\nWITH (\n   format = 'PARQUET',\n   format_version = 2,\n   location = 's3://bronze/orders-e78fae23d89e43ae917f0a2d04c9b365',\n   max_commit_retry = 4\n)"
+  },
+  {
+    "table": "bronze.sf1.lineitem",
+    "rows": 6001215,
+    "files": 2,
+    "bytes": 8393337,
+    "mib": 8.004509925842285,
+    "ddl": "CREATE TABLE bronze.sf1.lineitem (\n   orderkey bigint,\n   linenumber integer,\n   quantity double\n)\nWITH (\n   format = 'PARQUET',\n   format_version = 2,\n   location = 's3://bronze/lineitem-58ff773fb9244446b35674c53b3fb5c5',\n   max_commit_retry = 4\n)"
+  },
+  {
+    "table": "silver.sf1.large_orders",
+    "rows": 57,
+    "files": 1,
+    "bytes": 816,
+    "mib": 0.0007781982421875,
+    "ddl": "CREATE TABLE silver.sf1.large_orders (\n   orderkey bigint,\n   total_quantity double\n)\nWITH (\n   format = 'PARQUET',\n   format_version = 2,\n   location = 's3://silver/large_orders-2f1673405e504da98d74fa0ebe96b36d',\n   max_commit_retry = 4\n)"
+  },
+  {
+    "table": "silver.sf1.large_order_lines",
+    "rows": 399,
+    "files": 1,
+    "bytes": 4157,
+    "mib": 0.003964424133300781,
+    "ddl": "CREATE TABLE silver.sf1.large_order_lines (\n   name varchar,\n   custkey bigint,\n   orderkey bigint,\n   orderdate date,\n   totalprice double,\n   linenumber integer,\n   quantity double\n)\nWITH (\n   format = 'PARQUET',\n   format_version = 2,\n   location = 's3://silver/large_order_lines-c8353598cd304e27a09d93ac8ebb319a',\n   max_commit_retry = 4\n)"
+  },
+  {
+    "table": "gold.sf1.q18_large_volume_customer",
+    "rows": 57,
+    "files": 1,
+    "bytes": 2369,
+    "mib": 0.0022592544555664062,
+    "ddl": "CREATE TABLE gold.sf1.q18_large_volume_customer (\n   name varchar,\n   custkey bigint,\n   orderkey bigint,\n   orderdate date,\n   totalprice double,\n   total_quantity double\n)\nWITH (\n   format = 'PARQUET',\n   format_version = 2,\n   location = 's3://gold/q18_large_volume_customer-821c01fc860e4b8690ecece76f37c94a',\n   max_commit_retry = 4\n)"
+  }
+]

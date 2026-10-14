@@ -1,0 +1,2011 @@
+ Image apache/spark:3.5.3 Pulling
+ 8cddf7b9c8a7 Pulling fs layer 0B
+ ba61bfb12e50 Pulling fs layer 0B
+ 25bd901b7b2b Pulling fs layer 0B
+ 1b215f2e389f Pulling fs layer 0B
+ bf5a032d7513 Pulling fs layer 0B
+ 0418d5d0d342 Pulling fs layer 0B
+ 895de5a7630c Pulling fs layer 0B
+ 9fd0968dbfc5 Pulling fs layer 0B
+ 6a151ce2f49c Pulling fs layer 0B
+ 4f4fb700ef54 Pulling fs layer 0B
+ 2fa16691b852 Pulling fs layer 0B
+ 895de5a7630c Waiting 0B
+ 9fd0968dbfc5 Waiting 0B
+ 6a151ce2f49c Waiting 0B
+ 1b215f2e389f Waiting 0B
+ 4f4fb700ef54 Waiting 0B
+ 2fa16691b852 Waiting 0B
+ bf5a032d7513 Waiting 0B
+ 0418d5d0d342 Waiting 0B
+ ba61bfb12e50 Downloading 168.6kB
+ 8cddf7b9c8a7 Downloading 272.6kB
+ ba61bfb12e50 Downloading 336.6kB
+ ba61bfb12e50 Downloading 673kB
+ 8cddf7b9c8a7 Downloading 545.4kB
+ 25bd901b7b2b Downloading 456.7kB
+ ba61bfb12e50 Downloading 1.011MB
+ 8cddf7b9c8a7 Downloading 818.5kB
+ ba61bfb12e50 Downloading 1.193MB
+ 25bd901b7b2b Downloading 912.6kB
+ ba61bfb12e50 Downloading 1.542MB
+ 8cddf7b9c8a7 Downloading 1.091MB
+ ba61bfb12e50 Downloading 1.722MB
+ 25bd901b7b2b Downloading 1.375MB
+ ba61bfb12e50 Downloading 2.071MB
+ 8cddf7b9c8a7 Downloading 1.367MB
+ ba61bfb12e50 Downloading 2.413MB
+ 8cddf7b9c8a7 Downloading 1.646MB
+ 25bd901b7b2b Downloading 1.834MB
+ ba61bfb12e50 Downloading 2.954MB
+ 8cddf7b9c8a7 Downloading 1.918MB
+ 25bd901b7b2b Downloading 2.294MB
+ ba61bfb12e50 Downloading 3.303MB
+ ba61bfb12e50 Downloading 3.471MB
+ 8cddf7b9c8a7 Downloading 2.195MB
+ 25bd901b7b2b Downloading 2.752MB
+ ba61bfb12e50 Downloading 3.832MB
+ 8cddf7b9c8a7 Downloading 2.471MB
+ 25bd901b7b2b Downloading 3.211MB
+ ba61bfb12e50 Downloading 4.169MB
+ 25bd901b7b2b Downloading 3.67MB
+ 8cddf7b9c8a7 Downloading 2.75MB
+ ba61bfb12e50 Downloading 4.522MB
+ 25bd901b7b2b Downloading 4.129MB
+ ba61bfb12e50 Downloading 4.871MB
+ 8cddf7b9c8a7 Downloading 3.028MB
+ 25bd901b7b2b Downloading 4.587MB
+ ba61bfb12e50 Downloading 5.231MB
+ 8cddf7b9c8a7 Downloading 3.304MB
+ ba61bfb12e50 Downloading 5.58MB
+ 25bd901b7b2b Downloading 5.046MB
+ ba61bfb12e50 Downloading 5.76MB
+ ba61bfb12e50 Downloading 5.929MB
+ 8cddf7b9c8a7 Downloading 3.58MB
+ 25bd901b7b2b Downloading 5.505MB
+ ba61bfb12e50 Downloading 6.109MB
+ 8cddf7b9c8a7 Downloading 3.855MB
+ 25bd901b7b2b Downloading 5.964MB
+ ba61bfb12e50 Downloading 6.455MB
+ ba61bfb12e50 Downloading 6.816MB
+ 8cddf7b9c8a7 Downloading 4.131MB
+ 25bd901b7b2b Downloading 6.422MB
+ ba61bfb12e50 Downloading 6.984MB
+ 25bd901b7b2b Downloading 6.881MB
+ 8cddf7b9c8a7 Downloading 4.407MB
+ ba61bfb12e50 Downloading 7.345MB
+ 25bd901b7b2b Downloading 7.34MB
+ 8cddf7b9c8a7 Downloading 4.683MB
+ ba61bfb12e50 Downloading 7.693MB
+ 25bd901b7b2b Downloading 7.798MB
+ 25bd901b7b2b Downloading 8.254MB
+ 8cddf7b9c8a7 Downloading 4.959MB
+ ba61bfb12e50 Downloading 8.042MB
+ 8cddf7b9c8a7 Downloading 5.234MB
+ ba61bfb12e50 Downloading 8.765MB
+ 25bd901b7b2b Downloading 9.175MB
+ ba61bfb12e50 Downloading 8.934MB
+ 8cddf7b9c8a7 Downloading 5.513MB
+ ba61bfb12e50 Downloading 9.102MB
+ 25bd901b7b2b Downloading 9.634MB
+ ba61bfb12e50 Downloading 9.27MB
+ 8cddf7b9c8a7 Downloading 5.786MB
+ ba61bfb12e50 Downloading 9.439MB
+ 25bd901b7b2b Downloading 10.09MB
+ ba61bfb12e50 Downloading 9.607MB
+ ba61bfb12e50 Downloading 9.775MB
+ 25bd901b7b2b Downloading 10.55MB
+ 8cddf7b9c8a7 Downloading 6.059MB
+ ba61bfb12e50 Downloading 9.95MB
+ ba61bfb12e50 Downloading 10.12MB
+ 25bd901b7b2b Downloading 11.01MB
+ ba61bfb12e50 Downloading 10.3MB
+ 8cddf7b9c8a7 Downloading 6.332MB
+ ba61bfb12e50 Downloading 10.48MB
+ 25bd901b7b2b Downloading 11.47MB
+ ba61bfb12e50 Downloading 10.65MB
+ ba61bfb12e50 Downloading 10.83MB
+ 25bd901b7b2b Downloading 11.93MB
+ 8cddf7b9c8a7 Downloading 6.616MB
+ ba61bfb12e50 Downloading 11.01MB
+ ba61bfb12e50 Downloading 11.18MB
+ 25bd901b7b2b Downloading 12.39MB
+ ba61bfb12e50 Downloading 11.36MB
+ 8cddf7b9c8a7 Downloading 6.892MB
+ ba61bfb12e50 Downloading 11.53MB
+ 25bd901b7b2b Downloading 12.85MB
+ ba61bfb12e50 Downloading 11.88MB
+ 8cddf7b9c8a7 Downloading 7.168MB
+ 25bd901b7b2b Downloading 13.3MB
+ ba61bfb12e50 Downloading 12.06MB
+ 25bd901b7b2b Downloading 13.76MB
+ ba61bfb12e50 Downloading 12.22MB
+ 8cddf7b9c8a7 Downloading 7.443MB
+ ba61bfb12e50 Downloading 12.57MB
+ 25bd901b7b2b Downloading 14.22MB
+ 8cddf7b9c8a7 Downloading 7.722MB
+ ba61bfb12e50 Downloading 13.1MB
+ 25bd901b7b2b Downloading 15.14MB
+ 8cddf7b9c8a7 Downloading 7.998MB
+ ba61bfb12e50 Downloading 13.45MB
+ 25bd901b7b2b Downloading 15.6MB
+ 8cddf7b9c8a7 Downloading 8.271MB
+ ba61bfb12e50 Downloading 13.8MB
+ ba61bfb12e50 Downloading 13.97MB
+ 25bd901b7b2b Downloading 16.51MB
+ 8cddf7b9c8a7 Downloading 8.552MB
+ 25bd901b7b2b Downloading 16.97MB
+ ba61bfb12e50 Downloading 14.32MB
+ 8cddf7b9c8a7 Downloading 8.828MB
+ ba61bfb12e50 Downloading 14.5MB
+ 25bd901b7b2b Downloading 17.43MB
+ ba61bfb12e50 Downloading 14.67MB
+ 25bd901b7b2b Downloading 17.89MB
+ 8cddf7b9c8a7 Downloading 9.107MB
+ ba61bfb12e50 Downloading 14.84MB
+ 25bd901b7b2b Downloading 18.34MB
+ ba61bfb12e50 Downloading 15.02MB
+ 8cddf7b9c8a7 Downloading 9.385MB
+ 25bd901b7b2b Downloading 18.8MB
+ ba61bfb12e50 Downloading 15.37MB
+ 25bd901b7b2b Downloading 19.27MB
+ ba61bfb12e50 Downloading 15.54MB
+ 25bd901b7b2b Downloading 19.73MB
+ ba61bfb12e50 Downloading 15.89MB
+ ba61bfb12e50 Downloading 16.07MB
+ 25bd901b7b2b Downloading 20.19MB
+ ba61bfb12e50 Downloading 16.42MB
+ 25bd901b7b2b Downloading 20.64MB
+ 8cddf7b9c8a7 Downloading 9.658MB
+ ba61bfb12e50 Downloading 16.6MB
+ 25bd901b7b2b Downloading 21.1MB
+ ba61bfb12e50 Downloading 16.78MB
+ ba61bfb12e50 Verifying Checksum 0B
+ ba61bfb12e50 Download complete 0B
+ 8cddf7b9c8a7 Downloading 9.931MB
+ 25bd901b7b2b Downloading 21.56MB
+ 8cddf7b9c8a7 Downloading 10.2MB
+ 25bd901b7b2b Downloading 22.02MB
+ 8cddf7b9c8a7 Downloading 10.49MB
+ 1b215f2e389f Downloading 158B
+ 1b215f2e389f Verifying Checksum 0B
+ 1b215f2e389f Download complete 0B
+ 25bd901b7b2b Downloading 22.48MB
+ 8cddf7b9c8a7 Downloading 10.76MB
+ 25bd901b7b2b Downloading 22.94MB
+ 8cddf7b9c8a7 Downloading 11.31MB
+ 25bd901b7b2b Downloading 23.4MB
+ bf5a032d7513 Downloading 1.051kB
+ bf5a032d7513 Downloading 2.107kB
+ bf5a032d7513 Verifying Checksum 0B
+ bf5a032d7513 Download complete 0B
+ 8cddf7b9c8a7 Downloading 11.86MB
+ 25bd901b7b2b Downloading 23.86MB
+ 8cddf7b9c8a7 Downloading 12.14MB
+ 25bd901b7b2b Downloading 24.31MB
+ 8cddf7b9c8a7 Downloading 12.41MB
+ 0418d5d0d342 Downloading 1.051kB
+ 0418d5d0d342 Downloading 1.438kB
+ 0418d5d0d342 Verifying Checksum 0B
+ 0418d5d0d342 Download complete 0B
+ 8cddf7b9c8a7 Downloading 12.68MB
+ 25bd901b7b2b Downloading 24.77MB
+ 8cddf7b9c8a7 Downloading 12.96MB
+ 8cddf7b9c8a7 Downloading 13.24MB
+ 25bd901b7b2b Downloading 25.23MB
+ 8cddf7b9c8a7 Downloading 13.51MB
+ 25bd901b7b2b Downloading 25.69MB
+ 895de5a7630c Downloading 246.4kB
+ 8cddf7b9c8a7 Downloading 14.62MB
+ 8cddf7b9c8a7 Downloading 15.17MB
+ 25bd901b7b2b Downloading 26.61MB
+ 8cddf7b9c8a7 Downloading 15.44MB
+ 8cddf7b9c8a7 Downloading 15.72MB
+ 895de5a7630c Downloading 740.6kB
+ 8cddf7b9c8a7 Downloading 17.1MB
+ 25bd901b7b2b Downloading 27.52MB
+ 8cddf7b9c8a7 Downloading 17.38MB
+ 895de5a7630c Downloading 1.237MB
+ 8cddf7b9c8a7 Downloading 17.66MB
+ 25bd901b7b2b Downloading 27.98MB
+ 8cddf7b9c8a7 Downloading 17.93MB
+ 8cddf7b9c8a7 Downloading 18.21MB
+ 895de5a7630c Downloading 1.499MB
+ 8cddf7b9c8a7 Downloading 18.48MB
+ 25bd901b7b2b Downloading 28.44MB
+ 8cddf7b9c8a7 Downloading 19.03MB
+ 895de5a7630c Downloading 1.757MB
+ 8cddf7b9c8a7 Downloading 19.31MB
+ 895de5a7630c Downloading 2.019MB
+ 25bd901b7b2b Downloading 28.9MB
+ 8cddf7b9c8a7 Downloading 19.59MB
+ 8cddf7b9c8a7 Downloading 20.69MB
+ 8cddf7b9c8a7 Downloading 21.25MB
+ 8cddf7b9c8a7 Downloading 21.53MB
+ 8cddf7b9c8a7 Downloading 22.08MB
+ 25bd901b7b2b Downloading 29.36MB
+ 895de5a7630c Downloading 2.277MB
+ 8cddf7b9c8a7 Downloading 22.35MB
+ 25bd901b7b2b Downloading 29.82MB
+ 8cddf7b9c8a7 Downloading 22.63MB
+ 8cddf7b9c8a7 Downloading 22.9MB
+ 895de5a7630c Downloading 2.536MB
+ 25bd901b7b2b Downloading 30.27MB
+ 8cddf7b9c8a7 Downloading 23.18MB
+ 25bd901b7b2b Downloading 30.73MB
+ 8cddf7b9c8a7 Downloading 23.46MB
+ 895de5a7630c Downloading 2.794MB
+ 8cddf7b9c8a7 Downloading 23.74MB
+ 8cddf7b9c8a7 Downloading 24.01MB
+ 8cddf7b9c8a7 Downloading 24.29MB
+ 25bd901b7b2b Downloading 31.19MB
+ 895de5a7630c Downloading 3.056MB
+ 8cddf7b9c8a7 Downloading 24.57MB
+ 895de5a7630c Downloading 3.318MB
+ 8cddf7b9c8a7 Downloading 25.12MB
+ 25bd901b7b2b Downloading 31.65MB
+ 895de5a7630c Downloading 3.58MB
+ 25bd901b7b2b Downloading 32.11MB
+ 8cddf7b9c8a7 Downloading 25.68MB
+ 8cddf7b9c8a7 Downloading 27.06MB
+ 25bd901b7b2b Downloading 33.03MB
+ 8cddf7b9c8a7 Verifying Checksum 0B
+ 8cddf7b9c8a7 Download complete 0B
+ 8cddf7b9c8a7 Extracting 294.9kB
+ 8cddf7b9c8a7 Extracting 7.668MB
+ 895de5a7630c Downloading 4.105MB
+ 25bd901b7b2b Downloading 33.48MB
+ 8cddf7b9c8a7 Extracting 11.21MB
+ 895de5a7630c Downloading 4.358MB
+ 8cddf7b9c8a7 Extracting 21.23MB
+ 8cddf7b9c8a7 Extracting 22.12MB
+ 25bd901b7b2b Downloading 33.95MB
+ 8cddf7b9c8a7 Extracting 25.95MB
+ 8cddf7b9c8a7 Extracting 27.13MB
+ 8cddf7b9c8a7 Extracting 27.21MB
+ 895de5a7630c Downloading 4.62MB
+ 8cddf7b9c8a7 Pull complete 0B
+ ba61bfb12e50 Extracting 196.6kB
+ 25bd901b7b2b Downloading 34.41MB
+ ba61bfb12e50 Extracting 8.454MB
+ ba61bfb12e50 Extracting 13.37MB
+ 895de5a7630c Downloading 4.879MB
+ ba61bfb12e50 Extracting 15.53MB
+ 9fd0968dbfc5 Downloading 525.3kB
+ 25bd901b7b2b Downloading 34.87MB
+ ba61bfb12e50 Extracting 15.73MB
+ ba61bfb12e50 Extracting 16.71MB
+ ba61bfb12e50 Extracting 16.78MB
+ ba61bfb12e50 Pull complete 0B
+ 895de5a7630c Downloading 5.141MB
+ 9fd0968dbfc5 Downloading 1.051MB
+ 25bd901b7b2b Downloading 35.32MB
+ 9fd0968dbfc5 Downloading 1.577MB
+ 895de5a7630c Downloading 5.399MB
+ 25bd901b7b2b Downloading 35.78MB
+ 9fd0968dbfc5 Downloading 2.114MB
+ 895de5a7630c Downloading 5.661MB
+ 25bd901b7b2b Downloading 36.23MB
+ 895de5a7630c Downloading 5.923MB
+ 9fd0968dbfc5 Downloading 2.654MB
+ 25bd901b7b2b Downloading 36.69MB
+ 25bd901b7b2b Downloading 37.15MB
+ 9fd0968dbfc5 Downloading 3.736MB
+ 25bd901b7b2b Downloading 37.6MB
+ 25bd901b7b2b Downloading 38.06MB
+ 895de5a7630c Downloading 6.439MB
+ 9fd0968dbfc5 Downloading 5.346MB
+ 895de5a7630c Downloading 6.959MB
+ 895de5a7630c Downloading 7.218MB
+ 25bd901b7b2b Downloading 38.52MB
+ 9fd0968dbfc5 Downloading 5.874MB
+ 895de5a7630c Downloading 7.48MB
+ 25bd901b7b2b Downloading 39.44MB
+ 9fd0968dbfc5 Downloading 6.935MB
+ 895de5a7630c Downloading 7.738MB
+ 25bd901b7b2b Downloading 39.89MB
+ 9fd0968dbfc5 Downloading 7.476MB
+ 25bd901b7b2b Downloading 40.35MB
+ 895de5a7630c Downloading 8MB
+ 9fd0968dbfc5 Downloading 8.004MB
+ 25bd901b7b2b Downloading 40.8MB
+ 9fd0968dbfc5 Downloading 8.536MB
+ 895de5a7630c Downloading 8.262MB
+ 25bd901b7b2b Downloading 41.27MB
+ 895de5a7630c Downloading 8.52MB
+ 9fd0968dbfc5 Downloading 9.074MB
+ 895de5a7630c Downloading 8.778MB
+ 9fd0968dbfc5 Downloading 9.614MB
+ 25bd901b7b2b Downloading 41.73MB
+ 9fd0968dbfc5 Downloading 10.15MB
+ 895de5a7630c Downloading 9.04MB
+ 25bd901b7b2b Downloading 42.19MB
+ 9fd0968dbfc5 Downloading 10.68MB
+ 25bd901b7b2b Downloading 42.65MB
+ 895de5a7630c Downloading 9.302MB
+ 9fd0968dbfc5 Downloading 11.22MB
+ 895de5a7630c Downloading 9.564MB
+ 25bd901b7b2b Downloading 43.11MB
+ 9fd0968dbfc5 Downloading 11.76MB
+ 895de5a7630c Downloading 9.826MB
+ 9fd0968dbfc5 Downloading 12.3MB
+ 9fd0968dbfc5 Downloading 12.83MB
+ 25bd901b7b2b Downloading 44.02MB
+ 895de5a7630c Downloading 10.09MB
+ 9fd0968dbfc5 Downloading 13.36MB
+ 25bd901b7b2b Downloading 44.48MB
+ 895de5a7630c Downloading 10.35MB
+ 9fd0968dbfc5 Downloading 14.43MB
+ 25bd901b7b2b Downloading 45.39MB
+ 25bd901b7b2b Download complete 0B
+ 895de5a7630c Downloading 10.86MB
+ 25bd901b7b2b Extracting 458.8kB
+ 9fd0968dbfc5 Downloading 14.96MB
+ 25bd901b7b2b Extracting 7.799MB
+ 6a151ce2f49c Downloading 1.051kB
+ 6a151ce2f49c Downloading 2.136kB
+ 6a151ce2f49c Verifying Checksum 0B
+ 6a151ce2f49c Download complete 0B
+ 25bd901b7b2b Extracting 19.73MB
+ 895de5a7630c Downloading 11.12MB
+ 9fd0968dbfc5 Downloading 15.5MB
+ 25bd901b7b2b Extracting 30.74MB
+ 25bd901b7b2b Extracting 40.37MB
+ 4f4fb700ef54 Downloading 32B
+ 4f4fb700ef54 Verifying Checksum 0B
+ 4f4fb700ef54 Download complete 0B
+ 25bd901b7b2b Extracting 45.56MB
+ 25bd901b7b2b Pull complete 0B
+ 1b215f2e389f Extracting 158B
+ 1b215f2e389f Extracting 158B
+ 1b215f2e389f Pull complete 0B
+ bf5a032d7513 Extracting 2.107kB
+ bf5a032d7513 Extracting 2.107kB
+ bf5a032d7513 Pull complete 0B
+ 0418d5d0d342 Extracting 1.438kB
+ 0418d5d0d342 Extracting 1.438kB
+ 895de5a7630c Downloading 11.38MB
+ 0418d5d0d342 Pull complete 0B
+ 9fd0968dbfc5 Downloading 16.03MB
+ 895de5a7630c Downloading 11.65MB
+ 9fd0968dbfc5 Downloading 16.57MB
+ 895de5a7630c Downloading 11.91MB
+ 9fd0968dbfc5 Downloading 17.09MB
+ 895de5a7630c Downloading 12.17MB
+ 9fd0968dbfc5 Downloading 17.62MB
+ 2fa16691b852 Downloading 525kB
+ 895de5a7630c Downloading 12.43MB
+ 9fd0968dbfc5 Downloading 18.16MB
+ 895de5a7630c Downloading 12.68MB
+ 9fd0968dbfc5 Downloading 18.69MB
+ 2fa16691b852 Downloading 1.05MB
+ 895de5a7630c Downloading 12.94MB
+ 9fd0968dbfc5 Downloading 19.22MB
+ 895de5a7630c Downloading 13.2MB
+ 9fd0968dbfc5 Downloading 19.76MB
+ 2fa16691b852 Downloading 1.579MB
+ 895de5a7630c Downloading 13.46MB
+ 9fd0968dbfc5 Downloading 20.3MB
+ 895de5a7630c Downloading 13.73MB
+ 9fd0968dbfc5 Downloading 20.84MB
+ 2fa16691b852 Downloading 2.114MB
+ 9fd0968dbfc5 Downloading 21.38MB
+ 895de5a7630c Downloading 13.99MB
+ 9fd0968dbfc5 Downloading 21.92MB
+ 895de5a7630c Downloading 14.25MB
+ 2fa16691b852 Downloading 2.654MB
+ 895de5a7630c Downloading 14.51MB
+ 9fd0968dbfc5 Downloading 22.45MB
+ 895de5a7630c Downloading 14.76MB
+ 9fd0968dbfc5 Downloading 23MB
+ 2fa16691b852 Downloading 3.19MB
+ 895de5a7630c Downloading 15.02MB
+ 9fd0968dbfc5 Downloading 23.53MB
+ 895de5a7630c Downloading 15.28MB
+ 9fd0968dbfc5 Downloading 24.06MB
+ 2fa16691b852 Downloading 3.72MB
+ 895de5a7630c Downloading 15.54MB
+ 9fd0968dbfc5 Downloading 24.6MB
+ 895de5a7630c Downloading 15.8MB
+ 2fa16691b852 Downloading 4.26MB
+ 9fd0968dbfc5 Downloading 25.14MB
+ 895de5a7630c Downloading 16.06MB
+ 9fd0968dbfc5 Downloading 25.67MB
+ 895de5a7630c Downloading 16.33MB
+ 2fa16691b852 Downloading 4.797MB
+ 9fd0968dbfc5 Downloading 26.2MB
+ 895de5a7630c Downloading 16.59MB
+ 2fa16691b852 Downloading 5.327MB
+ 895de5a7630c Downloading 16.85MB
+ 9fd0968dbfc5 Downloading 26.74MB
+ 895de5a7630c Downloading 17.11MB
+ 9fd0968dbfc5 Downloading 27.28MB
+ 2fa16691b852 Downloading 5.857MB
+ 895de5a7630c Downloading 17.37MB
+ 9fd0968dbfc5 Downloading 27.81MB
+ 895de5a7630c Downloading 17.63MB
+ 9fd0968dbfc5 Downloading 28.35MB
+ 2fa16691b852 Downloading 6.39MB
+ 895de5a7630c Downloading 17.89MB
+ 9fd0968dbfc5 Downloading 28.87MB
+ 895de5a7630c Downloading 18.15MB
+ 9fd0968dbfc5 Downloading 29.4MB
+ 2fa16691b852 Downloading 6.92MB
+ 895de5a7630c Downloading 18.41MB
+ 9fd0968dbfc5 Downloading 29.93MB
+ 895de5a7630c Downloading 18.67MB
+ 895de5a7630c Downloading 18.92MB
+ 9fd0968dbfc5 Downloading 30.47MB
+ 895de5a7630c Downloading 19.19MB
+ 895de5a7630c Downloading 19.45MB
+ 2fa16691b852 Downloading 7.45MB
+ 895de5a7630c Downloading 19.71MB
+ 9fd0968dbfc5 Downloading 31MB
+ 895de5a7630c Downloading 19.97MB
+ 2fa16691b852 Downloading 7.98MB
+ 9fd0968dbfc5 Downloading 31.52MB
+ 895de5a7630c Downloading 20.23MB
+ 9fd0968dbfc5 Downloading 32.06MB
+ 895de5a7630c Downloading 20.49MB
+ 2fa16691b852 Downloading 8.52MB
+ 9fd0968dbfc5 Downloading 32.6MB
+ 895de5a7630c Downloading 20.75MB
+ 9fd0968dbfc5 Downloading 33.13MB
+ 895de5a7630c Downloading 21MB
+ 2fa16691b852 Downloading 9.055MB
+ 9fd0968dbfc5 Downloading 33.67MB
+ 895de5a7630c Downloading 21.27MB
+ 9fd0968dbfc5 Downloading 34.19MB
+ 895de5a7630c Downloading 21.53MB
+ 2fa16691b852 Downloading 9.586MB
+ 895de5a7630c Downloading 21.79MB
+ 9fd0968dbfc5 Downloading 34.72MB
+ 895de5a7630c Downloading 22.05MB
+ 2fa16691b852 Downloading 10.12MB
+ 9fd0968dbfc5 Downloading 35.24MB
+ 895de5a7630c Downloading 22.31MB
+ 9fd0968dbfc5 Downloading 36.29MB
+ 895de5a7630c Downloading 22.57MB
+ 2fa16691b852 Downloading 10.65MB
+ 9fd0968dbfc5 Downloading 36.84MB
+ 895de5a7630c Downloading 22.83MB
+ 9fd0968dbfc5 Downloading 37.36MB
+ 895de5a7630c Downloading 23.09MB
+ 2fa16691b852 Downloading 11.18MB
+ 9fd0968dbfc5 Downloading 37.89MB
+ 895de5a7630c Downloading 23.35MB
+ 9fd0968dbfc5 Downloading 38.42MB
+ 895de5a7630c Downloading 23.61MB
+ 2fa16691b852 Downloading 11.71MB
+ 9fd0968dbfc5 Downloading 38.97MB
+ 9fd0968dbfc5 Downloading 39.49MB
+ 895de5a7630c Downloading 23.87MB
+ 895de5a7630c Downloading 24.13MB
+ 9fd0968dbfc5 Downloading 40.03MB
+ 2fa16691b852 Downloading 12.25MB
+ 9fd0968dbfc5 Downloading 40.55MB
+ 895de5a7630c Downloading 24.39MB
+ 9fd0968dbfc5 Downloading 41.08MB
+ 2fa16691b852 Downloading 12.78MB
+ 2fa16691b852 Downloading 13.31MB
+ 9fd0968dbfc5 Downloading 42.14MB
+ 895de5a7630c Download complete 0B
+ 895de5a7630c Extracting 262.1kB
+ 9fd0968dbfc5 Downloading 42.68MB
+ 895de5a7630c Extracting 11.27MB
+ 895de5a7630c Extracting 21.5MB
+ 2fa16691b852 Downloading 13.84MB
+ 9fd0968dbfc5 Downloading 43.21MB
+ 895de5a7630c Extracting 24.61MB
+ 895de5a7630c Pull complete 0B
+ 9fd0968dbfc5 Downloading 43.73MB
+ 2fa16691b852 Downloading 14.37MB
+ 9fd0968dbfc5 Downloading 44.79MB
+ 2fa16691b852 Downloading 14.89MB
+ 9fd0968dbfc5 Downloading 45.32MB
+ 2fa16691b852 Downloading 15.42MB
+ 9fd0968dbfc5 Downloading 45.85MB
+ 9fd0968dbfc5 Downloading 46.38MB
+ 2fa16691b852 Downloading 15.96MB
+ 9fd0968dbfc5 Downloading 46.91MB
+ 9fd0968dbfc5 Downloading 47.43MB
+ 2fa16691b852 Downloading 16.49MB
+ 9fd0968dbfc5 Downloading 47.97MB
+ 2fa16691b852 Downloading 17.01MB
+ 9fd0968dbfc5 Downloading 48.5MB
+ 9fd0968dbfc5 Downloading 49.02MB
+ 2fa16691b852 Downloading 17.54MB
+ 9fd0968dbfc5 Downloading 49.55MB
+ 9fd0968dbfc5 Downloading 50.08MB
+ 2fa16691b852 Downloading 18.06MB
+ 9fd0968dbfc5 Downloading 50.61MB
+ 9fd0968dbfc5 Downloading 51.13MB
+ 2fa16691b852 Downloading 18.59MB
+ 9fd0968dbfc5 Downloading 51.66MB
+ 2fa16691b852 Downloading 19.13MB
+ 9fd0968dbfc5 Downloading 52.19MB
+ 9fd0968dbfc5 Downloading 52.72MB
+ 2fa16691b852 Downloading 19.66MB
+ 9fd0968dbfc5 Downloading 53.25MB
+ 9fd0968dbfc5 Downloading 53.78MB
+ 2fa16691b852 Downloading 20.2MB
+ 9fd0968dbfc5 Downloading 54.3MB
+ 9fd0968dbfc5 Downloading 54.84MB
+ 2fa16691b852 Downloading 20.72MB
+ 9fd0968dbfc5 Downloading 55.36MB
+ 9fd0968dbfc5 Downloading 55.89MB
+ 2fa16691b852 Downloading 21.25MB
+ 9fd0968dbfc5 Downloading 56.41MB
+ 9fd0968dbfc5 Downloading 56.94MB
+ 2fa16691b852 Downloading 21.77MB
+ 9fd0968dbfc5 Downloading 57.46MB
+ 9fd0968dbfc5 Downloading 58MB
+ 9fd0968dbfc5 Downloading 58.54MB
+ 2fa16691b852 Downloading 22.3MB
+ 9fd0968dbfc5 Downloading 59.07MB
+ 2fa16691b852 Downloading 22.82MB
+ 9fd0968dbfc5 Downloading 59.59MB
+ 2fa16691b852 Downloading 23.35MB
+ 9fd0968dbfc5 Downloading 60.12MB
+ 9fd0968dbfc5 Downloading 60.66MB
+ 2fa16691b852 Downloading 23.89MB
+ 9fd0968dbfc5 Downloading 61.19MB
+ 2fa16691b852 Downloading 24.42MB
+ 9fd0968dbfc5 Downloading 61.71MB
+ 2fa16691b852 Downloading 24.96MB
+ 9fd0968dbfc5 Downloading 62.78MB
+ 9fd0968dbfc5 Downloading 63.3MB
+ 2fa16691b852 Downloading 25.48MB
+ 9fd0968dbfc5 Downloading 63.83MB
+ 9fd0968dbfc5 Downloading 64.37MB
+ 2fa16691b852 Downloading 26.01MB
+ 9fd0968dbfc5 Downloading 64.9MB
+ 2fa16691b852 Downloading 26.54MB
+ 9fd0968dbfc5 Downloading 65.44MB
+ 9fd0968dbfc5 Downloading 65.98MB
+ 2fa16691b852 Downloading 27.07MB
+ 9fd0968dbfc5 Downloading 66.5MB
+ 9fd0968dbfc5 Downloading 67.03MB
+ 2fa16691b852 Downloading 27.61MB
+ 9fd0968dbfc5 Downloading 67.57MB
+ 2fa16691b852 Downloading 28.14MB
+ 9fd0968dbfc5 Downloading 68.11MB
+ 9fd0968dbfc5 Downloading 68.64MB
+ 2fa16691b852 Downloading 28.68MB
+ 2fa16691b852 Downloading 29.21MB
+ 9fd0968dbfc5 Downloading 69.71MB
+ 2fa16691b852 Downloading 29.73MB
+ 9fd0968dbfc5 Downloading 70.24MB
+ 9fd0968dbfc5 Downloading 70.77MB
+ 2fa16691b852 Downloading 30.27MB
+ 9fd0968dbfc5 Downloading 71.3MB
+ 2fa16691b852 Downloading 30.79MB
+ 9fd0968dbfc5 Downloading 71.84MB
+ 9fd0968dbfc5 Downloading 72.38MB
+ 2fa16691b852 Downloading 31.32MB
+ 9fd0968dbfc5 Downloading 72.91MB
+ 2fa16691b852 Downloading 31.84MB
+ 9fd0968dbfc5 Downloading 73.43MB
+ 9fd0968dbfc5 Downloading 73.96MB
+ 9fd0968dbfc5 Downloading 74.49MB
+ 2fa16691b852 Downloading 32.37MB
+ 2fa16691b852 Downloading 32.89MB
+ 2fa16691b852 Downloading 33.42MB
+ 9fd0968dbfc5 Downloading 75.01MB
+ 9fd0968dbfc5 Downloading 76.08MB
+ 2fa16691b852 Downloading 33.95MB
+ 9fd0968dbfc5 Downloading 76.61MB
+ 9fd0968dbfc5 Downloading 77.13MB
+ 2fa16691b852 Downloading 34.47MB
+ 9fd0968dbfc5 Downloading 77.66MB
+ 2fa16691b852 Downloading 35MB
+ 9fd0968dbfc5 Downloading 78.18MB
+ 2fa16691b852 Downloading 35.52MB
+ 9fd0968dbfc5 Downloading 78.71MB
+ 9fd0968dbfc5 Downloading 79.25MB
+ 2fa16691b852 Downloading 36.05MB
+ 9fd0968dbfc5 Downloading 79.79MB
+ 2fa16691b852 Downloading 36.57MB
+ 9fd0968dbfc5 Downloading 80.33MB
+ 9fd0968dbfc5 Downloading 80.86MB
+ 2fa16691b852 Downloading 37.1MB
+ 9fd0968dbfc5 Downloading 81.38MB
+ 2fa16691b852 Downloading 37.64MB
+ 9fd0968dbfc5 Downloading 81.92MB
+ 9fd0968dbfc5 Downloading 82.45MB
+ 2fa16691b852 Downloading 38.17MB
+ 9fd0968dbfc5 Downloading 82.99MB
+ 2fa16691b852 Downloading 38.69MB
+ 9fd0968dbfc5 Downloading 83.52MB
+ 2fa16691b852 Downloading 39.22MB
+ 9fd0968dbfc5 Downloading 84.05MB
+ 9fd0968dbfc5 Downloading 84.58MB
+ 2fa16691b852 Downloading 39.74MB
+ 9fd0968dbfc5 Downloading 85.12MB
+ 2fa16691b852 Downloading 40.28MB
+ 9fd0968dbfc5 Downloading 85.64MB
+ 2fa16691b852 Downloading 40.81MB
+ 9fd0968dbfc5 Downloading 86.17MB
+ 9fd0968dbfc5 Downloading 86.71MB
+ 2fa16691b852 Downloading 41.34MB
+ 9fd0968dbfc5 Downloading 87.24MB
+ 2fa16691b852 Downloading 41.86MB
+ 9fd0968dbfc5 Downloading 87.78MB
+ 9fd0968dbfc5 Downloading 88.31MB
+ 2fa16691b852 Downloading 42.39MB
+ 9fd0968dbfc5 Downloading 88.85MB
+ 2fa16691b852 Downloading 42.92MB
+ 9fd0968dbfc5 Downloading 89.38MB
+ 9fd0968dbfc5 Downloading 89.9MB
+ 2fa16691b852 Downloading 43.46MB
+ 9fd0968dbfc5 Downloading 90.44MB
+ 2fa16691b852 Downloading 44MB
+ 9fd0968dbfc5 Downloading 90.96MB
+ 9fd0968dbfc5 Downloading 91.49MB
+ 2fa16691b852 Downloading 44.53MB
+ 9fd0968dbfc5 Downloading 92.02MB
+ 2fa16691b852 Downloading 45.06MB
+ 9fd0968dbfc5 Downloading 92.55MB
+ 9fd0968dbfc5 Downloading 93.08MB
+ 2fa16691b852 Downloading 45.59MB
+ 9fd0968dbfc5 Downloading 93.6MB
+ 2fa16691b852 Downloading 46.11MB
+ 9fd0968dbfc5 Downloading 94.13MB
+ 9fd0968dbfc5 Downloading 94.66MB
+ 2fa16691b852 Downloading 46.64MB
+ 9fd0968dbfc5 Downloading 95.2MB
+ 2fa16691b852 Downloading 47.16MB
+ 9fd0968dbfc5 Downloading 95.73MB
+ 9fd0968dbfc5 Downloading 96.25MB
+ 2fa16691b852 Downloading 47.69MB
+ 9fd0968dbfc5 Downloading 96.78MB
+ 2fa16691b852 Downloading 48.23MB
+ 9fd0968dbfc5 Downloading 97.31MB
+ 9fd0968dbfc5 Downloading 97.85MB
+ 2fa16691b852 Downloading 48.76MB
+ 9fd0968dbfc5 Downloading 98.39MB
+ 2fa16691b852 Downloading 49.28MB
+ 9fd0968dbfc5 Downloading 98.92MB
+ 9fd0968dbfc5 Downloading 99.46MB
+ 2fa16691b852 Downloading 49.82MB
+ 9fd0968dbfc5 Downloading 99.98MB
+ 9fd0968dbfc5 Downloading 100.5MB
+ 2fa16691b852 Downloading 50.34MB
+ 9fd0968dbfc5 Downloading 101MB
+ 9fd0968dbfc5 Downloading 101.6MB
+ 2fa16691b852 Downloading 50.87MB
+ 9fd0968dbfc5 Downloading 102.1MB
+ 2fa16691b852 Downloading 51.39MB
+ 9fd0968dbfc5 Downloading 102.6MB
+ 2fa16691b852 Downloading 51.92MB
+ 9fd0968dbfc5 Downloading 103.1MB
+ 9fd0968dbfc5 Downloading 103.7MB
+ 2fa16691b852 Downloading 52.45MB
+ 9fd0968dbfc5 Downloading 104.2MB
+ 2fa16691b852 Downloading 52.98MB
+ 9fd0968dbfc5 Downloading 104.7MB
+ 2fa16691b852 Downloading 53.51MB
+ 9fd0968dbfc5 Downloading 105.3MB
+ 9fd0968dbfc5 Downloading 105.8MB
+ 2fa16691b852 Downloading 54.03MB
+ 9fd0968dbfc5 Downloading 106.3MB
+ 9fd0968dbfc5 Downloading 106.9MB
+ 2fa16691b852 Downloading 54.55MB
+ 9fd0968dbfc5 Downloading 107.4MB
+ 2fa16691b852 Downloading 55.08MB
+ 9fd0968dbfc5 Downloading 107.9MB
+ 9fd0968dbfc5 Downloading 108.5MB
+ 2fa16691b852 Downloading 55.61MB
+ 9fd0968dbfc5 Downloading 109MB
+ 2fa16691b852 Downloading 56.14MB
+ 9fd0968dbfc5 Downloading 109.5MB
+ 2fa16691b852 Downloading 56.66MB
+ 9fd0968dbfc5 Downloading 110MB
+ 9fd0968dbfc5 Downloading 110.6MB
+ 9fd0968dbfc5 Downloading 111.1MB
+ 2fa16691b852 Downloading 57.19MB
+ 9fd0968dbfc5 Downloading 111.6MB
+ 2fa16691b852 Downloading 57.72MB
+ 9fd0968dbfc5 Downloading 112.1MB
+ 2fa16691b852 Downloading 58.25MB
+ 2fa16691b852 Downloading 58.79MB
+ 9fd0968dbfc5 Downloading 113.2MB
+ 9fd0968dbfc5 Downloading 113.7MB
+ 2fa16691b852 Downloading 59.32MB
+ 9fd0968dbfc5 Downloading 114.3MB
+ 2fa16691b852 Downloading 59.86MB
+ 9fd0968dbfc5 Downloading 114.8MB
+ 2fa16691b852 Downloading 60.38MB
+ 9fd0968dbfc5 Downloading 115.3MB
+ 2fa16691b852 Downloading 60.91MB
+ 9fd0968dbfc5 Downloading 115.9MB
+ 2fa16691b852 Downloading 61.45MB
+ 9fd0968dbfc5 Downloading 116.4MB
+ 2fa16691b852 Downloading 61.98MB
+ 9fd0968dbfc5 Downloading 116.9MB
+ 2fa16691b852 Downloading 62.51MB
+ 9fd0968dbfc5 Downloading 118MB
+ 2fa16691b852 Downloading 63.03MB
+ 9fd0968dbfc5 Downloading 118.5MB
+ 2fa16691b852 Downloading 63.57MB
+ 9fd0968dbfc5 Downloading 119.1MB
+ 2fa16691b852 Downloading 64.1MB
+ 9fd0968dbfc5 Downloading 119.6MB
+ 9fd0968dbfc5 Downloading 120.1MB
+ 2fa16691b852 Downloading 64.62MB
+ 9fd0968dbfc5 Downloading 120.7MB
+ 2fa16691b852 Downloading 65.15MB
+ 9fd0968dbfc5 Downloading 121.2MB
+ 2fa16691b852 Downloading 65.67MB
+ 9fd0968dbfc5 Downloading 121.7MB
+ 2fa16691b852 Downloading 66.21MB
+ 9fd0968dbfc5 Downloading 122.3MB
+ 2fa16691b852 Downloading 66.74MB
+ 9fd0968dbfc5 Downloading 122.8MB
+ 2fa16691b852 Downloading 67.27MB
+ 9fd0968dbfc5 Downloading 123.3MB
+ 2fa16691b852 Downloading 67.8MB
+ 9fd0968dbfc5 Downloading 123.9MB
+ 9fd0968dbfc5 Downloading 124.4MB
+ 2fa16691b852 Downloading 68.33MB
+ 9fd0968dbfc5 Downloading 124.9MB
+ 2fa16691b852 Downloading 68.86MB
+ 9fd0968dbfc5 Downloading 125.4MB
+ 2fa16691b852 Downloading 69.4MB
+ 9fd0968dbfc5 Downloading 126MB
+ 2fa16691b852 Downloading 69.94MB
+ 9fd0968dbfc5 Downloading 126.5MB
+ 2fa16691b852 Downloading 70.47MB
+ 9fd0968dbfc5 Downloading 127MB
+ 9fd0968dbfc5 Downloading 127.6MB
+ 2fa16691b852 Downloading 71MB
+ 9fd0968dbfc5 Downloading 128.1MB
+ 2fa16691b852 Downloading 71.52MB
+ 9fd0968dbfc5 Downloading 128.6MB
+ 2fa16691b852 Downloading 72.05MB
+ 9fd0968dbfc5 Downloading 129.1MB
+ 2fa16691b852 Downloading 72.59MB
+ 9fd0968dbfc5 Downloading 130.2MB
+ 2fa16691b852 Downloading 73.13MB
+ 9fd0968dbfc5 Downloading 130.7MB
+ 2fa16691b852 Downloading 73.66MB
+ 9fd0968dbfc5 Downloading 131.3MB
+ 2fa16691b852 Downloading 74.2MB
+ 9fd0968dbfc5 Downloading 131.8MB
+ 2fa16691b852 Downloading 74.73MB
+ 9fd0968dbfc5 Downloading 132.3MB
+ 2fa16691b852 Downloading 75.26MB
+ 9fd0968dbfc5 Downloading 132.9MB
+ 2fa16691b852 Downloading 75.8MB
+ 9fd0968dbfc5 Downloading 133.4MB
+ 2fa16691b852 Downloading 76.33MB
+ 9fd0968dbfc5 Downloading 133.9MB
+ 2fa16691b852 Downloading 76.87MB
+ 9fd0968dbfc5 Downloading 134.5MB
+ 2fa16691b852 Downloading 77.4MB
+ 9fd0968dbfc5 Downloading 135MB
+ 2fa16691b852 Downloading 77.94MB
+ 9fd0968dbfc5 Downloading 135.5MB
+ 2fa16691b852 Downloading 78.47MB
+ 9fd0968dbfc5 Downloading 136.1MB
+ 9fd0968dbfc5 Downloading 136.6MB
+ 2fa16691b852 Downloading 79MB
+ 9fd0968dbfc5 Downloading 137.2MB
+ 2fa16691b852 Downloading 79.53MB
+ 9fd0968dbfc5 Downloading 137.7MB
+ 2fa16691b852 Downloading 80.07MB
+ 9fd0968dbfc5 Downloading 138.2MB
+ 2fa16691b852 Downloading 80.6MB
+ 9fd0968dbfc5 Downloading 138.7MB
+ 2fa16691b852 Downloading 81.14MB
+ 2fa16691b852 Downloading 81.68MB
+ 2fa16691b852 Downloading 82.21MB
+ 2fa16691b852 Downloading 82.74MB
+ 2fa16691b852 Downloading 83.28MB
+ 2fa16691b852 Downloading 83.8MB
+ 2fa16691b852 Downloading 84.33MB
+ 9fd0968dbfc5 Downloading 139.3MB
+ 2fa16691b852 Downloading 84.85MB
+ 9fd0968dbfc5 Downloading 139.8MB
+ 2fa16691b852 Downloading 85.39MB
+ 2fa16691b852 Downloading 85.93MB
+ 9fd0968dbfc5 Downloading 140.3MB
+ 2fa16691b852 Downloading 86.46MB
+ 9fd0968dbfc5 Downloading 140.9MB
+ 2fa16691b852 Downloading 87MB
+ 9fd0968dbfc5 Downloading 141.4MB
+ 2fa16691b852 Verifying Checksum 0B
+ 2fa16691b852 Download complete 0B
+ 9fd0968dbfc5 Downloading 141.9MB
+ 9fd0968dbfc5 Downloading 142.5MB
+ 9fd0968dbfc5 Downloading 143MB
+ 9fd0968dbfc5 Downloading 143.5MB
+ 9fd0968dbfc5 Downloading 144.1MB
+ 9fd0968dbfc5 Downloading 144.6MB
+ 9fd0968dbfc5 Downloading 145.1MB
+ 9fd0968dbfc5 Downloading 145.7MB
+ 9fd0968dbfc5 Downloading 146.2MB
+ 9fd0968dbfc5 Downloading 146.7MB
+ 9fd0968dbfc5 Downloading 147.3MB
+ 9fd0968dbfc5 Downloading 147.8MB
+ 9fd0968dbfc5 Downloading 148.9MB
+ 9fd0968dbfc5 Downloading 149.4MB
+ 9fd0968dbfc5 Downloading 149.9MB
+ 9fd0968dbfc5 Downloading 151MB
+ 9fd0968dbfc5 Downloading 151.5MB
+ 9fd0968dbfc5 Downloading 152.1MB
+ 9fd0968dbfc5 Downloading 152.6MB
+ 9fd0968dbfc5 Downloading 153.7MB
+ 9fd0968dbfc5 Downloading 154.2MB
+ 9fd0968dbfc5 Downloading 154.7MB
+ 9fd0968dbfc5 Downloading 155.8MB
+ 9fd0968dbfc5 Downloading 156.8MB
+ 9fd0968dbfc5 Downloading 157.4MB
+ 9fd0968dbfc5 Downloading 157.9MB
+ 9fd0968dbfc5 Downloading 158.4MB
+ 9fd0968dbfc5 Downloading 159MB
+ 9fd0968dbfc5 Downloading 159.5MB
+ 9fd0968dbfc5 Downloading 160MB
+ 9fd0968dbfc5 Downloading 160.6MB
+ 9fd0968dbfc5 Downloading 161.1MB
+ 9fd0968dbfc5 Downloading 161.6MB
+ 9fd0968dbfc5 Downloading 162.2MB
+ 9fd0968dbfc5 Downloading 163.2MB
+ 9fd0968dbfc5 Downloading 163.8MB
+ 9fd0968dbfc5 Downloading 164.8MB
+ 9fd0968dbfc5 Downloading 165.3MB
+ 9fd0968dbfc5 Downloading 165.9MB
+ 9fd0968dbfc5 Downloading 166.4MB
+ 9fd0968dbfc5 Downloading 167.5MB
+ 9fd0968dbfc5 Downloading 168MB
+ 9fd0968dbfc5 Downloading 169.1MB
+ 9fd0968dbfc5 Downloading 169.6MB
+ 9fd0968dbfc5 Downloading 170.1MB
+ 9fd0968dbfc5 Downloading 170.7MB
+ 9fd0968dbfc5 Downloading 171.2MB
+ 9fd0968dbfc5 Downloading 171.7MB
+ 9fd0968dbfc5 Downloading 172.2MB
+ 9fd0968dbfc5 Downloading 172.8MB
+ 9fd0968dbfc5 Downloading 173.3MB
+ 9fd0968dbfc5 Downloading 174.4MB
+ 9fd0968dbfc5 Downloading 175.4MB
+ 9fd0968dbfc5 Downloading 176.5MB
+ 9fd0968dbfc5 Downloading 177.6MB
+ 9fd0968dbfc5 Downloading 178.7MB
+ 9fd0968dbfc5 Downloading 179.2MB
+ 9fd0968dbfc5 Downloading 179.8MB
+ 9fd0968dbfc5 Downloading 180.3MB
+ 9fd0968dbfc5 Downloading 180.8MB
+ 9fd0968dbfc5 Downloading 181.3MB
+ 9fd0968dbfc5 Downloading 182.4MB
+ 9fd0968dbfc5 Downloading 183MB
+ 9fd0968dbfc5 Downloading 183.5MB
+ 9fd0968dbfc5 Downloading 184MB
+ 9fd0968dbfc5 Downloading 184.6MB
+ 9fd0968dbfc5 Downloading 185.1MB
+ 9fd0968dbfc5 Downloading 185.6MB
+ 9fd0968dbfc5 Downloading 186.1MB
+ 9fd0968dbfc5 Downloading 186.7MB
+ 9fd0968dbfc5 Downloading 187.2MB
+ 9fd0968dbfc5 Downloading 187.7MB
+ 9fd0968dbfc5 Downloading 188.3MB
+ 9fd0968dbfc5 Downloading 188.8MB
+ 9fd0968dbfc5 Downloading 189.3MB
+ 9fd0968dbfc5 Downloading 189.9MB
+ 9fd0968dbfc5 Downloading 190.9MB
+ 9fd0968dbfc5 Downloading 191.5MB
+ 9fd0968dbfc5 Downloading 192MB
+ 9fd0968dbfc5 Downloading 192.5MB
+ 9fd0968dbfc5 Downloading 193.1MB
+ 9fd0968dbfc5 Downloading 193.6MB
+ 9fd0968dbfc5 Downloading 194.1MB
+ 9fd0968dbfc5 Downloading 194.7MB
+ 9fd0968dbfc5 Downloading 195.2MB
+ 9fd0968dbfc5 Downloading 195.7MB
+ 9fd0968dbfc5 Downloading 196.3MB
+ 9fd0968dbfc5 Downloading 196.8MB
+ 9fd0968dbfc5 Downloading 197.3MB
+ 9fd0968dbfc5 Downloading 197.8MB
+ 9fd0968dbfc5 Downloading 198.4MB
+ 9fd0968dbfc5 Downloading 198.9MB
+ 9fd0968dbfc5 Downloading 199.4MB
+ 9fd0968dbfc5 Downloading 200MB
+ 9fd0968dbfc5 Downloading 200.5MB
+ 9fd0968dbfc5 Downloading 201.1MB
+ 9fd0968dbfc5 Downloading 201.6MB
+ 9fd0968dbfc5 Downloading 202.1MB
+ 9fd0968dbfc5 Downloading 202.6MB
+ 9fd0968dbfc5 Downloading 203.2MB
+ 9fd0968dbfc5 Downloading 203.7MB
+ 9fd0968dbfc5 Downloading 204.3MB
+ 9fd0968dbfc5 Downloading 204.8MB
+ 9fd0968dbfc5 Downloading 205.9MB
+ 9fd0968dbfc5 Downloading 206.4MB
+ 9fd0968dbfc5 Downloading 206.9MB
+ 9fd0968dbfc5 Downloading 207.5MB
+ 9fd0968dbfc5 Downloading 208MB
+ 9fd0968dbfc5 Downloading 208.5MB
+ 9fd0968dbfc5 Downloading 209.6MB
+ 9fd0968dbfc5 Downloading 210.1MB
+ 9fd0968dbfc5 Downloading 210.7MB
+ 9fd0968dbfc5 Downloading 211.2MB
+ 9fd0968dbfc5 Downloading 211.7MB
+ 9fd0968dbfc5 Downloading 212.3MB
+ 9fd0968dbfc5 Downloading 212.8MB
+ 9fd0968dbfc5 Downloading 213.3MB
+ 9fd0968dbfc5 Downloading 213.9MB
+ 9fd0968dbfc5 Downloading 214.4MB
+ 9fd0968dbfc5 Downloading 214.9MB
+ 9fd0968dbfc5 Downloading 215.5MB
+ 9fd0968dbfc5 Downloading 216MB
+ 9fd0968dbfc5 Downloading 216.5MB
+ 9fd0968dbfc5 Downloading 217.1MB
+ 9fd0968dbfc5 Downloading 218.1MB
+ 9fd0968dbfc5 Downloading 218.6MB
+ 9fd0968dbfc5 Downloading 219.2MB
+ 9fd0968dbfc5 Downloading 220.2MB
+ 9fd0968dbfc5 Downloading 220.8MB
+ 9fd0968dbfc5 Downloading 221.3MB
+ 9fd0968dbfc5 Downloading 221.9MB
+ 9fd0968dbfc5 Downloading 222.4MB
+ 9fd0968dbfc5 Downloading 222.9MB
+ 9fd0968dbfc5 Downloading 223.4MB
+ 9fd0968dbfc5 Downloading 224MB
+ 9fd0968dbfc5 Downloading 224.5MB
+ 9fd0968dbfc5 Downloading 225MB
+ 9fd0968dbfc5 Downloading 225.6MB
+ 9fd0968dbfc5 Downloading 226.1MB
+ 9fd0968dbfc5 Downloading 227.2MB
+ 9fd0968dbfc5 Downloading 227.7MB
+ 9fd0968dbfc5 Downloading 228.2MB
+ 9fd0968dbfc5 Downloading 228.7MB
+ 9fd0968dbfc5 Downloading 229.3MB
+ 9fd0968dbfc5 Downloading 229.8MB
+ 9fd0968dbfc5 Downloading 230.3MB
+ 9fd0968dbfc5 Downloading 230.9MB
+ 9fd0968dbfc5 Downloading 231.4MB
+ 9fd0968dbfc5 Downloading 231.9MB
+ 9fd0968dbfc5 Downloading 232.5MB
+ 9fd0968dbfc5 Downloading 233MB
+ 9fd0968dbfc5 Downloading 233.5MB
+ 9fd0968dbfc5 Downloading 234.1MB
+ 9fd0968dbfc5 Downloading 234.6MB
+ 9fd0968dbfc5 Downloading 235.1MB
+ 9fd0968dbfc5 Downloading 235.7MB
+ 9fd0968dbfc5 Downloading 236.2MB
+ 9fd0968dbfc5 Downloading 236.7MB
+ 9fd0968dbfc5 Downloading 237.3MB
+ 9fd0968dbfc5 Downloading 237.8MB
+ 9fd0968dbfc5 Downloading 238.9MB
+ 9fd0968dbfc5 Downloading 239.4MB
+ 9fd0968dbfc5 Downloading 239.9MB
+ 9fd0968dbfc5 Downloading 240.5MB
+ 9fd0968dbfc5 Downloading 241.5MB
+ 9fd0968dbfc5 Downloading 242.6MB
+ 9fd0968dbfc5 Downloading 243.1MB
+ 9fd0968dbfc5 Downloading 243.7MB
+ 9fd0968dbfc5 Downloading 244.2MB
+ 9fd0968dbfc5 Downloading 244.7MB
+ 9fd0968dbfc5 Downloading 245.3MB
+ 9fd0968dbfc5 Downloading 245.8MB
+ 9fd0968dbfc5 Downloading 246.3MB
+ 9fd0968dbfc5 Downloading 246.9MB
+ 9fd0968dbfc5 Downloading 247.4MB
+ 9fd0968dbfc5 Downloading 248.5MB
+ 9fd0968dbfc5 Downloading 249.5MB
+ 9fd0968dbfc5 Downloading 250.1MB
+ 9fd0968dbfc5 Downloading 250.6MB
+ 9fd0968dbfc5 Downloading 251.7MB
+ 9fd0968dbfc5 Downloading 252.2MB
+ 9fd0968dbfc5 Downloading 253.3MB
+ 9fd0968dbfc5 Downloading 253.8MB
+ 9fd0968dbfc5 Downloading 254.9MB
+ 9fd0968dbfc5 Downloading 255.4MB
+ 9fd0968dbfc5 Downloading 256MB
+ 9fd0968dbfc5 Downloading 257MB
+ 9fd0968dbfc5 Downloading 257.6MB
+ 9fd0968dbfc5 Downloading 258.1MB
+ 9fd0968dbfc5 Downloading 258.6MB
+ 9fd0968dbfc5 Downloading 259.2MB
+ 9fd0968dbfc5 Downloading 260.2MB
+ 9fd0968dbfc5 Downloading 261.3MB
+ 9fd0968dbfc5 Downloading 262.4MB
+ 9fd0968dbfc5 Downloading 263.4MB
+ 9fd0968dbfc5 Downloading 264MB
+ 9fd0968dbfc5 Downloading 264.5MB
+ 9fd0968dbfc5 Downloading 265.6MB
+ 9fd0968dbfc5 Downloading 266.6MB
+ 9fd0968dbfc5 Downloading 267.2MB
+ 9fd0968dbfc5 Downloading 268.2MB
+ 9fd0968dbfc5 Downloading 268.8MB
+ 9fd0968dbfc5 Downloading 269.8MB
+ 9fd0968dbfc5 Downloading 270.3MB
+ 9fd0968dbfc5 Downloading 270.9MB
+ 9fd0968dbfc5 Downloading 271.4MB
+ 9fd0968dbfc5 Downloading 271.9MB
+ 9fd0968dbfc5 Downloading 272.5MB
+ 9fd0968dbfc5 Downloading 273MB
+ 9fd0968dbfc5 Downloading 273.5MB
+ 9fd0968dbfc5 Downloading 274.1MB
+ 9fd0968dbfc5 Downloading 274.6MB
+ 9fd0968dbfc5 Downloading 275.1MB
+ 9fd0968dbfc5 Downloading 275.7MB
+ 9fd0968dbfc5 Downloading 276.2MB
+ 9fd0968dbfc5 Downloading 278.3MB
+ 9fd0968dbfc5 Downloading 278.9MB
+ 9fd0968dbfc5 Downloading 279.4MB
+ 9fd0968dbfc5 Downloading 281.5MB
+ 9fd0968dbfc5 Downloading 282.1MB
+ 9fd0968dbfc5 Downloading 282.6MB
+ 9fd0968dbfc5 Downloading 283.1MB
+ 9fd0968dbfc5 Downloading 283.7MB
+ 9fd0968dbfc5 Downloading 284.2MB
+ 9fd0968dbfc5 Downloading 284.7MB
+ 9fd0968dbfc5 Downloading 285.8MB
+ 9fd0968dbfc5 Downloading 286.9MB
+ 9fd0968dbfc5 Downloading 287.9MB
+ 9fd0968dbfc5 Downloading 289MB
+ 9fd0968dbfc5 Downloading 290.1MB
+ 9fd0968dbfc5 Downloading 291.1MB
+ 9fd0968dbfc5 Downloading 292.2MB
+ 9fd0968dbfc5 Downloading 292.7MB
+ 9fd0968dbfc5 Downloading 293.3MB
+ 9fd0968dbfc5 Downloading 293.8MB
+ 9fd0968dbfc5 Downloading 294.3MB
+ 9fd0968dbfc5 Downloading 294.8MB
+ 9fd0968dbfc5 Downloading 295.9MB
+ 9fd0968dbfc5 Downloading 297MB
+ 9fd0968dbfc5 Downloading 297.5MB
+ 9fd0968dbfc5 Downloading 298.6MB
+ 9fd0968dbfc5 Downloading 299.7MB
+ 9fd0968dbfc5 Downloading 300.2MB
+ 9fd0968dbfc5 Downloading 301.3MB
+ 9fd0968dbfc5 Downloading 301.8MB
+ 9fd0968dbfc5 Downloading 302.3MB
+ 9fd0968dbfc5 Downloading 302.9MB
+ 9fd0968dbfc5 Downloading 303.4MB
+ 9fd0968dbfc5 Downloading 303.9MB
+ 9fd0968dbfc5 Downloading 305MB
+ 9fd0968dbfc5 Downloading 306MB
+ 9fd0968dbfc5 Downloading 307.1MB
+ 9fd0968dbfc5 Downloading 307.6MB
+ 9fd0968dbfc5 Downloading 308.2MB
+ 9fd0968dbfc5 Downloading 308.7MB
+ 9fd0968dbfc5 Downloading 309.2MB
+ 9fd0968dbfc5 Downloading 310.3MB
+ 9fd0968dbfc5 Downloading 310.8MB
+ 9fd0968dbfc5 Downloading 311.9MB
+ 9fd0968dbfc5 Downloading 313MB
+ 9fd0968dbfc5 Downloading 313.5MB
+ 9fd0968dbfc5 Downloading 314.1MB
+ 9fd0968dbfc5 Downloading 315.1MB
+ 9fd0968dbfc5 Downloading 316.2MB
+ 9fd0968dbfc5 Downloading 317.2MB
+ 9fd0968dbfc5 Downloading 317.8MB
+ 9fd0968dbfc5 Downloading 318.8MB
+ 9fd0968dbfc5 Downloading 319.4MB
+ 9fd0968dbfc5 Downloading 319.9MB
+ 9fd0968dbfc5 Downloading 320.5MB
+ 9fd0968dbfc5 Downloading 321.5MB
+ 9fd0968dbfc5 Downloading 322MB
+ 9fd0968dbfc5 Downloading 323.1MB
+ 9fd0968dbfc5 Downloading 324.2MB
+ 9fd0968dbfc5 Download complete 0B
+ 9fd0968dbfc5 Extracting 557.1kB
+ 9fd0968dbfc5 Extracting 7.242MB
+ 9fd0968dbfc5 Extracting 30.08MB
+ 9fd0968dbfc5 Extracting 55.71MB
+ 9fd0968dbfc5 Extracting 81.33MB
+ 9fd0968dbfc5 Extracting 106.4MB
+ 9fd0968dbfc5 Extracting 130.9MB
+ 9fd0968dbfc5 Extracting 157.1MB
+ 9fd0968dbfc5 Extracting 187.2MB
+ 9fd0968dbfc5 Extracting 224.5MB
+ 9fd0968dbfc5 Extracting 254.6MB
+ 9fd0968dbfc5 Extracting 281.9MB
+ 9fd0968dbfc5 Extracting 308.1MB
+ 9fd0968dbfc5 Extracting 324.2MB
+ 9fd0968dbfc5 Extracting 324.9MB
+ 9fd0968dbfc5 Pull complete 0B
+ 6a151ce2f49c Extracting 2.136kB
+ 6a151ce2f49c Extracting 2.136kB
+ 6a151ce2f49c Pull complete 0B
+ 4f4fb700ef54 Extracting 32B
+ 4f4fb700ef54 Extracting 32B
+ 4f4fb700ef54 Pull complete 0B
+ 2fa16691b852 Extracting 557.1kB
+ 2fa16691b852 Extracting 9.47MB
+ 2fa16691b852 Extracting 10.58MB
+ 2fa16691b852 Extracting 12.26MB
+ 2fa16691b852 Extracting 13.37MB
+ 2fa16691b852 Extracting 23.4MB
+ 2fa16691b852 Extracting 32.31MB
+ 2fa16691b852 Extracting 36.77MB
+ 2fa16691b852 Extracting 46.24MB
+ 2fa16691b852 Extracting 56.82MB
+ 2fa16691b852 Extracting 67.4MB
+ 2fa16691b852 Extracting 71.3MB
+ 2fa16691b852 Extracting 76.87MB
+ 2fa16691b852 Extracting 80.22MB
+ 2fa16691b852 Extracting 81.89MB
+ 2fa16691b852 Extracting 84.67MB
+ 2fa16691b852 Extracting 86.34MB
+ 2fa16691b852 Extracting 87.46MB
+ 2fa16691b852 Pull complete 0B
+ Image apache/spark:3.5.3 Pulled
+ Container p1q18-spark-run-e5f838931bad Creating
+ Container p1q18-spark-run-e5f838931bad Created
+26/10/14 12:22:54 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+26/10/14 12:22:54 INFO SparkContext: Running Spark version 3.5.3
+26/10/14 12:22:54 INFO SparkContext: OS info Linux, 7.0.0-22-generic, aarch64
+26/10/14 12:22:54 INFO SparkContext: Java version 11.0.24
+26/10/14 12:22:54 INFO ResourceUtils: ==============================================================
+26/10/14 12:22:54 INFO ResourceUtils: No custom resources configured for spark.driver.
+26/10/14 12:22:54 INFO ResourceUtils: ==============================================================
+26/10/14 12:22:54 INFO SparkContext: Submitted application: practice-1-q18-bronze-sergey
+26/10/14 12:22:54 INFO ResourceProfile: Default ResourceProfile created, executor resources: Map(cores -> name: cores, amount: 1, script: , vendor: , memory -> name: memory, amount: 1024, script: , vendor: , offHeap -> name: offHeap, amount: 0, script: , vendor: ), task resources: Map(cpus -> name: cpus, amount: 1.0)
+26/10/14 12:22:54 INFO ResourceProfile: Limiting resource is cpu
+26/10/14 12:22:54 INFO ResourceProfileManager: Added ResourceProfile id: 0
+26/10/14 12:22:54 INFO SecurityManager: Changing view acls to: root
+26/10/14 12:22:54 INFO SecurityManager: Changing modify acls to: root
+26/10/14 12:22:54 INFO SecurityManager: Changing view acls groups to:
+26/10/14 12:22:54 INFO SecurityManager: Changing modify acls groups to:
+26/10/14 12:22:54 INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users with view permissions: root; groups with view permissions: EMPTY; users with modify permissions: root; groups with modify permissions: EMPTY
+26/10/14 12:22:55 INFO Utils: Successfully started service 'sparkDriver' on port 33797.
+26/10/14 12:22:55 INFO SparkEnv: Registering MapOutputTracker
+26/10/14 12:22:55 INFO SparkEnv: Registering BlockManagerMaster
+26/10/14 12:22:55 INFO BlockManagerMasterEndpoint: Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information
+26/10/14 12:22:55 INFO BlockManagerMasterEndpoint: BlockManagerMasterEndpoint up
+26/10/14 12:22:55 INFO SparkEnv: Registering BlockManagerMasterHeartbeat
+26/10/14 12:22:55 INFO DiskBlockManager: Created local directory at /tmp/blockmgr-e1cb6648-7e41-40ea-98b6-ec61c83248d8
+26/10/14 12:22:55 INFO MemoryStore: MemoryStore started with capacity 434.4 MiB
+26/10/14 12:22:55 INFO SparkEnv: Registering OutputCommitCoordinator
+26/10/14 12:22:55 INFO JettyUtils: Start Jetty 0.0.0.0:4040 for SparkUI
+26/10/14 12:22:55 INFO Utils: Successfully started service 'SparkUI' on port 4040.
+26/10/14 12:22:55 INFO SparkContext: Added JAR file:///opt/spark/iceberg-jars/iceberg-spark-runtime-3.5_2.12-1.7.1.jar at spark://4f0bf387cd27:33797/jars/iceberg-spark-runtime-3.5_2.12-1.7.1.jar with timestamp 1791980574832
+26/10/14 12:22:55 INFO SparkContext: Added JAR file:///opt/spark/iceberg-jars/iceberg-aws-bundle-1.7.1.jar at spark://4f0bf387cd27:33797/jars/iceberg-aws-bundle-1.7.1.jar with timestamp 1791980574832
+26/10/14 12:22:55 INFO FairSchedulableBuilder: Fair scheduler configuration not found, created default pool: default, schedulingMode: FAIR, minShare: 0, weight: 1
+26/10/14 12:22:55 INFO Executor: Starting executor ID driver on host 4f0bf387cd27
+26/10/14 12:22:55 INFO Executor: OS info Linux, 7.0.0-22-generic, aarch64
+26/10/14 12:22:55 INFO Executor: Java version 11.0.24
+26/10/14 12:22:55 INFO Executor: Starting executor with user classpath (userClassPathFirst = false): ''
+26/10/14 12:22:55 INFO Executor: Created or updated repl class loader org.apache.spark.util.MutableURLClassLoader@c149960 for default.
+26/10/14 12:22:55 INFO Executor: Fetching spark://4f0bf387cd27:33797/jars/iceberg-aws-bundle-1.7.1.jar with timestamp 1791980574832
+26/10/14 12:22:55 INFO TransportClientFactory: Successfully created connection to 4f0bf387cd27/172.19.0.6:33797 after 14 ms (0 ms spent in bootstraps)
+26/10/14 12:22:55 INFO Utils: Fetching spark://4f0bf387cd27:33797/jars/iceberg-aws-bundle-1.7.1.jar to /tmp/spark-05bac517-4c45-4bdc-90b5-e051b71529f5/userFiles-df3957ee-7be2-498c-a20e-c7e3abb37e6b/fetchFileTemp13970081528045144527.tmp
+26/10/14 12:22:55 INFO Executor: Adding file:/tmp/spark-05bac517-4c45-4bdc-90b5-e051b71529f5/userFiles-df3957ee-7be2-498c-a20e-c7e3abb37e6b/iceberg-aws-bundle-1.7.1.jar to class loader default
+26/10/14 12:22:55 INFO Executor: Fetching spark://4f0bf387cd27:33797/jars/iceberg-spark-runtime-3.5_2.12-1.7.1.jar with timestamp 1791980574832
+26/10/14 12:22:55 INFO Utils: Fetching spark://4f0bf387cd27:33797/jars/iceberg-spark-runtime-3.5_2.12-1.7.1.jar to /tmp/spark-05bac517-4c45-4bdc-90b5-e051b71529f5/userFiles-df3957ee-7be2-498c-a20e-c7e3abb37e6b/fetchFileTemp10513319911882855186.tmp
+26/10/14 12:22:55 INFO Executor: Adding file:/tmp/spark-05bac517-4c45-4bdc-90b5-e051b71529f5/userFiles-df3957ee-7be2-498c-a20e-c7e3abb37e6b/iceberg-spark-runtime-3.5_2.12-1.7.1.jar to class loader default
+26/10/14 12:22:55 INFO Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 40107.
+26/10/14 12:22:55 INFO NettyBlockTransferService: Server created on 4f0bf387cd27:40107
+26/10/14 12:22:55 INFO BlockManager: Using org.apache.spark.storage.RandomBlockReplicationPolicy for block replication policy
+26/10/14 12:22:55 INFO BlockManagerMaster: Registering BlockManager BlockManagerId(driver, 4f0bf387cd27, 40107, None)
+26/10/14 12:22:55 INFO BlockManagerMasterEndpoint: Registering block manager 4f0bf387cd27:40107 with 434.4 MiB RAM, BlockManagerId(driver, 4f0bf387cd27, 40107, None)
+26/10/14 12:22:55 INFO BlockManagerMaster: Registered BlockManager BlockManagerId(driver, 4f0bf387cd27, 40107, None)
+26/10/14 12:22:55 INFO BlockManager: Initialized BlockManager: BlockManagerId(driver, 4f0bf387cd27, 40107, None)
+26/10/14 12:22:55 INFO SharedState: Setting hive.metastore.warehouse.dir ('null') to the value of spark.sql.warehouse.dir.
+26/10/14 12:22:55 INFO SharedState: Warehouse path is 'file:/opt/spark/work-dir/spark-warehouse'.
+26/10/14 12:22:56 INFO CatalogUtil: Loading custom FileIO implementation: org.apache.iceberg.aws.s3.S3FileIO
+26/10/14 12:22:56 INFO CatalogUtil: Loading custom FileIO implementation: org.apache.iceberg.aws.s3.S3FileIO
+26/10/14 12:22:56 INFO SnapshotScan: Scanning table bronze.sf1.customer snapshot 2020214731526505611 created at 2026-10-14T12:08:15.096+00:00 with filter true
+26/10/14 12:22:57 INFO BaseDistributedDataScan: Planning file tasks locally for table bronze.sf1.customer
+26/10/14 12:22:57 INFO LoggingMetricsReporter: Received metrics report: ScanReport{tableName=bronze.sf1.customer, snapshotId=2020214731526505611, filter=true, schemaId=0, projectedFieldIds=[1, 2], projectedFieldNames=[custkey, name], scanMetrics=ScanMetricsResult{totalPlanningDuration=TimerResult{timeUnit=NANOSECONDS, totalDuration=PT0.588712319S, count=1}, resultDataFiles=CounterResult{unit=COUNT, value=1}, resultDeleteFiles=CounterResult{unit=COUNT, value=0}, totalDataManifests=CounterResult{unit=COUNT, value=1}, totalDeleteManifests=CounterResult{unit=COUNT, value=0}, scannedDataManifests=CounterResult{unit=COUNT, value=1}, skippedDataManifests=CounterResult{unit=COUNT, value=0}, totalFileSizeInBytes=CounterResult{unit=BYTES, value=243571}, totalDeleteFileSizeInBytes=CounterResult{unit=BYTES, value=0}, skippedDataFiles=CounterResult{unit=COUNT, value=0}, skippedDeleteFiles=CounterResult{unit=COUNT, value=0}, scannedDeleteManifests=CounterResult{unit=COUNT, value=0}, skippedDeleteManifests=CounterResult{unit=COUNT, value=0}, indexedDeleteFiles=CounterResult{unit=COUNT, value=0}, equalityDeleteFiles=CounterResult{unit=COUNT, value=0}, positionalDeleteFiles=CounterResult{unit=COUNT, value=0}}, metadata={engine-version=3.5.3, iceberg-version=Apache Iceberg 1.7.1 (commit 4a432839233f2343a9eae8255532f911f06358ef), app-id=local-1791980575220, engine-name=spark}}
+26/10/14 12:22:57 INFO V2ScanRelationPushDown:
+Pushing operators to bronze.sf1.customer
+Pushed Aggregate Functions:
+ COUNT(*)
+Pushed Group by:
+
+
+26/10/14 12:22:58 INFO CodeGenerator: Code generated in 100.827113 ms
+26/10/14 12:22:58 INFO CodeGenerator: Code generated in 6.88647 ms
+26/10/14 12:22:58 INFO DAGScheduler: Registering RDD 2 (count at <unknown>:0) as input to shuffle 0
+26/10/14 12:22:58 INFO DAGScheduler: Got map stage job 0 (count at <unknown>:0) with 1 output partitions
+26/10/14 12:22:58 INFO DAGScheduler: Final stage: ShuffleMapStage 0 (count at <unknown>:0)
+26/10/14 12:22:58 INFO DAGScheduler: Parents of final stage: List()
+26/10/14 12:22:58 INFO DAGScheduler: Missing parents: List()
+26/10/14 12:22:58 INFO DAGScheduler: Submitting ShuffleMapStage 0 (MapPartitionsRDD[2] at count at <unknown>:0), which has no missing parents
+26/10/14 12:22:58 INFO MemoryStore: Block broadcast_0 stored as values in memory (estimated size 12.6 KiB, free 434.4 MiB)
+26/10/14 12:22:58 INFO MemoryStore: Block broadcast_0_piece0 stored as bytes in memory (estimated size 6.2 KiB, free 434.4 MiB)
+26/10/14 12:22:58 INFO BlockManagerInfo: Added broadcast_0_piece0 in memory on 4f0bf387cd27:40107 (size: 6.2 KiB, free: 434.4 MiB)
+26/10/14 12:22:58 INFO SparkContext: Created broadcast 0 from broadcast at DAGScheduler.scala:1585
+26/10/14 12:22:58 INFO DAGScheduler: Submitting 1 missing tasks from ShuffleMapStage 0 (MapPartitionsRDD[2] at count at <unknown>:0) (first 15 tasks are for partitions Vector(0))
+26/10/14 12:22:58 INFO TaskSchedulerImpl: Adding task set 0.0 with 1 tasks resource profile 0
+26/10/14 12:22:58 INFO FairSchedulableBuilder: Added task set TaskSet_0.0 tasks to pool default
+26/10/14 12:22:58 INFO TaskSetManager: Starting task 0.0 in stage 0.0 (TID 0) (4f0bf387cd27, executor driver, partition 0, PROCESS_LOCAL, 9462 bytes)
+26/10/14 12:22:58 INFO Executor: Running task 0.0 in stage 0.0 (TID 0)
+26/10/14 12:22:58 INFO CodeGenerator: Code generated in 26.951561 ms
+26/10/14 12:22:58 INFO Executor: Finished task 0.0 in stage 0.0 (TID 0). 1885 bytes result sent to driver
+26/10/14 12:22:58 INFO TaskSetManager: Finished task 0.0 in stage 0.0 (TID 0) in 97 ms on 4f0bf387cd27 (executor driver) (1/1)
+26/10/14 12:22:58 INFO TaskSchedulerImpl: Removed TaskSet 0.0, whose tasks have all completed, from pool default
+26/10/14 12:22:58 INFO DAGScheduler: ShuffleMapStage 0 (count at <unknown>:0) finished in 0.210 s
+26/10/14 12:22:58 INFO DAGScheduler: looking for newly runnable stages
+26/10/14 12:22:58 INFO DAGScheduler: running: Set()
+26/10/14 12:22:58 INFO DAGScheduler: waiting: Set()
+26/10/14 12:22:58 INFO DAGScheduler: failed: Set()
+26/10/14 12:22:58 INFO CodeGenerator: Code generated in 12.005376 ms
+26/10/14 12:22:58 INFO BlockManagerInfo: Removed broadcast_0_piece0 on 4f0bf387cd27:40107 in memory (size: 6.2 KiB, free: 434.4 MiB)
+26/10/14 12:22:58 INFO SparkContext: Starting job: count at <unknown>:0
+26/10/14 12:22:58 INFO DAGScheduler: Got job 1 (count at <unknown>:0) with 1 output partitions
+26/10/14 12:22:58 INFO DAGScheduler: Final stage: ResultStage 2 (count at <unknown>:0)
+26/10/14 12:22:58 INFO DAGScheduler: Parents of final stage: List(ShuffleMapStage 1)
+26/10/14 12:22:58 INFO DAGScheduler: Missing parents: List()
+26/10/14 12:22:58 INFO DAGScheduler: Submitting ResultStage 2 (MapPartitionsRDD[5] at count at <unknown>:0), which has no missing parents
+26/10/14 12:22:58 INFO MemoryStore: Block broadcast_1 stored as values in memory (estimated size 13.7 KiB, free 434.4 MiB)
+26/10/14 12:22:58 INFO MemoryStore: Block broadcast_1_piece0 stored as bytes in memory (estimated size 6.3 KiB, free 434.4 MiB)
+26/10/14 12:22:58 INFO BlockManagerInfo: Added broadcast_1_piece0 in memory on 4f0bf387cd27:40107 (size: 6.3 KiB, free: 434.4 MiB)
+26/10/14 12:22:58 INFO SparkContext: Created broadcast 1 from broadcast at DAGScheduler.scala:1585
+26/10/14 12:22:58 INFO DAGScheduler: Submitting 1 missing tasks from ResultStage 2 (MapPartitionsRDD[5] at count at <unknown>:0) (first 15 tasks are for partitions Vector(0))
+26/10/14 12:22:58 INFO TaskSchedulerImpl: Adding task set 2.0 with 1 tasks resource profile 0
+26/10/14 12:22:58 INFO FairSchedulableBuilder: Added task set TaskSet_2.0 tasks to pool default
+26/10/14 12:22:58 INFO TaskSetManager: Starting task 0.0 in stage 2.0 (TID 1) (4f0bf387cd27, executor driver, partition 0, NODE_LOCAL, 9301 bytes)
+26/10/14 12:22:58 INFO Executor: Running task 0.0 in stage 2.0 (TID 1)
+26/10/14 12:22:58 INFO ShuffleBlockFetcherIterator: Getting 1 (60.0 B) non-empty blocks including 1 (60.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+26/10/14 12:22:58 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 5 ms
+26/10/14 12:22:58 INFO CodeGenerator: Code generated in 9.397062 ms
+26/10/14 12:22:58 INFO Executor: Finished task 0.0 in stage 2.0 (TID 1). 4038 bytes result sent to driver
+26/10/14 12:22:58 INFO TaskSetManager: Finished task 0.0 in stage 2.0 (TID 1) in 49 ms on 4f0bf387cd27 (executor driver) (1/1)
+26/10/14 12:22:58 INFO DAGScheduler: ResultStage 2 (count at <unknown>:0) finished in 0.057 s
+26/10/14 12:22:58 INFO TaskSchedulerImpl: Removed TaskSet 2.0, whose tasks have all completed, from pool default
+26/10/14 12:22:58 INFO DAGScheduler: Job 1 is finished. Cancelling potential speculative or zombie tasks for this job
+26/10/14 12:22:58 INFO TaskSchedulerImpl: Killing all running tasks in stage 2: Stage finished
+26/10/14 12:22:58 INFO DAGScheduler: Job 1 finished: count at <unknown>:0, took 0.066339 s
+Bronze customer: 150000 строк
+26/10/14 12:22:58 INFO CatalogUtil: Loading custom FileIO implementation: org.apache.iceberg.aws.s3.S3FileIO
+26/10/14 12:22:58 INFO SnapshotScan: Scanning table bronze.sf1.orders snapshot 4102614313762021900 created at 2026-10-14T12:08:17.051+00:00 with filter true
+26/10/14 12:22:58 INFO BaseDistributedDataScan: Planning file tasks locally for table bronze.sf1.orders
+26/10/14 12:22:58 INFO LoggingMetricsReporter: Received metrics report: ScanReport{tableName=bronze.sf1.orders, snapshotId=4102614313762021900, filter=true, schemaId=0, projectedFieldIds=[1, 2, 3, 4], projectedFieldNames=[orderkey, custkey, orderdate, totalprice], scanMetrics=ScanMetricsResult{totalPlanningDuration=TimerResult{timeUnit=NANOSECONDS, totalDuration=PT0.031937365S, count=1}, resultDataFiles=CounterResult{unit=COUNT, value=1}, resultDeleteFiles=CounterResult{unit=COUNT, value=0}, totalDataManifests=CounterResult{unit=COUNT, value=1}, totalDeleteManifests=CounterResult{unit=COUNT, value=0}, scannedDataManifests=CounterResult{unit=COUNT, value=1}, skippedDataManifests=CounterResult{unit=COUNT, value=0}, totalFileSizeInBytes=CounterResult{unit=BYTES, value=13512470}, totalDeleteFileSizeInBytes=CounterResult{unit=BYTES, value=0}, skippedDataFiles=CounterResult{unit=COUNT, value=0}, skippedDeleteFiles=CounterResult{unit=COUNT, value=0}, scannedDeleteManifests=CounterResult{unit=COUNT, value=0}, skippedDeleteManifests=CounterResult{unit=COUNT, value=0}, indexedDeleteFiles=CounterResult{unit=COUNT, value=0}, equalityDeleteFiles=CounterResult{unit=COUNT, value=0}, positionalDeleteFiles=CounterResult{unit=COUNT, value=0}}, metadata={engine-version=3.5.3, iceberg-version=Apache Iceberg 1.7.1 (commit 4a432839233f2343a9eae8255532f911f06358ef), app-id=local-1791980575220, engine-name=spark}}
+26/10/14 12:22:58 INFO V2ScanRelationPushDown:
+Pushing operators to bronze.sf1.orders
+Pushed Aggregate Functions:
+ COUNT(*)
+Pushed Group by:
+
+
+26/10/14 12:22:58 INFO DAGScheduler: Registering RDD 8 (count at <unknown>:0) as input to shuffle 1
+26/10/14 12:22:58 INFO DAGScheduler: Got map stage job 2 (count at <unknown>:0) with 1 output partitions
+26/10/14 12:22:58 INFO DAGScheduler: Final stage: ShuffleMapStage 3 (count at <unknown>:0)
+26/10/14 12:22:58 INFO DAGScheduler: Parents of final stage: List()
+26/10/14 12:22:58 INFO DAGScheduler: Missing parents: List()
+26/10/14 12:22:58 INFO DAGScheduler: Submitting ShuffleMapStage 3 (MapPartitionsRDD[8] at count at <unknown>:0), which has no missing parents
+26/10/14 12:22:58 INFO MemoryStore: Block broadcast_2 stored as values in memory (estimated size 12.6 KiB, free 434.4 MiB)
+26/10/14 12:22:58 INFO MemoryStore: Block broadcast_2_piece0 stored as bytes in memory (estimated size 6.2 KiB, free 434.4 MiB)
+26/10/14 12:22:58 INFO BlockManagerInfo: Added broadcast_2_piece0 in memory on 4f0bf387cd27:40107 (size: 6.2 KiB, free: 434.4 MiB)
+26/10/14 12:22:58 INFO SparkContext: Created broadcast 2 from broadcast at DAGScheduler.scala:1585
+26/10/14 12:22:58 INFO DAGScheduler: Submitting 1 missing tasks from ShuffleMapStage 3 (MapPartitionsRDD[8] at count at <unknown>:0) (first 15 tasks are for partitions Vector(0))
+26/10/14 12:22:58 INFO TaskSchedulerImpl: Adding task set 3.0 with 1 tasks resource profile 0
+26/10/14 12:22:58 INFO BlockManagerInfo: Removed broadcast_1_piece0 on 4f0bf387cd27:40107 in memory (size: 6.3 KiB, free: 434.4 MiB)
+26/10/14 12:22:58 INFO FairSchedulableBuilder: Added task set TaskSet_3.0 tasks to pool default
+26/10/14 12:22:58 INFO TaskSetManager: Starting task 0.0 in stage 3.0 (TID 2) (4f0bf387cd27, executor driver, partition 0, PROCESS_LOCAL, 9462 bytes)
+26/10/14 12:22:58 INFO Executor: Running task 0.0 in stage 3.0 (TID 2)
+26/10/14 12:22:58 INFO Executor: Finished task 0.0 in stage 3.0 (TID 2). 1842 bytes result sent to driver
+26/10/14 12:22:58 INFO TaskSetManager: Finished task 0.0 in stage 3.0 (TID 2) in 9 ms on 4f0bf387cd27 (executor driver) (1/1)
+26/10/14 12:22:58 INFO TaskSchedulerImpl: Removed TaskSet 3.0, whose tasks have all completed, from pool default
+26/10/14 12:22:58 INFO DAGScheduler: ShuffleMapStage 3 (count at <unknown>:0) finished in 0.020 s
+26/10/14 12:22:58 INFO DAGScheduler: looking for newly runnable stages
+26/10/14 12:22:58 INFO DAGScheduler: running: Set()
+26/10/14 12:22:58 INFO DAGScheduler: waiting: Set()
+26/10/14 12:22:58 INFO DAGScheduler: failed: Set()
+26/10/14 12:22:58 INFO SparkContext: Starting job: count at <unknown>:0
+26/10/14 12:22:58 INFO DAGScheduler: Got job 3 (count at <unknown>:0) with 1 output partitions
+26/10/14 12:22:58 INFO DAGScheduler: Final stage: ResultStage 5 (count at <unknown>:0)
+26/10/14 12:22:58 INFO DAGScheduler: Parents of final stage: List(ShuffleMapStage 4)
+26/10/14 12:22:58 INFO DAGScheduler: Missing parents: List()
+26/10/14 12:22:58 INFO DAGScheduler: Submitting ResultStage 5 (MapPartitionsRDD[11] at count at <unknown>:0), which has no missing parents
+26/10/14 12:22:58 INFO MemoryStore: Block broadcast_3 stored as values in memory (estimated size 13.7 KiB, free 434.4 MiB)
+26/10/14 12:22:58 INFO MemoryStore: Block broadcast_3_piece0 stored as bytes in memory (estimated size 6.3 KiB, free 434.4 MiB)
+26/10/14 12:22:58 INFO BlockManagerInfo: Added broadcast_3_piece0 in memory on 4f0bf387cd27:40107 (size: 6.3 KiB, free: 434.4 MiB)
+26/10/14 12:22:58 INFO SparkContext: Created broadcast 3 from broadcast at DAGScheduler.scala:1585
+26/10/14 12:22:58 INFO DAGScheduler: Submitting 1 missing tasks from ResultStage 5 (MapPartitionsRDD[11] at count at <unknown>:0) (first 15 tasks are for partitions Vector(0))
+26/10/14 12:22:58 INFO TaskSchedulerImpl: Adding task set 5.0 with 1 tasks resource profile 0
+26/10/14 12:22:58 INFO FairSchedulableBuilder: Added task set TaskSet_5.0 tasks to pool default
+26/10/14 12:22:58 INFO TaskSetManager: Starting task 0.0 in stage 5.0 (TID 3) (4f0bf387cd27, executor driver, partition 0, NODE_LOCAL, 9301 bytes)
+26/10/14 12:22:58 INFO Executor: Running task 0.0 in stage 5.0 (TID 3)
+26/10/14 12:22:58 INFO BlockManagerInfo: Removed broadcast_2_piece0 on 4f0bf387cd27:40107 in memory (size: 6.2 KiB, free: 434.4 MiB)
+26/10/14 12:22:58 INFO ShuffleBlockFetcherIterator: Getting 1 (60.0 B) non-empty blocks including 1 (60.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+26/10/14 12:22:58 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+26/10/14 12:22:58 INFO Executor: Finished task 0.0 in stage 5.0 (TID 3). 3995 bytes result sent to driver
+26/10/14 12:22:58 INFO TaskSetManager: Finished task 0.0 in stage 5.0 (TID 3) in 8 ms on 4f0bf387cd27 (executor driver) (1/1)
+26/10/14 12:22:58 INFO TaskSchedulerImpl: Removed TaskSet 5.0, whose tasks have all completed, from pool default
+26/10/14 12:22:58 INFO DAGScheduler: ResultStage 5 (count at <unknown>:0) finished in 0.019 s
+26/10/14 12:22:58 INFO DAGScheduler: Job 3 is finished. Cancelling potential speculative or zombie tasks for this job
+26/10/14 12:22:58 INFO TaskSchedulerImpl: Killing all running tasks in stage 5: Stage finished
+26/10/14 12:22:58 INFO DAGScheduler: Job 3 finished: count at <unknown>:0, took 0.022236 s
+Bronze orders: 1500000 строк
+26/10/14 12:22:58 INFO CatalogUtil: Loading custom FileIO implementation: org.apache.iceberg.aws.s3.S3FileIO
+26/10/14 12:22:58 INFO SnapshotScan: Scanning table bronze.sf1.lineitem snapshot 6683828039836980407 created at 2026-10-14T12:08:19.837+00:00 with filter true
+26/10/14 12:22:58 INFO BaseDistributedDataScan: Planning file tasks locally for table bronze.sf1.lineitem
+26/10/14 12:22:58 INFO LoggingMetricsReporter: Received metrics report: ScanReport{tableName=bronze.sf1.lineitem, snapshotId=6683828039836980407, filter=true, schemaId=0, projectedFieldIds=[1, 2, 3], projectedFieldNames=[orderkey, linenumber, quantity], scanMetrics=ScanMetricsResult{totalPlanningDuration=TimerResult{timeUnit=NANOSECONDS, totalDuration=PT0.027223589S, count=1}, resultDataFiles=CounterResult{unit=COUNT, value=2}, resultDeleteFiles=CounterResult{unit=COUNT, value=0}, totalDataManifests=CounterResult{unit=COUNT, value=1}, totalDeleteManifests=CounterResult{unit=COUNT, value=0}, scannedDataManifests=CounterResult{unit=COUNT, value=1}, skippedDataManifests=CounterResult{unit=COUNT, value=0}, totalFileSizeInBytes=CounterResult{unit=BYTES, value=8393337}, totalDeleteFileSizeInBytes=CounterResult{unit=BYTES, value=0}, skippedDataFiles=CounterResult{unit=COUNT, value=0}, skippedDeleteFiles=CounterResult{unit=COUNT, value=0}, scannedDeleteManifests=CounterResult{unit=COUNT, value=0}, skippedDeleteManifests=CounterResult{unit=COUNT, value=0}, indexedDeleteFiles=CounterResult{unit=COUNT, value=0}, equalityDeleteFiles=CounterResult{unit=COUNT, value=0}, positionalDeleteFiles=CounterResult{unit=COUNT, value=0}}, metadata={engine-version=3.5.3, iceberg-version=Apache Iceberg 1.7.1 (commit 4a432839233f2343a9eae8255532f911f06358ef), app-id=local-1791980575220, engine-name=spark}}
+26/10/14 12:22:58 INFO V2ScanRelationPushDown:
+Pushing operators to bronze.sf1.lineitem
+Pushed Aggregate Functions:
+ COUNT(*)
+Pushed Group by:
+
+
+26/10/14 12:22:58 INFO DAGScheduler: Registering RDD 14 (count at <unknown>:0) as input to shuffle 2
+26/10/14 12:22:58 INFO DAGScheduler: Got map stage job 4 (count at <unknown>:0) with 1 output partitions
+26/10/14 12:22:58 INFO DAGScheduler: Final stage: ShuffleMapStage 6 (count at <unknown>:0)
+26/10/14 12:22:58 INFO DAGScheduler: Parents of final stage: List()
+26/10/14 12:22:58 INFO DAGScheduler: Missing parents: List()
+26/10/14 12:22:58 INFO DAGScheduler: Submitting ShuffleMapStage 6 (MapPartitionsRDD[14] at count at <unknown>:0), which has no missing parents
+26/10/14 12:22:58 INFO MemoryStore: Block broadcast_4 stored as values in memory (estimated size 12.6 KiB, free 434.4 MiB)
+26/10/14 12:22:58 INFO MemoryStore: Block broadcast_4_piece0 stored as bytes in memory (estimated size 6.2 KiB, free 434.4 MiB)
+26/10/14 12:22:58 INFO BlockManagerInfo: Added broadcast_4_piece0 in memory on 4f0bf387cd27:40107 (size: 6.2 KiB, free: 434.4 MiB)
+26/10/14 12:22:58 INFO SparkContext: Created broadcast 4 from broadcast at DAGScheduler.scala:1585
+26/10/14 12:22:58 INFO DAGScheduler: Submitting 1 missing tasks from ShuffleMapStage 6 (MapPartitionsRDD[14] at count at <unknown>:0) (first 15 tasks are for partitions Vector(0))
+26/10/14 12:22:58 INFO TaskSchedulerImpl: Adding task set 6.0 with 1 tasks resource profile 0
+26/10/14 12:22:58 INFO FairSchedulableBuilder: Added task set TaskSet_6.0 tasks to pool default
+26/10/14 12:22:58 INFO TaskSetManager: Starting task 0.0 in stage 6.0 (TID 4) (4f0bf387cd27, executor driver, partition 0, PROCESS_LOCAL, 9462 bytes)
+26/10/14 12:22:58 INFO Executor: Running task 0.0 in stage 6.0 (TID 4)
+26/10/14 12:22:58 INFO BlockManagerInfo: Removed broadcast_3_piece0 on 4f0bf387cd27:40107 in memory (size: 6.3 KiB, free: 434.4 MiB)
+26/10/14 12:22:58 INFO Executor: Finished task 0.0 in stage 6.0 (TID 4). 1842 bytes result sent to driver
+26/10/14 12:22:58 INFO TaskSetManager: Finished task 0.0 in stage 6.0 (TID 4) in 9 ms on 4f0bf387cd27 (executor driver) (1/1)
+26/10/14 12:22:58 INFO TaskSchedulerImpl: Removed TaskSet 6.0, whose tasks have all completed, from pool default
+26/10/14 12:22:58 INFO DAGScheduler: ShuffleMapStage 6 (count at <unknown>:0) finished in 0.019 s
+26/10/14 12:22:58 INFO DAGScheduler: looking for newly runnable stages
+26/10/14 12:22:58 INFO DAGScheduler: running: Set()
+26/10/14 12:22:58 INFO DAGScheduler: waiting: Set()
+26/10/14 12:22:58 INFO DAGScheduler: failed: Set()
+26/10/14 12:22:58 INFO SparkContext: Starting job: count at <unknown>:0
+26/10/14 12:22:58 INFO DAGScheduler: Got job 5 (count at <unknown>:0) with 1 output partitions
+26/10/14 12:22:58 INFO DAGScheduler: Final stage: ResultStage 8 (count at <unknown>:0)
+26/10/14 12:22:58 INFO DAGScheduler: Parents of final stage: List(ShuffleMapStage 7)
+26/10/14 12:22:58 INFO DAGScheduler: Missing parents: List()
+26/10/14 12:22:58 INFO DAGScheduler: Submitting ResultStage 8 (MapPartitionsRDD[17] at count at <unknown>:0), which has no missing parents
+26/10/14 12:22:58 INFO MemoryStore: Block broadcast_5 stored as values in memory (estimated size 13.7 KiB, free 434.4 MiB)
+26/10/14 12:22:58 INFO MemoryStore: Block broadcast_5_piece0 stored as bytes in memory (estimated size 6.3 KiB, free 434.4 MiB)
+26/10/14 12:22:58 INFO BlockManagerInfo: Added broadcast_5_piece0 in memory on 4f0bf387cd27:40107 (size: 6.3 KiB, free: 434.4 MiB)
+26/10/14 12:22:58 INFO SparkContext: Created broadcast 5 from broadcast at DAGScheduler.scala:1585
+26/10/14 12:22:58 INFO DAGScheduler: Submitting 1 missing tasks from ResultStage 8 (MapPartitionsRDD[17] at count at <unknown>:0) (first 15 tasks are for partitions Vector(0))
+26/10/14 12:22:58 INFO TaskSchedulerImpl: Adding task set 8.0 with 1 tasks resource profile 0
+26/10/14 12:22:58 INFO FairSchedulableBuilder: Added task set TaskSet_8.0 tasks to pool default
+26/10/14 12:22:58 INFO BlockManagerInfo: Removed broadcast_4_piece0 on 4f0bf387cd27:40107 in memory (size: 6.2 KiB, free: 434.4 MiB)
+26/10/14 12:22:58 INFO TaskSetManager: Starting task 0.0 in stage 8.0 (TID 5) (4f0bf387cd27, executor driver, partition 0, NODE_LOCAL, 9301 bytes)
+26/10/14 12:22:58 INFO Executor: Running task 0.0 in stage 8.0 (TID 5)
+26/10/14 12:22:58 INFO ShuffleBlockFetcherIterator: Getting 1 (60.0 B) non-empty blocks including 1 (60.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+26/10/14 12:22:58 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+26/10/14 12:22:58 INFO Executor: Finished task 0.0 in stage 8.0 (TID 5). 3995 bytes result sent to driver
+26/10/14 12:22:58 INFO TaskSetManager: Finished task 0.0 in stage 8.0 (TID 5) in 8 ms on 4f0bf387cd27 (executor driver) (1/1)
+26/10/14 12:22:58 INFO DAGScheduler: ResultStage 8 (count at <unknown>:0) finished in 0.019 s
+26/10/14 12:22:58 INFO DAGScheduler: Job 5 is finished. Cancelling potential speculative or zombie tasks for this job
+26/10/14 12:22:58 INFO TaskSchedulerImpl: Removed TaskSet 8.0, whose tasks have all completed, from pool default
+26/10/14 12:22:58 INFO TaskSchedulerImpl: Killing all running tasks in stage 8: Stage finished
+26/10/14 12:22:58 INFO DAGScheduler: Job 5 finished: count at <unknown>:0, took 0.023286 s
+Bronze lineitem: 6001215 строк
+26/10/14 12:22:58 INFO V2ScanRelationPushDown:
+Output: orderkey#51L, linenumber#52, quantity#53
+
+26/10/14 12:22:58 INFO SnapshotScan: Scanning table bronze.sf1.lineitem snapshot 6683828039836980407 created at 2026-10-14T12:08:19.837+00:00 with filter true
+26/10/14 12:22:58 INFO BaseDistributedDataScan: Planning file tasks locally for table bronze.sf1.lineitem
+26/10/14 12:22:58 INFO LoggingMetricsReporter: Received metrics report: ScanReport{tableName=bronze.sf1.lineitem, snapshotId=6683828039836980407, filter=true, schemaId=0, projectedFieldIds=[1, 2, 3], projectedFieldNames=[orderkey, linenumber, quantity], scanMetrics=ScanMetricsResult{totalPlanningDuration=TimerResult{timeUnit=NANOSECONDS, totalDuration=PT0.010537819S, count=1}, resultDataFiles=CounterResult{unit=COUNT, value=2}, resultDeleteFiles=CounterResult{unit=COUNT, value=0}, totalDataManifests=CounterResult{unit=COUNT, value=1}, totalDeleteManifests=CounterResult{unit=COUNT, value=0}, scannedDataManifests=CounterResult{unit=COUNT, value=1}, skippedDataManifests=CounterResult{unit=COUNT, value=0}, totalFileSizeInBytes=CounterResult{unit=BYTES, value=8393337}, totalDeleteFileSizeInBytes=CounterResult{unit=BYTES, value=0}, skippedDataFiles=CounterResult{unit=COUNT, value=0}, skippedDeleteFiles=CounterResult{unit=COUNT, value=0}, scannedDeleteManifests=CounterResult{unit=COUNT, value=0}, skippedDeleteManifests=CounterResult{unit=COUNT, value=0}, indexedDeleteFiles=CounterResult{unit=COUNT, value=0}, equalityDeleteFiles=CounterResult{unit=COUNT, value=0}, positionalDeleteFiles=CounterResult{unit=COUNT, value=0}}, metadata={engine-version=3.5.3, iceberg-version=Apache Iceberg 1.7.1 (commit 4a432839233f2343a9eae8255532f911f06358ef), app-id=local-1791980575220, engine-name=spark}}
+26/10/14 12:22:58 INFO SparkPartitioningAwareScan: Reporting UnknownPartitioning with 1 partition(s) for table bronze.sf1.lineitem
+26/10/14 12:22:58 INFO MemoryStore: Block broadcast_6 stored as values in memory (estimated size 32.0 KiB, free 434.3 MiB)
+26/10/14 12:22:58 INFO MemoryStore: Block broadcast_6_piece0 stored as bytes in memory (estimated size 3.9 KiB, free 434.3 MiB)
+26/10/14 12:22:58 INFO BlockManagerInfo: Added broadcast_6_piece0 in memory on 4f0bf387cd27:40107 (size: 3.9 KiB, free: 434.4 MiB)
+26/10/14 12:22:58 INFO BlockManagerInfo: Removed broadcast_5_piece0 on 4f0bf387cd27:40107 in memory (size: 6.3 KiB, free: 434.4 MiB)
+26/10/14 12:22:58 INFO SparkContext: Created broadcast 6 from broadcast at SparkBatch.java:79
+26/10/14 12:22:58 INFO MemoryStore: Block broadcast_7 stored as values in memory (estimated size 32.0 KiB, free 434.3 MiB)
+26/10/14 12:22:58 INFO MemoryStore: Block broadcast_7_piece0 stored as bytes in memory (estimated size 3.9 KiB, free 434.3 MiB)
+26/10/14 12:22:58 INFO BlockManagerInfo: Added broadcast_7_piece0 in memory on 4f0bf387cd27:40107 (size: 3.9 KiB, free: 434.4 MiB)
+26/10/14 12:22:58 INFO SparkContext: Created broadcast 7 from broadcast at SparkBatch.java:79
+26/10/14 12:22:58 INFO CodeGenerator: Code generated in 9.571369 ms
+26/10/14 12:22:58 INFO CodeGenerator: Code generated in 9.922747 ms
+26/10/14 12:22:58 INFO SparkContext: Starting job: showString at <unknown>:0
+26/10/14 12:22:59 INFO DAGScheduler: Got job 6 (showString at <unknown>:0) with 1 output partitions
+26/10/14 12:22:59 INFO DAGScheduler: Final stage: ResultStage 9 (showString at <unknown>:0)
+26/10/14 12:22:59 INFO DAGScheduler: Parents of final stage: List()
+26/10/14 12:22:59 INFO DAGScheduler: Missing parents: List()
+26/10/14 12:22:59 INFO DAGScheduler: Submitting ResultStage 9 (MapPartitionsRDD[22] at showString at <unknown>:0), which has no missing parents
+26/10/14 12:22:59 INFO MemoryStore: Block broadcast_8 stored as values in memory (estimated size 17.1 KiB, free 434.3 MiB)
+26/10/14 12:22:59 INFO MemoryStore: Block broadcast_8_piece0 stored as bytes in memory (estimated size 6.8 KiB, free 434.3 MiB)
+26/10/14 12:22:59 INFO BlockManagerInfo: Added broadcast_8_piece0 in memory on 4f0bf387cd27:40107 (size: 6.8 KiB, free: 434.4 MiB)
+26/10/14 12:22:59 INFO SparkContext: Created broadcast 8 from broadcast at DAGScheduler.scala:1585
+26/10/14 12:22:59 INFO DAGScheduler: Submitting 1 missing tasks from ResultStage 9 (MapPartitionsRDD[22] at showString at <unknown>:0) (first 15 tasks are for partitions Vector(0))
+26/10/14 12:22:59 INFO TaskSchedulerImpl: Adding task set 9.0 with 1 tasks resource profile 0
+26/10/14 12:22:59 INFO FairSchedulableBuilder: Added task set TaskSet_9.0 tasks to pool default
+26/10/14 12:22:59 INFO TaskSetManager: Starting task 0.0 in stage 9.0 (TID 6) (4f0bf387cd27, executor driver, partition 0, PROCESS_LOCAL, 14076 bytes)
+26/10/14 12:22:59 INFO Executor: Running task 0.0 in stage 9.0 (TID 6)
+26/10/14 12:22:59 INFO CodeGenerator: Code generated in 4.438134 ms
+26/10/14 12:22:59 INFO CodeGenerator: Code generated in 9.491594 ms
+26/10/14 12:22:59 INFO VectorizedSparkParquetReaders: Enabling arrow.enable_unsafe_memory_access
+26/10/14 12:22:59 INFO VectorizedSparkParquetReaders: Disabling arrow.enable_null_check_for_get
+26/10/14 12:22:59 INFO BaseAllocator: Debug mode disabled. Enable with the VM option -Darrow.memory.debug.allocator=true.
+26/10/14 12:22:59 INFO DefaultAllocationManagerOption: allocation manager type not specified, using netty as the default type
+26/10/14 12:22:59 INFO CheckAllocator: Using DefaultAllocationManager at memory/DefaultAllocationManagerFactory.class
+26/10/14 12:22:59 INFO CodecPool: Got brand-new decompressor [.zstd]
+26/10/14 12:22:59 INFO CodecPool: Got brand-new decompressor [.zstd]
+26/10/14 12:22:59 INFO Executor: Finished task 0.0 in stage 9.0 (TID 6). 4993 bytes result sent to driver
+26/10/14 12:22:59 INFO TaskSetManager: Finished task 0.0 in stage 9.0 (TID 6) in 690 ms on 4f0bf387cd27 (executor driver) (1/1)
+26/10/14 12:22:59 INFO TaskSchedulerImpl: Removed TaskSet 9.0, whose tasks have all completed, from pool default
+26/10/14 12:22:59 INFO DAGScheduler: ResultStage 9 (showString at <unknown>:0) finished in 0.701 s
+26/10/14 12:22:59 INFO DAGScheduler: Job 6 is finished. Cancelling potential speculative or zombie tasks for this job
+26/10/14 12:22:59 INFO TaskSchedulerImpl: Killing all running tasks in stage 9: Stage finished
+26/10/14 12:22:59 INFO DAGScheduler: Job 6 finished: showString at <unknown>:0, took 0.908429 s
+26/10/14 12:22:59 INFO CodeGenerator: Code generated in 8.063245 ms
+26/10/14 12:23:00 INFO CodeGenerator: Code generated in 5.604363 ms
++--------+----------+--------+
+|orderkey|linenumber|quantity|
++--------+----------+--------+
+|1       |1         |17.0    |
+|1       |2         |36.0    |
+|1       |3         |8.0     |
+|1       |4         |28.0    |
+|1       |5         |24.0    |
+|1       |6         |32.0    |
+|2       |1         |38.0    |
+|3       |1         |45.0    |
+|3       |2         |49.0    |
+|3       |3         |27.0    |
++--------+----------+--------+
+only showing top 10 rows
+
+26/10/14 12:23:00 INFO SparkScanBuilder: Skipping aggregate pushdown: group by aggregation push down is not supported
+26/10/14 12:23:00 INFO V2ScanRelationPushDown:
+Output: orderkey#89L, quantity#91
+
+26/10/14 12:23:00 INFO SnapshotScan: Scanning table bronze.sf1.lineitem snapshot 6683828039836980407 created at 2026-10-14T12:08:19.837+00:00 with filter true
+26/10/14 12:23:00 INFO BaseDistributedDataScan: Planning file tasks locally for table bronze.sf1.lineitem
+26/10/14 12:23:00 INFO LoggingMetricsReporter: Received metrics report: ScanReport{tableName=bronze.sf1.lineitem, snapshotId=6683828039836980407, filter=true, schemaId=0, projectedFieldIds=[1, 3], projectedFieldNames=[orderkey, quantity], scanMetrics=ScanMetricsResult{totalPlanningDuration=TimerResult{timeUnit=NANOSECONDS, totalDuration=PT0.008606451S, count=1}, resultDataFiles=CounterResult{unit=COUNT, value=2}, resultDeleteFiles=CounterResult{unit=COUNT, value=0}, totalDataManifests=CounterResult{unit=COUNT, value=1}, totalDeleteManifests=CounterResult{unit=COUNT, value=0}, scannedDataManifests=CounterResult{unit=COUNT, value=1}, skippedDataManifests=CounterResult{unit=COUNT, value=0}, totalFileSizeInBytes=CounterResult{unit=BYTES, value=8393337}, totalDeleteFileSizeInBytes=CounterResult{unit=BYTES, value=0}, skippedDataFiles=CounterResult{unit=COUNT, value=0}, skippedDeleteFiles=CounterResult{unit=COUNT, value=0}, scannedDeleteManifests=CounterResult{unit=COUNT, value=0}, skippedDeleteManifests=CounterResult{unit=COUNT, value=0}, indexedDeleteFiles=CounterResult{unit=COUNT, value=0}, equalityDeleteFiles=CounterResult{unit=COUNT, value=0}, positionalDeleteFiles=CounterResult{unit=COUNT, value=0}}, metadata={engine-version=3.5.3, iceberg-version=Apache Iceberg 1.7.1 (commit 4a432839233f2343a9eae8255532f911f06358ef), app-id=local-1791980575220, engine-name=spark}}
+26/10/14 12:23:00 INFO SparkPartitioningAwareScan: Reporting UnknownPartitioning with 1 partition(s) for table bronze.sf1.lineitem
+26/10/14 12:23:00 INFO V2ScanRelationPushDown:
+Pushing operators to bronze.sf1.customer
+Pushed Filters: custkey IS NOT NULL
+Post-Scan Filters: isnotnull(custkey#80L)
+
+26/10/14 12:23:00 INFO V2ScanRelationPushDown:
+Pushing operators to bronze.sf1.orders
+Pushed Filters: custkey IS NOT NULL, orderkey IS NOT NULL
+Post-Scan Filters: isnotnull(custkey#83L),isnotnull(orderkey#82L),orderkey#82L IN (list#79 [])
+
+26/10/14 12:23:00 INFO V2ScanRelationPushDown:
+Pushing operators to bronze.sf1.lineitem
+Pushed Filters: orderkey IS NOT NULL
+Post-Scan Filters: isnotnull(orderkey#86L),orderkey#86L IN (list#79 [])
+
+26/10/14 12:23:00 INFO V2ScanRelationPushDown:
+Output: custkey#80L, name#81
+
+26/10/14 12:23:00 INFO V2ScanRelationPushDown:
+Output: orderkey#82L, custkey#83L, orderdate#84, totalprice#85
+
+26/10/14 12:23:00 INFO V2ScanRelationPushDown:
+Output: orderkey#86L, quantity#88
+
+26/10/14 12:23:00 INFO SnapshotScan: Scanning table bronze.sf1.customer snapshot 2020214731526505611 created at 2026-10-14T12:08:15.096+00:00 with filter custkey IS NOT NULL
+26/10/14 12:23:00 INFO BaseDistributedDataScan: Planning file tasks locally for table bronze.sf1.customer
+26/10/14 12:23:00 INFO LoggingMetricsReporter: Received metrics report: ScanReport{tableName=bronze.sf1.customer, snapshotId=2020214731526505611, filter=not_null(ref(name="custkey")), schemaId=0, projectedFieldIds=[1, 2], projectedFieldNames=[custkey, name], scanMetrics=ScanMetricsResult{totalPlanningDuration=TimerResult{timeUnit=NANOSECONDS, totalDuration=PT0.016409915S, count=1}, resultDataFiles=CounterResult{unit=COUNT, value=1}, resultDeleteFiles=CounterResult{unit=COUNT, value=0}, totalDataManifests=CounterResult{unit=COUNT, value=1}, totalDeleteManifests=CounterResult{unit=COUNT, value=0}, scannedDataManifests=CounterResult{unit=COUNT, value=1}, skippedDataManifests=CounterResult{unit=COUNT, value=0}, totalFileSizeInBytes=CounterResult{unit=BYTES, value=243571}, totalDeleteFileSizeInBytes=CounterResult{unit=BYTES, value=0}, skippedDataFiles=CounterResult{unit=COUNT, value=0}, skippedDeleteFiles=CounterResult{unit=COUNT, value=0}, scannedDeleteManifests=CounterResult{unit=COUNT, value=0}, skippedDeleteManifests=CounterResult{unit=COUNT, value=0}, indexedDeleteFiles=CounterResult{unit=COUNT, value=0}, equalityDeleteFiles=CounterResult{unit=COUNT, value=0}, positionalDeleteFiles=CounterResult{unit=COUNT, value=0}}, metadata={engine-version=3.5.3, iceberg-version=Apache Iceberg 1.7.1 (commit 4a432839233f2343a9eae8255532f911f06358ef), app-id=local-1791980575220, engine-name=spark}}
+26/10/14 12:23:00 INFO SparkPartitioningAwareScan: Reporting UnknownPartitioning with 1 partition(s) for table bronze.sf1.customer
+26/10/14 12:23:00 INFO SnapshotScan: Scanning table bronze.sf1.orders snapshot 4102614313762021900 created at 2026-10-14T12:08:17.051+00:00 with filter (custkey IS NOT NULL AND orderkey IS NOT NULL)
+26/10/14 12:23:00 INFO BaseDistributedDataScan: Planning file tasks locally for table bronze.sf1.orders
+26/10/14 12:23:00 INFO LoggingMetricsReporter: Received metrics report: ScanReport{tableName=bronze.sf1.orders, snapshotId=4102614313762021900, filter=(not_null(ref(name="custkey")) and not_null(ref(name="orderkey"))), schemaId=0, projectedFieldIds=[1, 2, 3, 4], projectedFieldNames=[orderkey, custkey, orderdate, totalprice], scanMetrics=ScanMetricsResult{totalPlanningDuration=TimerResult{timeUnit=NANOSECONDS, totalDuration=PT0.008930145S, count=1}, resultDataFiles=CounterResult{unit=COUNT, value=1}, resultDeleteFiles=CounterResult{unit=COUNT, value=0}, totalDataManifests=CounterResult{unit=COUNT, value=1}, totalDeleteManifests=CounterResult{unit=COUNT, value=0}, scannedDataManifests=CounterResult{unit=COUNT, value=1}, skippedDataManifests=CounterResult{unit=COUNT, value=0}, totalFileSizeInBytes=CounterResult{unit=BYTES, value=13512470}, totalDeleteFileSizeInBytes=CounterResult{unit=BYTES, value=0}, skippedDataFiles=CounterResult{unit=COUNT, value=0}, skippedDeleteFiles=CounterResult{unit=COUNT, value=0}, scannedDeleteManifests=CounterResult{unit=COUNT, value=0}, skippedDeleteManifests=CounterResult{unit=COUNT, value=0}, indexedDeleteFiles=CounterResult{unit=COUNT, value=0}, equalityDeleteFiles=CounterResult{unit=COUNT, value=0}, positionalDeleteFiles=CounterResult{unit=COUNT, value=0}}, metadata={engine-version=3.5.3, iceberg-version=Apache Iceberg 1.7.1 (commit 4a432839233f2343a9eae8255532f911f06358ef), app-id=local-1791980575220, engine-name=spark}}
+26/10/14 12:23:00 INFO SparkPartitioningAwareScan: Reporting UnknownPartitioning with 1 partition(s) for table bronze.sf1.orders
+26/10/14 12:23:00 INFO SnapshotScan: Scanning table bronze.sf1.lineitem snapshot 6683828039836980407 created at 2026-10-14T12:08:19.837+00:00 with filter orderkey IS NOT NULL
+26/10/14 12:23:00 INFO BaseDistributedDataScan: Planning file tasks locally for table bronze.sf1.lineitem
+26/10/14 12:23:00 INFO LoggingMetricsReporter: Received metrics report: ScanReport{tableName=bronze.sf1.lineitem, snapshotId=6683828039836980407, filter=not_null(ref(name="orderkey")), schemaId=0, projectedFieldIds=[1, 3], projectedFieldNames=[orderkey, quantity], scanMetrics=ScanMetricsResult{totalPlanningDuration=TimerResult{timeUnit=NANOSECONDS, totalDuration=PT0.008174276S, count=1}, resultDataFiles=CounterResult{unit=COUNT, value=2}, resultDeleteFiles=CounterResult{unit=COUNT, value=0}, totalDataManifests=CounterResult{unit=COUNT, value=1}, totalDeleteManifests=CounterResult{unit=COUNT, value=0}, scannedDataManifests=CounterResult{unit=COUNT, value=1}, skippedDataManifests=CounterResult{unit=COUNT, value=0}, totalFileSizeInBytes=CounterResult{unit=BYTES, value=8393337}, totalDeleteFileSizeInBytes=CounterResult{unit=BYTES, value=0}, skippedDataFiles=CounterResult{unit=COUNT, value=0}, skippedDeleteFiles=CounterResult{unit=COUNT, value=0}, scannedDeleteManifests=CounterResult{unit=COUNT, value=0}, skippedDeleteManifests=CounterResult{unit=COUNT, value=0}, indexedDeleteFiles=CounterResult{unit=COUNT, value=0}, equalityDeleteFiles=CounterResult{unit=COUNT, value=0}, positionalDeleteFiles=CounterResult{unit=COUNT, value=0}}, metadata={engine-version=3.5.3, iceberg-version=Apache Iceberg 1.7.1 (commit 4a432839233f2343a9eae8255532f911f06358ef), app-id=local-1791980575220, engine-name=spark}}
+26/10/14 12:23:00 INFO SparkPartitioningAwareScan: Reporting UnknownPartitioning with 1 partition(s) for table bronze.sf1.lineitem
+26/10/14 12:23:00 INFO MemoryStore: Block broadcast_9 stored as values in memory (estimated size 32.0 KiB, free 434.3 MiB)
+26/10/14 12:23:00 INFO MemoryStore: Block broadcast_9_piece0 stored as bytes in memory (estimated size 3.9 KiB, free 434.3 MiB)
+26/10/14 12:23:00 INFO BlockManagerInfo: Added broadcast_9_piece0 in memory on 4f0bf387cd27:40107 (size: 3.9 KiB, free: 434.4 MiB)
+26/10/14 12:23:00 INFO SparkContext: Created broadcast 9 from collect at /opt/spark/work/read_bronze.py:23
+26/10/14 12:23:00 INFO MemoryStore: Block broadcast_10 stored as values in memory (estimated size 32.0 KiB, free 434.2 MiB)
+26/10/14 12:23:00 INFO MemoryStore: Block broadcast_10_piece0 stored as bytes in memory (estimated size 3.9 KiB, free 434.2 MiB)
+26/10/14 12:23:00 INFO BlockManagerInfo: Added broadcast_10_piece0 in memory on 4f0bf387cd27:40107 (size: 3.9 KiB, free: 434.4 MiB)
+26/10/14 12:23:00 INFO SparkContext: Created broadcast 10 from collect at /opt/spark/work/read_bronze.py:23
+26/10/14 12:23:00 INFO MemoryStore: Block broadcast_11 stored as values in memory (estimated size 32.0 KiB, free 434.2 MiB)
+26/10/14 12:23:00 INFO MemoryStore: Block broadcast_11_piece0 stored as bytes in memory (estimated size 3.9 KiB, free 434.2 MiB)
+26/10/14 12:23:00 INFO BlockManagerInfo: Added broadcast_11_piece0 in memory on 4f0bf387cd27:40107 (size: 3.9 KiB, free: 434.4 MiB)
+26/10/14 12:23:00 INFO SparkContext: Created broadcast 11 from collect at /opt/spark/work/read_bronze.py:23
+26/10/14 12:23:00 INFO MemoryStore: Block broadcast_12 stored as values in memory (estimated size 32.0 KiB, free 434.2 MiB)
+26/10/14 12:23:00 INFO MemoryStore: Block broadcast_12_piece0 stored as bytes in memory (estimated size 3.9 KiB, free 434.2 MiB)
+26/10/14 12:23:00 INFO BlockManagerInfo: Added broadcast_12_piece0 in memory on 4f0bf387cd27:40107 (size: 3.9 KiB, free: 434.4 MiB)
+26/10/14 12:23:00 INFO SparkContext: Created broadcast 12 from collect at /opt/spark/work/read_bronze.py:23
+26/10/14 12:23:00 INFO MemoryStore: Block broadcast_13 stored as values in memory (estimated size 32.0 KiB, free 434.1 MiB)
+26/10/14 12:23:00 INFO MemoryStore: Block broadcast_13_piece0 stored as bytes in memory (estimated size 3.9 KiB, free 434.1 MiB)
+26/10/14 12:23:00 INFO BlockManagerInfo: Added broadcast_13_piece0 in memory on 4f0bf387cd27:40107 (size: 3.9 KiB, free: 434.4 MiB)
+26/10/14 12:23:00 INFO SparkContext: Created broadcast 13 from collect at /opt/spark/work/read_bronze.py:23
+26/10/14 12:23:00 INFO MemoryStore: Block broadcast_14 stored as values in memory (estimated size 32.0 KiB, free 434.1 MiB)
+26/10/14 12:23:00 INFO MemoryStore: Block broadcast_14_piece0 stored as bytes in memory (estimated size 3.9 KiB, free 434.1 MiB)
+26/10/14 12:23:00 INFO BlockManagerInfo: Added broadcast_14_piece0 in memory on 4f0bf387cd27:40107 (size: 3.9 KiB, free: 434.4 MiB)
+26/10/14 12:23:00 INFO SparkContext: Created broadcast 14 from collect at /opt/spark/work/read_bronze.py:23
+26/10/14 12:23:00 INFO MemoryStore: Block broadcast_15 stored as values in memory (estimated size 32.0 KiB, free 434.1 MiB)
+26/10/14 12:23:00 INFO MemoryStore: Block broadcast_15_piece0 stored as bytes in memory (estimated size 3.9 KiB, free 434.1 MiB)
+26/10/14 12:23:00 INFO BlockManagerInfo: Added broadcast_15_piece0 in memory on 4f0bf387cd27:40107 (size: 3.9 KiB, free: 434.4 MiB)
+26/10/14 12:23:00 INFO SparkContext: Created broadcast 15 from collect at /opt/spark/work/read_bronze.py:23
+26/10/14 12:23:00 INFO MemoryStore: Block broadcast_16 stored as values in memory (estimated size 32.0 KiB, free 434.0 MiB)
+26/10/14 12:23:00 INFO MemoryStore: Block broadcast_16_piece0 stored as bytes in memory (estimated size 3.9 KiB, free 434.0 MiB)
+26/10/14 12:23:00 INFO BlockManagerInfo: Added broadcast_16_piece0 in memory on 4f0bf387cd27:40107 (size: 3.9 KiB, free: 434.4 MiB)
+26/10/14 12:23:00 INFO SparkContext: Created broadcast 16 from collect at /opt/spark/work/read_bronze.py:23
+26/10/14 12:23:00 INFO BlockManagerInfo: Removed broadcast_6_piece0 on 4f0bf387cd27:40107 in memory (size: 3.9 KiB, free: 434.4 MiB)
+26/10/14 12:23:00 INFO BlockManagerInfo: Removed broadcast_8_piece0 on 4f0bf387cd27:40107 in memory (size: 6.8 KiB, free: 434.4 MiB)
+26/10/14 12:23:00 INFO BlockManagerInfo: Removed broadcast_7_piece0 on 4f0bf387cd27:40107 in memory (size: 3.9 KiB, free: 434.4 MiB)
+26/10/14 12:23:00 INFO MemoryStore: Block broadcast_17 stored as values in memory (estimated size 32.0 KiB, free 434.1 MiB)
+26/10/14 12:23:00 INFO MemoryStore: Block broadcast_17_piece0 stored as bytes in memory (estimated size 3.9 KiB, free 434.1 MiB)
+26/10/14 12:23:00 INFO BlockManagerInfo: Added broadcast_17_piece0 in memory on 4f0bf387cd27:40107 (size: 3.9 KiB, free: 434.4 MiB)
+26/10/14 12:23:00 INFO SparkContext: Created broadcast 17 from collect at /opt/spark/work/read_bronze.py:23
+26/10/14 12:23:00 INFO MemoryStore: Block broadcast_18 stored as values in memory (estimated size 32.0 KiB, free 434.1 MiB)
+26/10/14 12:23:00 INFO MemoryStore: Block broadcast_18_piece0 stored as bytes in memory (estimated size 3.9 KiB, free 434.0 MiB)
+26/10/14 12:23:00 INFO BlockManagerInfo: Added broadcast_18_piece0 in memory on 4f0bf387cd27:40107 (size: 3.9 KiB, free: 434.4 MiB)
+26/10/14 12:23:00 INFO SparkContext: Created broadcast 18 from collect at /opt/spark/work/read_bronze.py:23
+26/10/14 12:23:00 INFO CodeGenerator: Code generated in 10.090804 ms
+26/10/14 12:23:00 INFO CodeGenerator: Code generated in 10.713062 ms
+26/10/14 12:23:00 INFO DAGScheduler: Registering RDD 30 (collect at /opt/spark/work/read_bronze.py:23) as input to shuffle 3
+26/10/14 12:23:00 INFO DAGScheduler: Got map stage job 7 (collect at /opt/spark/work/read_bronze.py:23) with 1 output partitions
+26/10/14 12:23:00 INFO DAGScheduler: Final stage: ShuffleMapStage 10 (collect at /opt/spark/work/read_bronze.py:23)
+26/10/14 12:23:00 INFO DAGScheduler: Parents of final stage: List()
+26/10/14 12:23:00 INFO DAGScheduler: Missing parents: List()
+26/10/14 12:23:00 INFO DAGScheduler: Submitting ShuffleMapStage 10 (MapPartitionsRDD[30] at collect at /opt/spark/work/read_bronze.py:23), which has no missing parents
+26/10/14 12:23:00 INFO SparkContext: Starting job: collect at /opt/spark/work/read_bronze.py:23
+26/10/14 12:23:00 INFO MemoryStore: Block broadcast_19 stored as values in memory (estimated size 18.6 KiB, free 434.0 MiB)
+26/10/14 12:23:00 INFO MemoryStore: Block broadcast_19_piece0 stored as bytes in memory (estimated size 7.7 KiB, free 434.0 MiB)
+26/10/14 12:23:00 INFO BlockManagerInfo: Added broadcast_19_piece0 in memory on 4f0bf387cd27:40107 (size: 7.7 KiB, free: 434.4 MiB)
+26/10/14 12:23:00 INFO SparkContext: Created broadcast 19 from broadcast at DAGScheduler.scala:1585
+26/10/14 12:23:00 INFO DAGScheduler: Submitting 1 missing tasks from ShuffleMapStage 10 (MapPartitionsRDD[30] at collect at /opt/spark/work/read_bronze.py:23) (first 15 tasks are for partitions Vector(0))
+26/10/14 12:23:00 INFO TaskSchedulerImpl: Adding task set 10.0 with 1 tasks resource profile 0
+26/10/14 12:23:00 INFO FairSchedulableBuilder: Added task set TaskSet_10.0 tasks to pool default
+26/10/14 12:23:00 INFO DAGScheduler: Got job 8 (collect at /opt/spark/work/read_bronze.py:23) with 1 output partitions
+26/10/14 12:23:00 INFO DAGScheduler: Final stage: ResultStage 11 (collect at /opt/spark/work/read_bronze.py:23)
+26/10/14 12:23:00 INFO DAGScheduler: Parents of final stage: List()
+26/10/14 12:23:00 INFO DAGScheduler: Missing parents: List()
+26/10/14 12:23:00 INFO DAGScheduler: Submitting ResultStage 11 (MapPartitionsRDD[29] at collect at /opt/spark/work/read_bronze.py:23), which has no missing parents
+26/10/14 12:23:00 INFO MemoryStore: Block broadcast_20 stored as values in memory (estimated size 14.3 KiB, free 434.0 MiB)
+26/10/14 12:23:00 INFO MemoryStore: Block broadcast_20_piece0 stored as bytes in memory (estimated size 5.7 KiB, free 434.0 MiB)
+26/10/14 12:23:00 INFO TaskSetManager: Starting task 0.0 in stage 10.0 (TID 7) (4f0bf387cd27, executor driver, partition 0, PROCESS_LOCAL, 14243 bytes)
+26/10/14 12:23:00 INFO BlockManagerInfo: Added broadcast_20_piece0 in memory on 4f0bf387cd27:40107 (size: 5.7 KiB, free: 434.3 MiB)
+26/10/14 12:23:00 INFO SparkContext: Created broadcast 20 from broadcast at DAGScheduler.scala:1585
+26/10/14 12:23:00 INFO DAGScheduler: Submitting 1 missing tasks from ResultStage 11 (MapPartitionsRDD[29] at collect at /opt/spark/work/read_bronze.py:23) (first 15 tasks are for partitions Vector(0))
+26/10/14 12:23:00 INFO TaskSchedulerImpl: Adding task set 11.0 with 1 tasks resource profile 0
+26/10/14 12:23:00 INFO Executor: Running task 0.0 in stage 10.0 (TID 7)
+26/10/14 12:23:00 INFO FairSchedulableBuilder: Added task set TaskSet_11.0 tasks to pool default
+26/10/14 12:23:00 INFO TaskSetManager: Starting task 0.0 in stage 11.0 (TID 8) (4f0bf387cd27, executor driver, partition 0, PROCESS_LOCAL, 13907 bytes)
+26/10/14 12:23:00 INFO Executor: Running task 0.0 in stage 11.0 (TID 8)
+26/10/14 12:23:00 INFO CodeGenerator: Code generated in 8.200938 ms
+26/10/14 12:23:00 INFO CodeGenerator: Code generated in 13.570738 ms
+26/10/14 12:23:00 INFO CodeGenerator: Code generated in 6.905181 ms
+26/10/14 12:23:00 INFO CodeGenerator: Code generated in 42.412418 ms
+26/10/14 12:23:00 INFO DAGScheduler: Registering RDD 34 (collect at /opt/spark/work/read_bronze.py:23) as input to shuffle 4
+26/10/14 12:23:00 INFO DAGScheduler: Got map stage job 9 (collect at /opt/spark/work/read_bronze.py:23) with 1 output partitions
+26/10/14 12:23:00 INFO DAGScheduler: Final stage: ShuffleMapStage 12 (collect at /opt/spark/work/read_bronze.py:23)
+26/10/14 12:23:00 INFO DAGScheduler: Parents of final stage: List()
+26/10/14 12:23:00 INFO DAGScheduler: Missing parents: List()
+26/10/14 12:23:00 INFO DAGScheduler: Submitting ShuffleMapStage 12 (MapPartitionsRDD[34] at collect at /opt/spark/work/read_bronze.py:23), which has no missing parents
+26/10/14 12:23:00 INFO CodecPool: Got brand-new decompressor [.zstd]
+26/10/14 12:23:00 INFO MemoryStore: Block broadcast_21 stored as values in memory (estimated size 40.9 KiB, free 434.0 MiB)
+26/10/14 12:23:00 INFO MemoryStore: Block broadcast_21_piece0 stored as bytes in memory (estimated size 17.8 KiB, free 433.9 MiB)
+26/10/14 12:23:00 INFO BlockManagerInfo: Added broadcast_21_piece0 in memory on 4f0bf387cd27:40107 (size: 17.8 KiB, free: 434.3 MiB)
+26/10/14 12:23:00 INFO SparkContext: Created broadcast 21 from broadcast at DAGScheduler.scala:1585
+26/10/14 12:23:00 INFO DAGScheduler: Submitting 1 missing tasks from ShuffleMapStage 12 (MapPartitionsRDD[34] at collect at /opt/spark/work/read_bronze.py:23) (first 15 tasks are for partitions Vector(0))
+26/10/14 12:23:00 INFO TaskSchedulerImpl: Adding task set 12.0 with 1 tasks resource profile 0
+26/10/14 12:23:00 INFO FairSchedulableBuilder: Added task set TaskSet_12.0 tasks to pool default
+26/10/14 12:23:00 INFO CodeGenerator: Code generated in 17.672036 ms
+26/10/14 12:23:00 INFO CodecPool: Got brand-new decompressor [.zstd]
+26/10/14 12:23:00 INFO DAGScheduler: Registering RDD 38 (collect at /opt/spark/work/read_bronze.py:23) as input to shuffle 5
+26/10/14 12:23:00 INFO DAGScheduler: Got map stage job 10 (collect at /opt/spark/work/read_bronze.py:23) with 1 output partitions
+26/10/14 12:23:00 INFO DAGScheduler: Final stage: ShuffleMapStage 13 (collect at /opt/spark/work/read_bronze.py:23)
+26/10/14 12:23:00 INFO DAGScheduler: Parents of final stage: List()
+26/10/14 12:23:00 INFO DAGScheduler: Missing parents: List()
+26/10/14 12:23:00 INFO DAGScheduler: Submitting ShuffleMapStage 13 (MapPartitionsRDD[38] at collect at /opt/spark/work/read_bronze.py:23), which has no missing parents
+26/10/14 12:23:00 INFO MemoryStore: Block broadcast_22 stored as values in memory (estimated size 17.4 KiB, free 433.9 MiB)
+26/10/14 12:23:00 INFO MemoryStore: Block broadcast_22_piece0 stored as bytes in memory (estimated size 7.4 KiB, free 433.9 MiB)
+26/10/14 12:23:00 INFO BlockManagerInfo: Added broadcast_22_piece0 in memory on 4f0bf387cd27:40107 (size: 7.4 KiB, free: 434.3 MiB)
+26/10/14 12:23:00 INFO SparkContext: Created broadcast 22 from broadcast at DAGScheduler.scala:1585
+26/10/14 12:23:00 INFO DAGScheduler: Submitting 1 missing tasks from ShuffleMapStage 13 (MapPartitionsRDD[38] at collect at /opt/spark/work/read_bronze.py:23) (first 15 tasks are for partitions Vector(0))
+26/10/14 12:23:00 INFO TaskSchedulerImpl: Adding task set 13.0 with 1 tasks resource profile 0
+26/10/14 12:23:00 INFO FairSchedulableBuilder: Added task set TaskSet_13.0 tasks to pool default
+26/10/14 12:23:00 INFO MemoryStore: Block taskresult_8 stored as bytes in memory (estimated size 1373.6 KiB, free 432.6 MiB)
+26/10/14 12:23:00 INFO BlockManagerInfo: Added taskresult_8 in memory on 4f0bf387cd27:40107 (size: 1373.6 KiB, free: 433.0 MiB)
+26/10/14 12:23:00 INFO Executor: Finished task 0.0 in stage 11.0 (TID 8). 1406558 bytes result sent via BlockManager)
+26/10/14 12:23:00 INFO TaskSetManager: Starting task 0.0 in stage 12.0 (TID 9) (4f0bf387cd27, executor driver, partition 0, PROCESS_LOCAL, 14006 bytes)
+26/10/14 12:23:00 INFO Executor: Running task 0.0 in stage 12.0 (TID 9)
+26/10/14 12:23:00 INFO TransportClientFactory: Successfully created connection to 4f0bf387cd27/172.19.0.6:40107 after 3 ms (0 ms spent in bootstraps)
+26/10/14 12:23:00 INFO CodeGenerator: Code generated in 20.725408 ms
+26/10/14 12:23:00 INFO CodeGenerator: Code generated in 6.950554 ms
+26/10/14 12:23:00 INFO CodeGenerator: Code generated in 3.035682 ms
+26/10/14 12:23:00 INFO CodeGenerator: Code generated in 13.621427 ms
+26/10/14 12:23:00 INFO TaskSetManager: Finished task 0.0 in stage 11.0 (TID 8) in 237 ms on 4f0bf387cd27 (executor driver) (1/1)
+26/10/14 12:23:00 INFO TaskSchedulerImpl: Removed TaskSet 11.0, whose tasks have all completed, from pool default
+26/10/14 12:23:00 INFO DAGScheduler: ResultStage 11 (collect at /opt/spark/work/read_bronze.py:23) finished in 0.245 s
+26/10/14 12:23:00 INFO DAGScheduler: Job 8 is finished. Cancelling potential speculative or zombie tasks for this job
+26/10/14 12:23:00 INFO TaskSchedulerImpl: Killing all running tasks in stage 11: Stage finished
+26/10/14 12:23:00 INFO DAGScheduler: Job 8 finished: collect at /opt/spark/work/read_bronze.py:23, took 0.261799 s
+26/10/14 12:23:00 INFO CodeGenerator: Code generated in 13.682619 ms
+26/10/14 12:23:00 INFO BlockManagerInfo: Removed taskresult_8 on 4f0bf387cd27:40107 in memory (size: 1373.6 KiB, free: 434.3 MiB)
+26/10/14 12:23:00 INFO CodeGenerator: Code generated in 2.899903 ms
+26/10/14 12:23:00 INFO BlockManagerInfo: Removed broadcast_20_piece0 on 4f0bf387cd27:40107 in memory (size: 5.7 KiB, free: 434.3 MiB)
+26/10/14 12:23:00 INFO CodecPool: Got brand-new decompressor [.zstd]
+26/10/14 12:23:00 INFO MemoryStore: Block broadcast_23 stored as values in memory (estimated size 17.1 MiB, free 400.5 MiB)
+26/10/14 12:23:00 INFO MemoryStore: Block broadcast_23_piece0 stored as bytes in memory (estimated size 2.1 MiB, free 397.9 MiB)
+26/10/14 12:23:00 INFO BlockManagerInfo: Added broadcast_23_piece0 in memory on 4f0bf387cd27:40107 (size: 2.1 MiB, free: 432.2 MiB)
+26/10/14 12:23:00 INFO SparkContext: Created broadcast 23 from collect at /opt/spark/work/read_bronze.py:23
+26/10/14 12:23:00 INFO CodecPool: Got brand-new decompressor [.zstd]
+26/10/14 12:23:01 INFO Executor: Finished task 0.0 in stage 10.0 (TID 7). 4802 bytes result sent to driver
+26/10/14 12:23:01 INFO TaskSetManager: Starting task 0.0 in stage 13.0 (TID 10) (4f0bf387cd27, executor driver, partition 0, PROCESS_LOCAL, 14281 bytes)
+26/10/14 12:23:01 INFO Executor: Running task 0.0 in stage 13.0 (TID 10)
+26/10/14 12:23:01 INFO TaskSetManager: Finished task 0.0 in stage 10.0 (TID 7) in 706 ms on 4f0bf387cd27 (executor driver) (1/1)
+26/10/14 12:23:01 INFO TaskSchedulerImpl: Removed TaskSet 10.0, whose tasks have all completed, from pool default
+26/10/14 12:23:01 INFO DAGScheduler: ShuffleMapStage 10 (collect at /opt/spark/work/read_bronze.py:23) finished in 0.715 s
+26/10/14 12:23:01 INFO DAGScheduler: looking for newly runnable stages
+26/10/14 12:23:01 INFO DAGScheduler: running: Set(ShuffleMapStage 12, ShuffleMapStage 13)
+26/10/14 12:23:01 INFO DAGScheduler: waiting: Set()
+26/10/14 12:23:01 INFO DAGScheduler: failed: Set()
+26/10/14 12:23:01 INFO CodeGenerator: Code generated in 10.14549 ms
+26/10/14 12:23:01 INFO CodecPool: Got brand-new decompressor [.zstd]
+26/10/14 12:23:01 INFO BlockManagerInfo: Removed broadcast_19_piece0 on 4f0bf387cd27:40107 in memory (size: 7.7 KiB, free: 432.2 MiB)
+26/10/14 12:23:01 INFO CodecPool: Got brand-new decompressor [.zstd]
+26/10/14 12:23:01 INFO Executor: Finished task 0.0 in stage 12.0 (TID 9). 5291 bytes result sent to driver
+26/10/14 12:23:01 INFO TaskSetManager: Finished task 0.0 in stage 12.0 (TID 9) in 1230 ms on 4f0bf387cd27 (executor driver) (1/1)
+26/10/14 12:23:01 INFO TaskSchedulerImpl: Removed TaskSet 12.0, whose tasks have all completed, from pool default
+26/10/14 12:23:01 INFO DAGScheduler: ShuffleMapStage 12 (collect at /opt/spark/work/read_bronze.py:23) finished in 1.330 s
+26/10/14 12:23:01 INFO DAGScheduler: looking for newly runnable stages
+26/10/14 12:23:01 INFO DAGScheduler: running: Set(ShuffleMapStage 13)
+26/10/14 12:23:01 INFO DAGScheduler: waiting: Set()
+26/10/14 12:23:01 INFO DAGScheduler: failed: Set()
+26/10/14 12:23:02 INFO Executor: Finished task 0.0 in stage 13.0 (TID 10). 4845 bytes result sent to driver
+26/10/14 12:23:02 INFO TaskSetManager: Finished task 0.0 in stage 13.0 (TID 10) in 860 ms on 4f0bf387cd27 (executor driver) (1/1)
+26/10/14 12:23:02 INFO TaskSchedulerImpl: Removed TaskSet 13.0, whose tasks have all completed, from pool default
+26/10/14 12:23:02 INFO DAGScheduler: ShuffleMapStage 13 (collect at /opt/spark/work/read_bronze.py:23) finished in 1.455 s
+26/10/14 12:23:02 INFO DAGScheduler: looking for newly runnable stages
+26/10/14 12:23:02 INFO DAGScheduler: running: Set()
+26/10/14 12:23:02 INFO DAGScheduler: waiting: Set()
+26/10/14 12:23:02 INFO DAGScheduler: failed: Set()
+26/10/14 12:23:02 INFO ShufflePartitionsUtil: For shuffle(3, 4, 5, 4), advisory target size: 67108864, actual target size 48857352, minimum partition size: 1048576
+26/10/14 12:23:02 INFO BlockManagerInfo: Removed broadcast_21_piece0 on 4f0bf387cd27:40107 in memory (size: 17.8 KiB, free: 432.3 MiB)
+26/10/14 12:23:02 INFO CodeGenerator: Code generated in 4.09122 ms
+26/10/14 12:23:02 INFO HashAggregateExec: spark.sql.codegen.aggregate.map.twolevel.enabled is set to true, but current version of codegened fast hashmap does not support this aggregate.
+26/10/14 12:23:02 INFO CodeGenerator: Code generated in 23.347201 ms
+26/10/14 12:23:02 INFO CodeGenerator: Code generated in 6.320089 ms
+26/10/14 12:23:02 INFO CodeGenerator: Code generated in 4.69464 ms
+26/10/14 12:23:02 INFO HashAggregateExec: spark.sql.codegen.aggregate.map.twolevel.enabled is set to true, but current version of codegened fast hashmap does not support this aggregate.
+26/10/14 12:23:02 INFO CodeGenerator: Code generated in 9.576643 ms
+26/10/14 12:23:02 INFO CodeGenerator: Code generated in 4.651691 ms
+26/10/14 12:23:02 INFO CodeGenerator: Code generated in 3.536448 ms
+26/10/14 12:23:02 INFO HashAggregateExec: spark.sql.codegen.aggregate.map.twolevel.enabled is set to true, but current version of codegened fast hashmap does not support this aggregate.
+26/10/14 12:23:02 INFO CodeGenerator: Code generated in 9.228113 ms
+26/10/14 12:23:02 INFO SparkContext: Starting job: collect at /opt/spark/work/read_bronze.py:23
+26/10/14 12:23:02 INFO DAGScheduler: Got job 11 (collect at /opt/spark/work/read_bronze.py:23) with 2 output partitions
+26/10/14 12:23:02 INFO DAGScheduler: Final stage: ResultStage 17 (collect at /opt/spark/work/read_bronze.py:23)
+26/10/14 12:23:02 INFO DAGScheduler: Parents of final stage: List(ShuffleMapStage 15, ShuffleMapStage 16, ShuffleMapStage 14)
+26/10/14 12:23:02 INFO DAGScheduler: Missing parents: List()
+26/10/14 12:23:02 INFO DAGScheduler: Submitting ResultStage 17 (MapPartitionsRDD[54] at collect at /opt/spark/work/read_bronze.py:23), which has no missing parents
+26/10/14 12:23:02 INFO MemoryStore: Block broadcast_24 stored as values in memory (estimated size 127.2 KiB, free 414.7 MiB)
+26/10/14 12:23:02 INFO MemoryStore: Block broadcast_24_piece0 stored as bytes in memory (estimated size 48.6 KiB, free 414.6 MiB)
+26/10/14 12:23:02 INFO BlockManagerInfo: Added broadcast_24_piece0 in memory on 4f0bf387cd27:40107 (size: 48.6 KiB, free: 432.2 MiB)
+26/10/14 12:23:02 INFO SparkContext: Created broadcast 24 from broadcast at DAGScheduler.scala:1585
+26/10/14 12:23:02 INFO DAGScheduler: Submitting 2 missing tasks from ResultStage 17 (MapPartitionsRDD[54] at collect at /opt/spark/work/read_bronze.py:23) (first 15 tasks are for partitions Vector(0, 1))
+26/10/14 12:23:02 INFO TaskSchedulerImpl: Adding task set 17.0 with 2 tasks resource profile 0
+26/10/14 12:23:02 INFO FairSchedulableBuilder: Added task set TaskSet_17.0 tasks to pool default
+26/10/14 12:23:02 INFO TaskSetManager: Starting task 0.0 in stage 17.0 (TID 11) (4f0bf387cd27, executor driver, partition 0, NODE_LOCAL, 9685 bytes)
+26/10/14 12:23:02 INFO TaskSetManager: Starting task 1.0 in stage 17.0 (TID 12) (4f0bf387cd27, executor driver, partition 1, NODE_LOCAL, 9685 bytes)
+26/10/14 12:23:02 INFO Executor: Running task 0.0 in stage 17.0 (TID 11)
+26/10/14 12:23:02 INFO Executor: Running task 1.0 in stage 17.0 (TID 12)
+26/10/14 12:23:02 INFO CodeGenerator: Code generated in 4.757321 ms
+26/10/14 12:23:02 INFO ShuffleBlockFetcherIterator: Getting 1 (16.0 MiB) non-empty blocks including 1 (16.0 MiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+26/10/14 12:23:02 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+26/10/14 12:23:02 INFO ShuffleBlockFetcherIterator: Getting 1 (16.0 MiB) non-empty blocks including 1 (16.0 MiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+26/10/14 12:23:02 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+26/10/14 12:23:02 INFO CodeGenerator: Code generated in 4.110143 ms
+26/10/14 12:23:02 INFO BlockManagerInfo: Removed broadcast_22_piece0 on 4f0bf387cd27:40107 in memory (size: 7.4 KiB, free: 432.2 MiB)
+26/10/14 12:23:02 INFO CodeGenerator: Code generated in 6.959527 ms
+26/10/14 12:23:02 INFO CodeGenerator: Code generated in 2.73074 ms
+26/10/14 12:23:02 INFO ShuffleBlockFetcherIterator: Getting 1 (5.6 MiB) non-empty blocks including 1 (5.6 MiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+26/10/14 12:23:02 INFO ShuffleBlockFetcherIterator: Getting 1 (5.6 MiB) non-empty blocks including 1 (5.6 MiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+26/10/14 12:23:02 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+26/10/14 12:23:02 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+26/10/14 12:23:02 INFO CodeGenerator: Code generated in 6.817071 ms
+26/10/14 12:23:02 INFO CodeGenerator: Code generated in 2.500982 ms
+26/10/14 12:23:02 INFO CodeGenerator: Code generated in 2.170525 ms
+26/10/14 12:23:02 INFO CodeGenerator: Code generated in 4.663725 ms
+26/10/14 12:23:02 INFO ShuffleBlockFetcherIterator: Getting 1 (19.4 MiB) non-empty blocks including 1 (19.4 MiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+26/10/14 12:23:02 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+26/10/14 12:23:02 INFO ShuffleBlockFetcherIterator: Getting 1 (19.4 MiB) non-empty blocks including 1 (19.4 MiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+26/10/14 12:23:02 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+26/10/14 12:23:02 INFO CodeGenerator: Code generated in 3.725086 ms
+26/10/14 12:23:02 INFO ShuffleBlockFetcherIterator: Getting 1 (5.6 MiB) non-empty blocks including 1 (5.6 MiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+26/10/14 12:23:02 INFO ShuffleBlockFetcherIterator: Getting 1 (5.6 MiB) non-empty blocks including 1 (5.6 MiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+26/10/14 12:23:02 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+26/10/14 12:23:02 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+26/10/14 12:23:02 INFO CodeGenerator: Code generated in 6.652715 ms
+26/10/14 12:23:02 INFO CodeGenerator: Code generated in 4.195107 ms
+26/10/14 12:23:02 INFO CodeGenerator: Code generated in 17.825804 ms
+26/10/14 12:23:02 INFO CodeGenerator: Code generated in 2.735036 ms
+26/10/14 12:23:03 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+26/10/14 12:23:03 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+26/10/14 12:23:03 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+26/10/14 12:23:03 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+26/10/14 12:23:03 INFO UnsafeExternalSorter: Thread 67 spilling sort data of 128.0 MiB to disk (0  time so far)
+26/10/14 12:23:03 INFO UnsafeExternalSorter: Thread 136 spilling sort data of 128.0 MiB to disk (0  time so far)
+26/10/14 12:23:04 INFO Executor: Finished task 1.0 in stage 17.0 (TID 12). 23304 bytes result sent to driver
+26/10/14 12:23:04 INFO TaskSetManager: Finished task 1.0 in stage 17.0 (TID 12) in 1976 ms on 4f0bf387cd27 (executor driver) (1/2)
+26/10/14 12:23:04 INFO Executor: Finished task 0.0 in stage 17.0 (TID 11). 23403 bytes result sent to driver
+26/10/14 12:23:04 INFO TaskSetManager: Finished task 0.0 in stage 17.0 (TID 11) in 1989 ms on 4f0bf387cd27 (executor driver) (2/2)
+26/10/14 12:23:04 INFO TaskSchedulerImpl: Removed TaskSet 17.0, whose tasks have all completed, from pool default
+26/10/14 12:23:04 INFO DAGScheduler: ResultStage 17 (collect at /opt/spark/work/read_bronze.py:23) finished in 1.998 s
+26/10/14 12:23:04 INFO DAGScheduler: Job 11 is finished. Cancelling potential speculative or zombie tasks for this job
+26/10/14 12:23:04 INFO TaskSchedulerImpl: Killing all running tasks in stage 17: Stage finished
+26/10/14 12:23:04 INFO DAGScheduler: Job 11 finished: collect at /opt/spark/work/read_bronze.py:23, took 2.004269 s
+26/10/14 12:23:04 INFO SparkScanBuilder: Skipping aggregate pushdown: group by aggregation push down is not supported
+26/10/14 12:23:04 INFO V2ScanRelationPushDown:
+Output: orderkey#150L, quantity#152
+
+26/10/14 12:23:04 INFO SnapshotScan: Scanning table bronze.sf1.lineitem snapshot 6683828039836980407 created at 2026-10-14T12:08:19.837+00:00 with filter true
+26/10/14 12:23:04 INFO BaseDistributedDataScan: Planning file tasks locally for table bronze.sf1.lineitem
+26/10/14 12:23:04 INFO LoggingMetricsReporter: Received metrics report: ScanReport{tableName=bronze.sf1.lineitem, snapshotId=6683828039836980407, filter=true, schemaId=0, projectedFieldIds=[1, 3], projectedFieldNames=[orderkey, quantity], scanMetrics=ScanMetricsResult{totalPlanningDuration=TimerResult{timeUnit=NANOSECONDS, totalDuration=PT0.010014473S, count=1}, resultDataFiles=CounterResult{unit=COUNT, value=2}, resultDeleteFiles=CounterResult{unit=COUNT, value=0}, totalDataManifests=CounterResult{unit=COUNT, value=1}, totalDeleteManifests=CounterResult{unit=COUNT, value=0}, scannedDataManifests=CounterResult{unit=COUNT, value=1}, skippedDataManifests=CounterResult{unit=COUNT, value=0}, totalFileSizeInBytes=CounterResult{unit=BYTES, value=8393337}, totalDeleteFileSizeInBytes=CounterResult{unit=BYTES, value=0}, skippedDataFiles=CounterResult{unit=COUNT, value=0}, skippedDeleteFiles=CounterResult{unit=COUNT, value=0}, scannedDeleteManifests=CounterResult{unit=COUNT, value=0}, skippedDeleteManifests=CounterResult{unit=COUNT, value=0}, indexedDeleteFiles=CounterResult{unit=COUNT, value=0}, equalityDeleteFiles=CounterResult{unit=COUNT, value=0}, positionalDeleteFiles=CounterResult{unit=COUNT, value=0}}, metadata={engine-version=3.5.3, iceberg-version=Apache Iceberg 1.7.1 (commit 4a432839233f2343a9eae8255532f911f06358ef), app-id=local-1791980575220, engine-name=spark}}
+26/10/14 12:23:04 INFO SparkPartitioningAwareScan: Reporting UnknownPartitioning with 1 partition(s) for table bronze.sf1.lineitem
+26/10/14 12:23:04 INFO V2ScanRelationPushDown:
+Pushing operators to bronze.sf1.customer
+Pushed Filters: custkey IS NOT NULL
+Post-Scan Filters: isnotnull(custkey#141L)
+
+26/10/14 12:23:04 INFO V2ScanRelationPushDown:
+Pushing operators to bronze.sf1.orders
+Pushed Filters: custkey IS NOT NULL, orderkey IS NOT NULL
+Post-Scan Filters: isnotnull(custkey#144L),isnotnull(orderkey#143L),orderkey#143L IN (list#140 [])
+
+26/10/14 12:23:04 INFO V2ScanRelationPushDown:
+Pushing operators to bronze.sf1.lineitem
+Pushed Filters: orderkey IS NOT NULL
+Post-Scan Filters: isnotnull(orderkey#147L),orderkey#147L IN (list#140 [])
+
+26/10/14 12:23:04 INFO V2ScanRelationPushDown:
+Output: custkey#141L, name#142
+
+26/10/14 12:23:04 INFO V2ScanRelationPushDown:
+Output: orderkey#143L, custkey#144L, orderdate#145, totalprice#146
+
+26/10/14 12:23:04 INFO V2ScanRelationPushDown:
+Output: orderkey#147L, quantity#149
+
+26/10/14 12:23:04 INFO SnapshotScan: Scanning table bronze.sf1.customer snapshot 2020214731526505611 created at 2026-10-14T12:08:15.096+00:00 with filter custkey IS NOT NULL
+26/10/14 12:23:04 INFO BaseDistributedDataScan: Planning file tasks locally for table bronze.sf1.customer
+26/10/14 12:23:04 INFO LoggingMetricsReporter: Received metrics report: ScanReport{tableName=bronze.sf1.customer, snapshotId=2020214731526505611, filter=not_null(ref(name="custkey")), schemaId=0, projectedFieldIds=[1, 2], projectedFieldNames=[custkey, name], scanMetrics=ScanMetricsResult{totalPlanningDuration=TimerResult{timeUnit=NANOSECONDS, totalDuration=PT0.007558099S, count=1}, resultDataFiles=CounterResult{unit=COUNT, value=1}, resultDeleteFiles=CounterResult{unit=COUNT, value=0}, totalDataManifests=CounterResult{unit=COUNT, value=1}, totalDeleteManifests=CounterResult{unit=COUNT, value=0}, scannedDataManifests=CounterResult{unit=COUNT, value=1}, skippedDataManifests=CounterResult{unit=COUNT, value=0}, totalFileSizeInBytes=CounterResult{unit=BYTES, value=243571}, totalDeleteFileSizeInBytes=CounterResult{unit=BYTES, value=0}, skippedDataFiles=CounterResult{unit=COUNT, value=0}, skippedDeleteFiles=CounterResult{unit=COUNT, value=0}, scannedDeleteManifests=CounterResult{unit=COUNT, value=0}, skippedDeleteManifests=CounterResult{unit=COUNT, value=0}, indexedDeleteFiles=CounterResult{unit=COUNT, value=0}, equalityDeleteFiles=CounterResult{unit=COUNT, value=0}, positionalDeleteFiles=CounterResult{unit=COUNT, value=0}}, metadata={engine-version=3.5.3, iceberg-version=Apache Iceberg 1.7.1 (commit 4a432839233f2343a9eae8255532f911f06358ef), app-id=local-1791980575220, engine-name=spark}}
+26/10/14 12:23:04 INFO SparkPartitioningAwareScan: Reporting UnknownPartitioning with 1 partition(s) for table bronze.sf1.customer
+26/10/14 12:23:04 INFO SnapshotScan: Scanning table bronze.sf1.orders snapshot 4102614313762021900 created at 2026-10-14T12:08:17.051+00:00 with filter (custkey IS NOT NULL AND orderkey IS NOT NULL)
+26/10/14 12:23:04 INFO BaseDistributedDataScan: Planning file tasks locally for table bronze.sf1.orders
+26/10/14 12:23:04 INFO LoggingMetricsReporter: Received metrics report: ScanReport{tableName=bronze.sf1.orders, snapshotId=4102614313762021900, filter=(not_null(ref(name="custkey")) and not_null(ref(name="orderkey"))), schemaId=0, projectedFieldIds=[1, 2, 3, 4], projectedFieldNames=[orderkey, custkey, orderdate, totalprice], scanMetrics=ScanMetricsResult{totalPlanningDuration=TimerResult{timeUnit=NANOSECONDS, totalDuration=PT0.007918662S, count=1}, resultDataFiles=CounterResult{unit=COUNT, value=1}, resultDeleteFiles=CounterResult{unit=COUNT, value=0}, totalDataManifests=CounterResult{unit=COUNT, value=1}, totalDeleteManifests=CounterResult{unit=COUNT, value=0}, scannedDataManifests=CounterResult{unit=COUNT, value=1}, skippedDataManifests=CounterResult{unit=COUNT, value=0}, totalFileSizeInBytes=CounterResult{unit=BYTES, value=13512470}, totalDeleteFileSizeInBytes=CounterResult{unit=BYTES, value=0}, skippedDataFiles=CounterResult{unit=COUNT, value=0}, skippedDeleteFiles=CounterResult{unit=COUNT, value=0}, scannedDeleteManifests=CounterResult{unit=COUNT, value=0}, skippedDeleteManifests=CounterResult{unit=COUNT, value=0}, indexedDeleteFiles=CounterResult{unit=COUNT, value=0}, equalityDeleteFiles=CounterResult{unit=COUNT, value=0}, positionalDeleteFiles=CounterResult{unit=COUNT, value=0}}, metadata={engine-version=3.5.3, iceberg-version=Apache Iceberg 1.7.1 (commit 4a432839233f2343a9eae8255532f911f06358ef), app-id=local-1791980575220, engine-name=spark}}
+26/10/14 12:23:04 INFO SparkPartitioningAwareScan: Reporting UnknownPartitioning with 1 partition(s) for table bronze.sf1.orders
+26/10/14 12:23:04 INFO SnapshotScan: Scanning table bronze.sf1.lineitem snapshot 6683828039836980407 created at 2026-10-14T12:08:19.837+00:00 with filter orderkey IS NOT NULL
+26/10/14 12:23:04 INFO BaseDistributedDataScan: Planning file tasks locally for table bronze.sf1.lineitem
+26/10/14 12:23:04 INFO LoggingMetricsReporter: Received metrics report: ScanReport{tableName=bronze.sf1.lineitem, snapshotId=6683828039836980407, filter=not_null(ref(name="orderkey")), schemaId=0, projectedFieldIds=[1, 3], projectedFieldNames=[orderkey, quantity], scanMetrics=ScanMetricsResult{totalPlanningDuration=TimerResult{timeUnit=NANOSECONDS, totalDuration=PT0.006788877S, count=1}, resultDataFiles=CounterResult{unit=COUNT, value=2}, resultDeleteFiles=CounterResult{unit=COUNT, value=0}, totalDataManifests=CounterResult{unit=COUNT, value=1}, totalDeleteManifests=CounterResult{unit=COUNT, value=0}, scannedDataManifests=CounterResult{unit=COUNT, value=1}, skippedDataManifests=CounterResult{unit=COUNT, value=0}, totalFileSizeInBytes=CounterResult{unit=BYTES, value=8393337}, totalDeleteFileSizeInBytes=CounterResult{unit=BYTES, value=0}, skippedDataFiles=CounterResult{unit=COUNT, value=0}, skippedDeleteFiles=CounterResult{unit=COUNT, value=0}, scannedDeleteManifests=CounterResult{unit=COUNT, value=0}, skippedDeleteManifests=CounterResult{unit=COUNT, value=0}, indexedDeleteFiles=CounterResult{unit=COUNT, value=0}, equalityDeleteFiles=CounterResult{unit=COUNT, value=0}, positionalDeleteFiles=CounterResult{unit=COUNT, value=0}}, metadata={engine-version=3.5.3, iceberg-version=Apache Iceberg 1.7.1 (commit 4a432839233f2343a9eae8255532f911f06358ef), app-id=local-1791980575220, engine-name=spark}}
+26/10/14 12:23:04 INFO SparkPartitioningAwareScan: Reporting UnknownPartitioning with 1 partition(s) for table bronze.sf1.lineitem
+26/10/14 12:23:04 INFO MemoryStore: Block broadcast_25 stored as values in memory (estimated size 32.0 KiB, free 414.6 MiB)
+26/10/14 12:23:04 INFO MemoryStore: Block broadcast_25_piece0 stored as bytes in memory (estimated size 3.9 KiB, free 414.6 MiB)
+26/10/14 12:23:04 INFO BlockManagerInfo: Added broadcast_25_piece0 in memory on 4f0bf387cd27:40107 (size: 3.9 KiB, free: 432.2 MiB)
+26/10/14 12:23:04 INFO SparkContext: Created broadcast 25 from broadcast at SparkBatch.java:79
+26/10/14 12:23:04 INFO MemoryStore: Block broadcast_26 stored as values in memory (estimated size 32.0 KiB, free 414.6 MiB)
+26/10/14 12:23:04 INFO MemoryStore: Block broadcast_26_piece0 stored as bytes in memory (estimated size 3.9 KiB, free 414.6 MiB)
+26/10/14 12:23:04 INFO BlockManagerInfo: Added broadcast_26_piece0 in memory on 4f0bf387cd27:40107 (size: 3.9 KiB, free: 432.2 MiB)
+26/10/14 12:23:04 INFO SparkContext: Created broadcast 26 from broadcast at SparkBatch.java:79
+26/10/14 12:23:04 INFO MemoryStore: Block broadcast_27 stored as values in memory (estimated size 32.0 KiB, free 414.5 MiB)
+26/10/14 12:23:04 INFO MemoryStore: Block broadcast_27_piece0 stored as bytes in memory (estimated size 3.9 KiB, free 414.5 MiB)
+26/10/14 12:23:04 INFO BlockManagerInfo: Added broadcast_27_piece0 in memory on 4f0bf387cd27:40107 (size: 3.9 KiB, free: 432.2 MiB)
+26/10/14 12:23:04 INFO SparkContext: Created broadcast 27 from broadcast at SparkBatch.java:79
+26/10/14 12:23:04 INFO MemoryStore: Block broadcast_28 stored as values in memory (estimated size 32.0 KiB, free 414.5 MiB)
+26/10/14 12:23:04 INFO MemoryStore: Block broadcast_28_piece0 stored as bytes in memory (estimated size 3.9 KiB, free 414.5 MiB)
+26/10/14 12:23:04 INFO BlockManagerInfo: Added broadcast_28_piece0 in memory on 4f0bf387cd27:40107 (size: 3.9 KiB, free: 432.2 MiB)
+26/10/14 12:23:04 INFO SparkContext: Created broadcast 28 from broadcast at SparkBatch.java:79
+26/10/14 12:23:04 INFO MemoryStore: Block broadcast_29 stored as values in memory (estimated size 32.0 KiB, free 414.5 MiB)
+26/10/14 12:23:04 INFO MemoryStore: Block broadcast_29_piece0 stored as bytes in memory (estimated size 3.9 KiB, free 414.5 MiB)
+26/10/14 12:23:04 INFO BlockManagerInfo: Added broadcast_29_piece0 in memory on 4f0bf387cd27:40107 (size: 3.9 KiB, free: 432.2 MiB)
+26/10/14 12:23:04 INFO SparkContext: Created broadcast 29 from broadcast at SparkBatch.java:79
+26/10/14 12:23:04 INFO MemoryStore: Block broadcast_30 stored as values in memory (estimated size 32.0 KiB, free 414.4 MiB)
+26/10/14 12:23:04 INFO MemoryStore: Block broadcast_30_piece0 stored as bytes in memory (estimated size 3.9 KiB, free 414.4 MiB)
+26/10/14 12:23:04 INFO BlockManagerInfo: Added broadcast_30_piece0 in memory on 4f0bf387cd27:40107 (size: 3.9 KiB, free: 432.2 MiB)
+26/10/14 12:23:04 INFO SparkContext: Created broadcast 30 from broadcast at SparkBatch.java:79
+26/10/14 12:23:04 INFO MemoryStore: Block broadcast_31 stored as values in memory (estimated size 32.0 KiB, free 414.4 MiB)
+26/10/14 12:23:04 INFO MemoryStore: Block broadcast_31_piece0 stored as bytes in memory (estimated size 3.9 KiB, free 414.4 MiB)
+26/10/14 12:23:04 INFO BlockManagerInfo: Added broadcast_31_piece0 in memory on 4f0bf387cd27:40107 (size: 3.9 KiB, free: 432.2 MiB)
+26/10/14 12:23:04 INFO SparkContext: Created broadcast 31 from broadcast at SparkBatch.java:79
+26/10/14 12:23:04 INFO MemoryStore: Block broadcast_32 stored as values in memory (estimated size 32.0 KiB, free 414.4 MiB)
+26/10/14 12:23:04 INFO MemoryStore: Block broadcast_32_piece0 stored as bytes in memory (estimated size 3.9 KiB, free 414.3 MiB)
+26/10/14 12:23:04 INFO BlockManagerInfo: Added broadcast_32_piece0 in memory on 4f0bf387cd27:40107 (size: 3.9 KiB, free: 432.2 MiB)
+26/10/14 12:23:04 INFO SparkContext: Created broadcast 32 from broadcast at SparkBatch.java:79
+26/10/14 12:23:04 INFO BlockManagerInfo: Removed broadcast_24_piece0 on 4f0bf387cd27:40107 in memory (size: 48.6 KiB, free: 432.2 MiB)
+26/10/14 12:23:04 INFO MemoryStore: Block broadcast_33 stored as values in memory (estimated size 32.0 KiB, free 414.5 MiB)
+26/10/14 12:23:04 INFO MemoryStore: Block broadcast_33_piece0 stored as bytes in memory (estimated size 3.9 KiB, free 414.5 MiB)
+26/10/14 12:23:04 INFO BlockManagerInfo: Added broadcast_33_piece0 in memory on 4f0bf387cd27:40107 (size: 3.9 KiB, free: 432.2 MiB)
+26/10/14 12:23:04 INFO SparkContext: Created broadcast 33 from broadcast at SparkBatch.java:79
+26/10/14 12:23:04 INFO MemoryStore: Block broadcast_34 stored as values in memory (estimated size 32.0 KiB, free 414.5 MiB)
+26/10/14 12:23:04 INFO MemoryStore: Block broadcast_34_piece0 stored as bytes in memory (estimated size 3.9 KiB, free 414.5 MiB)
+26/10/14 12:23:04 INFO BlockManagerInfo: Added broadcast_34_piece0 in memory on 4f0bf387cd27:40107 (size: 3.9 KiB, free: 432.2 MiB)
+26/10/14 12:23:04 INFO SparkContext: Created broadcast 34 from broadcast at SparkBatch.java:79
+26/10/14 12:23:04 INFO DAGScheduler: Registering RDD 59 (showString at <unknown>:0) as input to shuffle 6
+26/10/14 12:23:04 INFO DAGScheduler: Got map stage job 12 (showString at <unknown>:0) with 1 output partitions
+26/10/14 12:23:04 INFO DAGScheduler: Final stage: ShuffleMapStage 18 (showString at <unknown>:0)
+26/10/14 12:23:04 INFO DAGScheduler: Parents of final stage: List()
+26/10/14 12:23:04 INFO DAGScheduler: Missing parents: List()
+26/10/14 12:23:04 INFO DAGScheduler: Submitting ShuffleMapStage 18 (MapPartitionsRDD[59] at showString at <unknown>:0), which has no missing parents
+26/10/14 12:23:04 INFO SparkContext: Starting job: $anonfun$withThreadLocalCaptured$1 at <unknown>:0
+26/10/14 12:23:04 INFO MemoryStore: Block broadcast_35 stored as values in memory (estimated size 18.6 KiB, free 414.4 MiB)
+26/10/14 12:23:04 INFO MemoryStore: Block broadcast_35_piece0 stored as bytes in memory (estimated size 7.7 KiB, free 414.4 MiB)
+26/10/14 12:23:04 INFO BlockManagerInfo: Added broadcast_35_piece0 in memory on 4f0bf387cd27:40107 (size: 7.7 KiB, free: 432.2 MiB)
+26/10/14 12:23:04 INFO SparkContext: Created broadcast 35 from broadcast at DAGScheduler.scala:1585
+26/10/14 12:23:04 INFO DAGScheduler: Submitting 1 missing tasks from ShuffleMapStage 18 (MapPartitionsRDD[59] at showString at <unknown>:0) (first 15 tasks are for partitions Vector(0))
+26/10/14 12:23:04 INFO TaskSchedulerImpl: Adding task set 18.0 with 1 tasks resource profile 0
+26/10/14 12:23:04 INFO FairSchedulableBuilder: Added task set TaskSet_18.0 tasks to pool default
+26/10/14 12:23:04 INFO DAGScheduler: Registering RDD 66 (showString at <unknown>:0) as input to shuffle 7
+26/10/14 12:23:04 INFO DAGScheduler: Got map stage job 13 (showString at <unknown>:0) with 1 output partitions
+26/10/14 12:23:04 INFO DAGScheduler: Final stage: ShuffleMapStage 19 (showString at <unknown>:0)
+26/10/14 12:23:04 INFO DAGScheduler: Parents of final stage: List()
+26/10/14 12:23:04 INFO DAGScheduler: Missing parents: List()
+26/10/14 12:23:04 INFO TaskSetManager: Starting task 0.0 in stage 18.0 (TID 13) (4f0bf387cd27, executor driver, partition 0, PROCESS_LOCAL, 14243 bytes)
+26/10/14 12:23:04 INFO Executor: Running task 0.0 in stage 18.0 (TID 13)
+26/10/14 12:23:04 INFO DAGScheduler: Submitting ShuffleMapStage 19 (MapPartitionsRDD[66] at showString at <unknown>:0), which has no missing parents
+26/10/14 12:23:04 INFO MemoryStore: Block broadcast_36 stored as values in memory (estimated size 40.9 KiB, free 414.4 MiB)
+26/10/14 12:23:04 INFO MemoryStore: Block broadcast_36_piece0 stored as bytes in memory (estimated size 17.8 KiB, free 414.4 MiB)
+26/10/14 12:23:04 INFO BlockManagerInfo: Added broadcast_36_piece0 in memory on 4f0bf387cd27:40107 (size: 17.8 KiB, free: 432.2 MiB)
+26/10/14 12:23:04 INFO SparkContext: Created broadcast 36 from broadcast at DAGScheduler.scala:1585
+26/10/14 12:23:04 INFO DAGScheduler: Submitting 1 missing tasks from ShuffleMapStage 19 (MapPartitionsRDD[66] at showString at <unknown>:0) (first 15 tasks are for partitions Vector(0))
+26/10/14 12:23:04 INFO TaskSchedulerImpl: Adding task set 19.0 with 1 tasks resource profile 0
+26/10/14 12:23:04 INFO FairSchedulableBuilder: Added task set TaskSet_19.0 tasks to pool default
+26/10/14 12:23:04 INFO DAGScheduler: Got job 14 ($anonfun$withThreadLocalCaptured$1 at <unknown>:0) with 1 output partitions
+26/10/14 12:23:04 INFO DAGScheduler: Final stage: ResultStage 20 ($anonfun$withThreadLocalCaptured$1 at <unknown>:0)
+26/10/14 12:23:04 INFO DAGScheduler: Parents of final stage: List()
+26/10/14 12:23:04 INFO DAGScheduler: Missing parents: List()
+26/10/14 12:23:04 INFO DAGScheduler: Submitting ResultStage 20 (MapPartitionsRDD[64] at $anonfun$withThreadLocalCaptured$1 at <unknown>:0), which has no missing parents
+26/10/14 12:23:04 INFO TaskSetManager: Starting task 0.0 in stage 19.0 (TID 14) (4f0bf387cd27, executor driver, partition 0, PROCESS_LOCAL, 14006 bytes)
+26/10/14 12:23:04 INFO Executor: Running task 0.0 in stage 19.0 (TID 14)
+26/10/14 12:23:04 INFO MemoryStore: Block broadcast_37 stored as values in memory (estimated size 14.3 KiB, free 414.4 MiB)
+26/10/14 12:23:04 INFO MemoryStore: Block broadcast_37_piece0 stored as bytes in memory (estimated size 5.7 KiB, free 414.3 MiB)
+26/10/14 12:23:04 INFO BlockManagerInfo: Added broadcast_37_piece0 in memory on 4f0bf387cd27:40107 (size: 5.7 KiB, free: 432.2 MiB)
+26/10/14 12:23:04 INFO SparkContext: Created broadcast 37 from broadcast at DAGScheduler.scala:1585
+26/10/14 12:23:04 INFO DAGScheduler: Submitting 1 missing tasks from ResultStage 20 (MapPartitionsRDD[64] at $anonfun$withThreadLocalCaptured$1 at <unknown>:0) (first 15 tasks are for partitions Vector(0))
+26/10/14 12:23:04 INFO TaskSchedulerImpl: Adding task set 20.0 with 1 tasks resource profile 0
+26/10/14 12:23:04 INFO FairSchedulableBuilder: Added task set TaskSet_20.0 tasks to pool default
+26/10/14 12:23:04 INFO DAGScheduler: Registering RDD 70 (showString at <unknown>:0) as input to shuffle 8
+26/10/14 12:23:04 INFO DAGScheduler: Got map stage job 15 (showString at <unknown>:0) with 1 output partitions
+26/10/14 12:23:04 INFO DAGScheduler: Final stage: ShuffleMapStage 21 (showString at <unknown>:0)
+26/10/14 12:23:04 INFO DAGScheduler: Parents of final stage: List()
+26/10/14 12:23:04 INFO DAGScheduler: Missing parents: List()
+26/10/14 12:23:04 INFO DAGScheduler: Submitting ShuffleMapStage 21 (MapPartitionsRDD[70] at showString at <unknown>:0), which has no missing parents
+26/10/14 12:23:04 INFO MemoryStore: Block broadcast_38 stored as values in memory (estimated size 17.4 KiB, free 406.3 MiB)
+26/10/14 12:23:04 INFO MemoryStore: Block broadcast_38_piece0 stored as bytes in memory (estimated size 7.4 KiB, free 406.3 MiB)
+26/10/14 12:23:04 INFO BlockManagerInfo: Added broadcast_38_piece0 in memory on 4f0bf387cd27:40107 (size: 7.4 KiB, free: 432.2 MiB)
+26/10/14 12:23:04 INFO SparkContext: Created broadcast 38 from broadcast at DAGScheduler.scala:1585
+26/10/14 12:23:04 INFO DAGScheduler: Submitting 1 missing tasks from ShuffleMapStage 21 (MapPartitionsRDD[70] at showString at <unknown>:0) (first 15 tasks are for partitions Vector(0))
+26/10/14 12:23:04 INFO TaskSchedulerImpl: Adding task set 21.0 with 1 tasks resource profile 0
+26/10/14 12:23:04 INFO FairSchedulableBuilder: Added task set TaskSet_21.0 tasks to pool default
+26/10/14 12:23:04 INFO CodecPool: Got brand-new decompressor [.zstd]
+26/10/14 12:23:04 INFO CodecPool: Got brand-new decompressor [.zstd]
+26/10/14 12:23:04 INFO CodecPool: Got brand-new decompressor [.zstd]
+26/10/14 12:23:04 INFO Executor: Finished task 0.0 in stage 18.0 (TID 13). 4802 bytes result sent to driver
+26/10/14 12:23:04 INFO TaskSetManager: Starting task 0.0 in stage 20.0 (TID 15) (4f0bf387cd27, executor driver, partition 0, PROCESS_LOCAL, 13907 bytes)
+26/10/14 12:23:04 INFO TaskSetManager: Finished task 0.0 in stage 18.0 (TID 13) in 376 ms on 4f0bf387cd27 (executor driver) (1/1)
+26/10/14 12:23:04 INFO Executor: Running task 0.0 in stage 20.0 (TID 15)
+26/10/14 12:23:04 INFO TaskSchedulerImpl: Removed TaskSet 18.0, whose tasks have all completed, from pool default
+26/10/14 12:23:04 INFO DAGScheduler: ShuffleMapStage 18 (showString at <unknown>:0) finished in 0.398 s
+26/10/14 12:23:04 INFO DAGScheduler: looking for newly runnable stages
+26/10/14 12:23:04 INFO DAGScheduler: running: Set(ShuffleMapStage 19, ResultStage 20, ShuffleMapStage 21)
+26/10/14 12:23:04 INFO DAGScheduler: waiting: Set()
+26/10/14 12:23:04 INFO DAGScheduler: failed: Set()
+26/10/14 12:23:04 INFO CodecPool: Got brand-new decompressor [.zstd]
+26/10/14 12:23:04 INFO MemoryStore: Block taskresult_15 stored as bytes in memory (estimated size 1373.5 KiB, free 325.0 MiB)
+26/10/14 12:23:04 INFO BlockManagerInfo: Added taskresult_15 in memory on 4f0bf387cd27:40107 (size: 1373.5 KiB, free: 430.8 MiB)
+26/10/14 12:23:04 INFO Executor: Finished task 0.0 in stage 20.0 (TID 15). 1406515 bytes result sent via BlockManager)
+26/10/14 12:23:04 INFO TaskSetManager: Starting task 0.0 in stage 21.0 (TID 16) (4f0bf387cd27, executor driver, partition 0, PROCESS_LOCAL, 14281 bytes)
+26/10/14 12:23:04 INFO Executor: Running task 0.0 in stage 21.0 (TID 16)
+26/10/14 12:23:04 INFO TaskSetManager: Finished task 0.0 in stage 20.0 (TID 15) in 53 ms on 4f0bf387cd27 (executor driver) (1/1)
+26/10/14 12:23:04 INFO TaskSchedulerImpl: Removed TaskSet 20.0, whose tasks have all completed, from pool default
+26/10/14 12:23:04 INFO DAGScheduler: ResultStage 20 ($anonfun$withThreadLocalCaptured$1 at <unknown>:0) finished in 0.419 s
+26/10/14 12:23:04 INFO DAGScheduler: Job 14 is finished. Cancelling potential speculative or zombie tasks for this job
+26/10/14 12:23:04 INFO TaskSchedulerImpl: Killing all running tasks in stage 20: Stage finished
+26/10/14 12:23:04 INFO BlockManagerInfo: Removed taskresult_15 on 4f0bf387cd27:40107 in memory (size: 1373.5 KiB, free: 432.2 MiB)
+26/10/14 12:23:04 INFO DAGScheduler: Job 14 finished: $anonfun$withThreadLocalCaptured$1 at <unknown>:0, took 0.443647 s
+26/10/14 12:23:04 INFO CodecPool: Got brand-new decompressor [.zstd]
+26/10/14 12:23:04 INFO BlockManagerInfo: Removed broadcast_35_piece0 on 4f0bf387cd27:40107 in memory (size: 7.7 KiB, free: 432.2 MiB)
+26/10/14 12:23:04 INFO BlockManagerInfo: Removed broadcast_37_piece0 on 4f0bf387cd27:40107 in memory (size: 5.7 KiB, free: 432.2 MiB)
+26/10/14 12:23:05 INFO MemoryStore: Block broadcast_39 stored as values in memory (estimated size 17.1 MiB, free 237.2 MiB)
+26/10/14 12:23:05 INFO MemoryStore: Block broadcast_39_piece0 stored as bytes in memory (estimated size 2.1 MiB, free 267.1 MiB)
+26/10/14 12:23:05 INFO BlockManagerInfo: Added broadcast_39_piece0 in memory on 4f0bf387cd27:40107 (size: 2.1 MiB, free: 430.1 MiB)
+26/10/14 12:23:05 INFO SparkContext: Created broadcast 39 from $anonfun$withThreadLocalCaptured$1 at <unknown>:0
+26/10/14 12:23:05 INFO CodecPool: Got brand-new decompressor [.zstd]
+26/10/14 12:23:05 INFO Executor: Finished task 0.0 in stage 19.0 (TID 14). 5291 bytes result sent to driver
+26/10/14 12:23:05 INFO TaskSetManager: Finished task 0.0 in stage 19.0 (TID 14) in 817 ms on 4f0bf387cd27 (executor driver) (1/1)
+26/10/14 12:23:05 INFO TaskSchedulerImpl: Removed TaskSet 19.0, whose tasks have all completed, from pool default
+26/10/14 12:23:05 INFO DAGScheduler: ShuffleMapStage 19 (showString at <unknown>:0) finished in 0.822 s
+26/10/14 12:23:05 INFO DAGScheduler: looking for newly runnable stages
+26/10/14 12:23:05 INFO DAGScheduler: running: Set(ShuffleMapStage 21)
+26/10/14 12:23:05 INFO DAGScheduler: waiting: Set()
+26/10/14 12:23:05 INFO DAGScheduler: failed: Set()
+26/10/14 12:23:05 INFO Executor: Finished task 0.0 in stage 21.0 (TID 16). 4845 bytes result sent to driver
+26/10/14 12:23:05 INFO TaskSetManager: Finished task 0.0 in stage 21.0 (TID 16) in 693 ms on 4f0bf387cd27 (executor driver) (1/1)
+26/10/14 12:23:05 INFO TaskSchedulerImpl: Removed TaskSet 21.0, whose tasks have all completed, from pool default
+26/10/14 12:23:05 INFO BlockManagerInfo: Removed broadcast_36_piece0 on 4f0bf387cd27:40107 in memory (size: 17.8 KiB, free: 430.1 MiB)
+26/10/14 12:23:05 INFO DAGScheduler: ShuffleMapStage 21 (showString at <unknown>:0) finished in 1.103 s
+26/10/14 12:23:05 INFO DAGScheduler: looking for newly runnable stages
+26/10/14 12:23:05 INFO DAGScheduler: running: Set()
+26/10/14 12:23:05 INFO DAGScheduler: waiting: Set()
+26/10/14 12:23:05 INFO DAGScheduler: failed: Set()
+26/10/14 12:23:05 INFO ShufflePartitionsUtil: For shuffle(6, 7, 8, 7), advisory target size: 67108864, actual target size 48857352, minimum partition size: 1048576
+26/10/14 12:23:05 INFO HashAggregateExec: spark.sql.codegen.aggregate.map.twolevel.enabled is set to true, but current version of codegened fast hashmap does not support this aggregate.
+26/10/14 12:23:05 INFO HashAggregateExec: spark.sql.codegen.aggregate.map.twolevel.enabled is set to true, but current version of codegened fast hashmap does not support this aggregate.
+26/10/14 12:23:05 INFO HashAggregateExec: spark.sql.codegen.aggregate.map.twolevel.enabled is set to true, but current version of codegened fast hashmap does not support this aggregate.
+26/10/14 12:23:05 INFO SparkContext: Starting job: showString at <unknown>:0
+26/10/14 12:23:05 INFO DAGScheduler: Got job 16 (showString at <unknown>:0) with 2 output partitions
+26/10/14 12:23:05 INFO DAGScheduler: Final stage: ResultStage 25 (showString at <unknown>:0)
+26/10/14 12:23:05 INFO DAGScheduler: Parents of final stage: List(ShuffleMapStage 24, ShuffleMapStage 22, ShuffleMapStage 23)
+26/10/14 12:23:05 INFO DAGScheduler: Missing parents: List()
+26/10/14 12:23:05 INFO DAGScheduler: Submitting ResultStage 25 (MapPartitionsRDD[86] at showString at <unknown>:0), which has no missing parents
+26/10/14 12:23:05 INFO MemoryStore: Block broadcast_40 stored as values in memory (estimated size 127.2 KiB, free 395.1 MiB)
+26/10/14 12:23:05 INFO MemoryStore: Block broadcast_40_piece0 stored as bytes in memory (estimated size 48.6 KiB, free 395.0 MiB)
+26/10/14 12:23:05 INFO BlockManagerInfo: Added broadcast_40_piece0 in memory on 4f0bf387cd27:40107 (size: 48.6 KiB, free: 430.1 MiB)
+26/10/14 12:23:05 INFO SparkContext: Created broadcast 40 from broadcast at DAGScheduler.scala:1585
+26/10/14 12:23:05 INFO DAGScheduler: Submitting 2 missing tasks from ResultStage 25 (MapPartitionsRDD[86] at showString at <unknown>:0) (first 15 tasks are for partitions Vector(0, 1))
+26/10/14 12:23:05 INFO TaskSchedulerImpl: Adding task set 25.0 with 2 tasks resource profile 0
+26/10/14 12:23:05 INFO FairSchedulableBuilder: Added task set TaskSet_25.0 tasks to pool default
+26/10/14 12:23:05 INFO BlockManagerInfo: Removed broadcast_38_piece0 on 4f0bf387cd27:40107 in memory (size: 7.4 KiB, free: 430.1 MiB)
+26/10/14 12:23:05 INFO TaskSetManager: Starting task 0.0 in stage 25.0 (TID 17) (4f0bf387cd27, executor driver, partition 0, NODE_LOCAL, 9685 bytes)
+26/10/14 12:23:05 INFO TaskSetManager: Starting task 1.0 in stage 25.0 (TID 18) (4f0bf387cd27, executor driver, partition 1, NODE_LOCAL, 9685 bytes)
+26/10/14 12:23:05 INFO Executor: Running task 0.0 in stage 25.0 (TID 17)
+26/10/14 12:23:05 INFO Executor: Running task 1.0 in stage 25.0 (TID 18)
+26/10/14 12:23:05 INFO ShuffleBlockFetcherIterator: Getting 1 (16.0 MiB) non-empty blocks including 1 (16.0 MiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+26/10/14 12:23:05 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+26/10/14 12:23:05 INFO ShuffleBlockFetcherIterator: Getting 1 (5.6 MiB) non-empty blocks including 1 (5.6 MiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+26/10/14 12:23:05 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+26/10/14 12:23:05 INFO ShuffleBlockFetcherIterator: Getting 1 (16.0 MiB) non-empty blocks including 1 (16.0 MiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+26/10/14 12:23:05 INFO ShuffleBlockFetcherIterator: Getting 1 (19.4 MiB) non-empty blocks including 1 (19.4 MiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+26/10/14 12:23:05 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+26/10/14 12:23:05 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+26/10/14 12:23:05 INFO ShuffleBlockFetcherIterator: Getting 1 (5.6 MiB) non-empty blocks including 1 (5.6 MiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+26/10/14 12:23:05 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+26/10/14 12:23:05 INFO ShuffleBlockFetcherIterator: Getting 1 (5.6 MiB) non-empty blocks including 1 (5.6 MiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+26/10/14 12:23:05 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+26/10/14 12:23:05 INFO ShuffleBlockFetcherIterator: Getting 1 (19.4 MiB) non-empty blocks including 1 (19.4 MiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+26/10/14 12:23:05 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+26/10/14 12:23:05 INFO ShuffleBlockFetcherIterator: Getting 1 (5.6 MiB) non-empty blocks including 1 (5.6 MiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+26/10/14 12:23:05 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+26/10/14 12:23:06 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+26/10/14 12:23:06 INFO UnsafeExternalSorter: Thread 67 spilling sort data of 128.0 MiB to disk (0  time so far)
+26/10/14 12:23:06 WARN RowBasedKeyValueBatch: Calling spill() on RowBasedKeyValueBatch. Will not spill but return 0.
+26/10/14 12:23:06 INFO UnsafeExternalSorter: Thread 136 spilling sort data of 128.0 MiB to disk (0  time so far)
+26/10/14 12:23:06 INFO Executor: Finished task 1.0 in stage 25.0 (TID 18). 21650 bytes result sent to driver
+26/10/14 12:23:06 INFO TaskSetManager: Finished task 1.0 in stage 25.0 (TID 18) in 1270 ms on 4f0bf387cd27 (executor driver) (1/2)
+26/10/14 12:23:06 INFO Executor: Finished task 0.0 in stage 25.0 (TID 17). 21693 bytes result sent to driver
+26/10/14 12:23:06 INFO TaskSetManager: Finished task 0.0 in stage 25.0 (TID 17) in 1277 ms on 4f0bf387cd27 (executor driver) (2/2)
+26/10/14 12:23:06 INFO TaskSchedulerImpl: Removed TaskSet 25.0, whose tasks have all completed, from pool default
+26/10/14 12:23:06 INFO DAGScheduler: ResultStage 25 (showString at <unknown>:0) finished in 1.286 s
+26/10/14 12:23:06 INFO DAGScheduler: Job 16 is finished. Cancelling potential speculative or zombie tasks for this job
+26/10/14 12:23:06 INFO TaskSchedulerImpl: Killing all running tasks in stage 25: Stage finished
+26/10/14 12:23:06 INFO DAGScheduler: Job 16 finished: showString at <unknown>:0, took 1.288754 s
+26/10/14 12:23:07 INFO CodeGenerator: Code generated in 5.209779 ms
+26/10/14 12:23:07 INFO CodeGenerator: Code generated in 14.16544 ms
++------------------+-------+--------+----------+----------+--------------+
+|name              |custkey|orderkey|orderdate |totalprice|total_quantity|
++------------------+-------+--------+----------+----------+--------------+
+|Customer#000128120|128120 |4722021 |1994-04-07|544089.09 |323.0         |
+|Customer#000144617|144617 |3043270 |1997-02-12|530604.44 |317.0         |
+|Customer#000013940|13940  |2232932 |1997-04-13|522720.61 |304.0         |
+|Customer#000066790|66790  |2199712 |1996-09-30|515531.82 |327.0         |
+|Customer#000046435|46435  |4745607 |1997-07-03|508047.99 |309.0         |
+|Customer#000015272|15272  |3883783 |1993-07-28|500241.33 |302.0         |
+|Customer#000146608|146608 |3342468 |1994-06-12|499794.58 |303.0         |
+|Customer#000096103|96103  |5984582 |1992-03-16|494398.79 |312.0         |
+|Customer#000024341|24341  |1474818 |1992-11-15|491348.26 |302.0         |
+|Customer#000137446|137446 |5489475 |1997-05-23|487763.25 |311.0         |
++------------------+-------+--------+----------+----------+--------------+
+only showing top 10 rows
+
+{
+  "scale": "sf1",
+  "source": "bronze.sf1",
+  "bronze_counts": {
+    "customer": 150000,
+    "orders": 1500000,
+    "lineitem": 6001215
+  },
+  "result_rows": 57,
+  "matches_trino": true,
+  "q18_seconds_without_startup": 4.204093645996181
+}
+26/10/14 12:23:07 INFO SparkContext: SparkContext is stopping with exitCode 0.
+26/10/14 12:23:07 INFO SparkUI: Stopped Spark web UI at http://4f0bf387cd27:4040
+26/10/14 12:23:07 INFO MapOutputTrackerMasterEndpoint: MapOutputTrackerMasterEndpoint stopped!
+26/10/14 12:23:07 INFO MemoryStore: MemoryStore cleared
+26/10/14 12:23:07 INFO BlockManager: BlockManager stopped
+26/10/14 12:23:07 INFO BlockManagerMaster: BlockManagerMaster stopped
+26/10/14 12:23:07 INFO OutputCommitCoordinator$OutputCommitCoordinatorEndpoint: OutputCommitCoordinator stopped!
+26/10/14 12:23:07 INFO SparkContext: Successfully stopped SparkContext
+26/10/14 12:23:07 INFO ShutdownHookManager: Shutdown hook called
+26/10/14 12:23:07 INFO ShutdownHookManager: Deleting directory /tmp/spark-05bac517-4c45-4bdc-90b5-e051b71529f5
+26/10/14 12:23:07 INFO ShutdownHookManager: Deleting directory /tmp/spark-b490bb6b-adb5-4a67-8fd1-32e561132ea5
+26/10/14 12:23:07 INFO ShutdownHookManager: Deleting directory /tmp/spark-05bac517-4c45-4bdc-90b5-e051b71529f5/pyspark-1ed8272d-f1ae-4f22-b1e0-7281d65b055d

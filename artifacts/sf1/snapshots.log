@@ -1,0 +1,11 @@
+{
+  "table": "silver.sf1.snapshot_demo_20261014120847",
+  "snapshot_id": 7037684878226293102,
+  "count_before": 20,
+  "count_after_delete": 0,
+  "count_from_historical_snapshot": 20,
+  "count_after_restore": 20,
+  "nullable_column": "source_note",
+  "schema_change_kept_data_files": true,
+  "restored_rows_match": true
+}

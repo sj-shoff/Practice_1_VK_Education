@@ -1,0 +1,3 @@
+Два файла Iceberg сохранены в jars/.
+jars/iceberg-spark-runtime-3.5_2.12-1.7.1.jar: OK
+jars/iceberg-aws-bundle-1.7.1.jar: OK

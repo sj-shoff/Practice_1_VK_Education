@@ -1,0 +1,121 @@
+name: p1q18
+
+x-lakekeeper-environment: &lakekeeper-environment
+  LAKEKEEPER__PG_ENCRYPTION_KEY: This-is-NOT-Secure!
+  LAKEKEEPER__PG_DATABASE_URL_READ: postgresql://postgres:postgres@postgres:5432/postgres
+  LAKEKEEPER__PG_DATABASE_URL_WRITE: postgresql://postgres:postgres@postgres:5432/postgres
+  RUST_LOG: info
+
+services:
+  minio:
+    image: pgsty/silo:RELEASE.2026-09-03T13-18-01Z
+    command: [server, /data, --console-address, ':9001']
+    environment:
+      MINIO_ROOT_USER: minioadmin
+      MINIO_ROOT_PASSWORD: minioadmin
+    ports:
+      - '127.0.0.1:9000:9000'
+      - '127.0.0.1:9001:9001'
+    volumes:
+      - minio-data:/data
+
+  minio-init:
+    image: pgsty/silo:RELEASE.2026-09-03T13-18-01Z
+    depends_on: [minio]
+    entrypoint: [/bin/sh, -c]
+    command:
+      - |
+        set -eu
+        attempt=0
+        client=$$(command -v mcli || command -v mc)
+        until "$$client" alias set local http://minio:9000 minioadmin minioadmin; do
+          attempt=$$((attempt + 1))
+          [ "$$attempt" -lt 60 ] || exit 1
+          sleep 2
+        done
+        "$$client" mb --ignore-existing local/bronze local/silver local/gold
+    restart: 'no'
+
+  postgres:
+    image: postgres:17
+    environment:
+      POSTGRES_PASSWORD: postgres
+    volumes:
+      - pg-data:/var/lib/postgresql/data
+    healthcheck:
+      test: [CMD-SHELL, pg_isready -U postgres -d postgres]
+      interval: 3s
+      timeout: 5s
+      retries: 30
+
+  migrate:
+    image: quay.io/lakekeeper/catalog:v0.14.0
+    environment: *lakekeeper-environment
+    command: [migrate]
+    depends_on:
+      postgres:
+        condition: service_healthy
+    restart: 'no'
+
+  lakekeeper:
+    image: quay.io/lakekeeper/catalog:v0.14.0
+    environment: *lakekeeper-environment
+    command: [serve]
+    ports:
+      - '127.0.0.1:8181:8181'
+    depends_on:
+      migrate:
+        condition: service_completed_successfully
+      minio-init:
+        condition: service_completed_successfully
+    healthcheck:
+      test: [CMD, /home/nonroot/lakekeeper, healthcheck]
+      interval: 5s
+      timeout: 10s
+      retries: 30
+
+  trino:
+    image: trinodb/trino:476
+    mem_limit: 4g
+    ports:
+      - '127.0.0.1:8080:8080'
+    volumes:
+      - ./catalog:/etc/trino/catalog:ro
+      - ./sql:/work/sql:ro
+    depends_on:
+      lakekeeper:
+        condition: service_healthy
+
+  tools:
+    image: python:3.12-slim
+    profiles: [tools]
+    working_dir: /work
+    volumes:
+      - .:/work
+    environment:
+      TRINO_URL: http://trino:8080
+      LAKEKEEPER_URL: http://lakekeeper:8181
+      LAB_SCALE: ${LAB_SCALE:-sf1}
+    entrypoint: [python, /work/scripts/lab_tools.py]
+
+  spark:
+    image: apache/spark:3.5.3
+    profiles: [tools]
+    mem_limit: 4g
+    user: '0:0'
+    environment:
+      AWS_REGION: us-east-1
+      AWS_DEFAULT_REGION: us-east-1
+      LAB_SCALE: ${LAB_SCALE:-sf1}
+    volumes:
+      - ./spark/spark-defaults.conf:/opt/spark/conf/spark-defaults.conf:ro
+      - ./spark:/opt/spark/work:ro
+      - ./sql:/opt/spark/sql:ro
+      - ./jars:/opt/spark/iceberg-jars:ro
+      - ./artifacts:/opt/spark/results
+    entrypoint: [/opt/spark/bin/spark-submit]
+    command: [--master, 'local[2]', /opt/spark/work/read_bronze.py]
+
+volumes:
+  minio-data:
+  pg-data:

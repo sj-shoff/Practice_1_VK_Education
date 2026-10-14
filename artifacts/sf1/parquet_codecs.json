@@ -1,0 +1,137 @@
+[
+  {
+    "table": "bronze.sf1.customer",
+    "path": "s3://bronze/customer-2a9999b412774fbbb73b5b8fd9d3a66d/data/20261014_120813_00002_scgp8-6b3fd5df-57dd-4f0d-bd22-4a43109b0331.parquet",
+    "format": "PARQUET",
+    "codecs": [
+      "ZSTD"
+    ],
+    "rows": 150000
+  },
+  {
+    "table": "bronze.sf1.orders",
+    "path": "s3://bronze/orders-e78fae23d89e43ae917f0a2d04c9b365/data/20261014_120815_00003_scgp8-853a0073-a1ba-487b-95a0-e8330c0741bb.parquet",
+    "format": "PARQUET",
+    "codecs": [
+      "ZSTD"
+    ],
+    "rows": 1500000
+  },
+  {
+    "table": "bronze.sf1.lineitem",
+    "path": "s3://bronze/lineitem-58ff773fb9244446b35674c53b3fb5c5/data/20261014_120817_00004_scgp8-219f754a-6f95-4ecf-98ad-cb4d74ddac0c.parquet",
+    "format": "PARQUET",
+    "codecs": [
+      "ZSTD"
+    ],
+    "rows": 312356
+  },
+  {
+    "table": "bronze.sf1.lineitem",
+    "path": "s3://bronze/lineitem-58ff773fb9244446b35674c53b3fb5c5/data/20261014_120817_00004_scgp8-bf5f74cd-5b3d-4e52-b896-0f6e995dd296.parquet",
+    "format": "PARQUET",
+    "codecs": [
+      "ZSTD"
+    ],
+    "rows": 5688859
+  },
+  {
+    "table": "bronze.sf1_gzip.customer",
+    "path": "s3://bronze/customer-28931c46eaac4bccb3c58547f5aa38eb/data/20261014_120824_00014_scgp8-9d03b555-c1c6-495d-97ad-1097a7df55c6.parquet",
+    "format": "PARQUET",
+    "codecs": [
+      "GZIP"
+    ],
+    "rows": 150000
+  },
+  {
+    "table": "bronze.sf1_gzip.orders",
+    "path": "s3://bronze/orders-2929b71cc407425692f6b748c3d09ce5/data/20261014_120825_00015_scgp8-64198d70-0141-4be8-a189-b3347c66df15.parquet",
+    "format": "PARQUET",
+    "codecs": [
+      "GZIP"
+    ],
+    "rows": 1500000
+  },
+  {
+    "table": "bronze.sf1_gzip.lineitem",
+    "path": "s3://bronze/lineitem-9faaa668d44f46b5b8b975fd2ac4459c/data/20261014_120828_00016_scgp8-ad9951b8-65dd-430d-bedb-33353f379278.parquet",
+    "format": "PARQUET",
+    "codecs": [
+      "GZIP"
+    ],
+    "rows": 271040
+  },
+  {
+    "table": "bronze.sf1_gzip.lineitem",
+    "path": "s3://bronze/lineitem-9faaa668d44f46b5b8b975fd2ac4459c/data/20261014_120828_00016_scgp8-63a98f3f-a5de-4507-8c15-d7f3facfffc1.parquet",
+    "format": "PARQUET",
+    "codecs": [
+      "GZIP"
+    ],
+    "rows": 5730175
+  },
+  {
+    "table": "bronze.sf1_zstd.customer",
+    "path": "s3://bronze/customer-9985f83165eb4801b2efe82bf320a5bf/data/20261014_120830_00019_scgp8-4b79c31b-6e12-4c46-8de5-9d215ea7766a.parquet",
+    "format": "PARQUET",
+    "codecs": [
+      "ZSTD"
+    ],
+    "rows": 150000
+  },
+  {
+    "table": "bronze.sf1_zstd.orders",
+    "path": "s3://bronze/orders-1293b83ba29443d4946db98bd3d87b81/data/20261014_120830_00020_scgp8-55dfe5e2-12b2-42f8-b815-28213d842e24.parquet",
+    "format": "PARQUET",
+    "codecs": [
+      "ZSTD"
+    ],
+    "rows": 1500000
+  },
+  {
+    "table": "bronze.sf1_zstd.lineitem",
+    "path": "s3://bronze/lineitem-186559bf5f2d49108ca0303b06791b3a/data/20261014_120831_00021_scgp8-8060694b-f050-4bcc-b0ff-5cb96fb7c317.parquet",
+    "format": "PARQUET",
+    "codecs": [
+      "ZSTD"
+    ],
+    "rows": 360207
+  },
+  {
+    "table": "bronze.sf1_zstd.lineitem",
+    "path": "s3://bronze/lineitem-186559bf5f2d49108ca0303b06791b3a/data/20261014_120831_00021_scgp8-021b7a27-344d-4a77-abbb-d46b90a20bdf.parquet",
+    "format": "PARQUET",
+    "codecs": [
+      "ZSTD"
+    ],
+    "rows": 5641008
+  },
+  {
+    "table": "silver.sf1.large_orders",
+    "path": "s3://silver/large_orders-2f1673405e504da98d74fa0ebe96b36d/data/20261014_120822_00009_scgp8-e513c92b-f024-4f7d-b34c-25110dd81852.parquet",
+    "format": "PARQUET",
+    "codecs": [
+      "ZSTD"
+    ],
+    "rows": 57
+  },
+  {
+    "table": "silver.sf1.large_order_lines",
+    "path": "s3://silver/large_order_lines-c8353598cd304e27a09d93ac8ebb319a/data/20261014_120823_00010_scgp8-4b35c302-8afb-4553-86e2-acf7816be0bb.parquet",
+    "format": "PARQUET",
+    "codecs": [
+      "ZSTD"
+    ],
+    "rows": 399
+  },
+  {
+    "table": "gold.sf1.q18_large_volume_customer",
+    "path": "s3://gold/q18_large_volume_customer-821c01fc860e4b8690ecece76f37c94a/data/20261014_120823_00011_scgp8-34c3b6a0-6cc8-4c91-bd83-4e74445cd17f.parquet",
+    "format": "PARQUET",
+    "codecs": [
+      "ZSTD"
+    ],
+    "rows": 57
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "scale": "sf1",
+  "source": "bronze.sf1",
+  "bronze_counts": {
+    "customer": 150000,
+    "orders": 1500000,
+    "lineitem": 6001215
+  },
+  "result_rows": 57,
+  "matches_trino": true,
+  "q18_seconds_without_startup": 4.204093645996181
+}

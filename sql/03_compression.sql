@@ -1,0 +1,10 @@
+CREATE SCHEMA IF NOT EXISTS bronze.sf1_gzip;
+SET SESSION bronze.compression_codec = 'GZIP';
+CREATE TABLE bronze.sf1_gzip.customer WITH (format = 'PARQUET', format_version = 2) AS SELECT custkey, name FROM tpch.sf1.customer;
+CREATE TABLE bronze.sf1_gzip.orders WITH (format = 'PARQUET', format_version = 2) AS SELECT orderkey, custkey, orderdate, totalprice FROM tpch.sf1.orders;
+CREATE TABLE bronze.sf1_gzip.lineitem WITH (format = 'PARQUET', format_version = 2) AS SELECT orderkey, linenumber, quantity FROM tpch.sf1.lineitem;
+CREATE SCHEMA IF NOT EXISTS bronze.sf1_zstd;
+SET SESSION bronze.compression_codec = 'ZSTD';
+CREATE TABLE bronze.sf1_zstd.customer WITH (format = 'PARQUET', format_version = 2) AS SELECT custkey, name FROM tpch.sf1.customer;
+CREATE TABLE bronze.sf1_zstd.orders WITH (format = 'PARQUET', format_version = 2) AS SELECT orderkey, custkey, orderdate, totalprice FROM tpch.sf1.orders;
+CREATE TABLE bronze.sf1_zstd.lineitem WITH (format = 'PARQUET', format_version = 2) AS SELECT orderkey, linenumber, quantity FROM tpch.sf1.lineitem;

@@ -1,0 +1,10 @@
+{
+  "scale": "sf1",
+  "bronze_counts": {
+    "customer": 150000,
+    "orders": 1500000,
+    "lineitem": 6001215
+  },
+  "gold_matches_source": true,
+  "gold_rows": 57
+}

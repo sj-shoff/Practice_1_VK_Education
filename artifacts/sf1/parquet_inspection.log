@@ -1,0 +1,7 @@
+ Container p1q18-tools-run-5386ff4a5ee7 Creating
+ Container p1q18-tools-run-5386ff4a5ee7 Created
+WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager, possibly rendering your system unusable. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv. Use the --root-user-action option if you know what you are doing and want to suppress this warning.
+
+[notice] A new release of pip is available: 25.0.1 -> 26.2.1
+[notice] To update, run: pip install --upgrade pip
+Проверены 15 активных Parquet-файлов: кодеки GZIP/ZSTD соответствуют SQL.

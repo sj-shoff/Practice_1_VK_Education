@@ -1,0 +1,3 @@
+ Container p1q18-tools-run-bee1e97d6eb7 Creating
+ Container p1q18-tools-run-bee1e97d6eb7 Created
+Gold полностью совпадает с исходным Q18: 57 строк. Bronze: {'customer': 150000, 'orders': 1500000, 'lineitem': 6001215}.
