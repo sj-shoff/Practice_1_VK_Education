@@ -82,9 +82,17 @@ docker compose run --rm --entrypoint sh tools \
 Чтение витрины с явной сортировкой:
 
 ```sql
-SELECT name, custkey, orderkey, orderdate, totalprice, total_quantity
+SELECT
+    name,
+    custkey,
+    orderkey,
+    orderdate,
+    totalprice,
+    total_quantity
 FROM gold.sf1.q18_large_volume_customer
-ORDER BY totalprice DESC, orderdate;
+ORDER BY
+    totalprice DESC,
+    orderdate;
 ```
 
 Порядок строк не является свойством хранения Iceberg, поэтому `ORDER BY` нужен и при чтении материализованной витрины.
@@ -108,6 +116,20 @@ ORDER BY totalprice DESC, orderdate;
 ```bash
 docker compose stop
 ```
+
+## Скриншоты консоли
+
+Четыре снимка выполнения команд находятся в `artifacts/screenshots/07_terminal_services.jpg` — `10_terminal_spark.jpg` и включены в отчёт. Использован браузерный PTY-терминал ttyd с реальными shell-командами, доступный только на localhost и только на чтение.
+
+Чтобы воспроизвести снимок, установите ttyd и запустите один раздел:
+
+```bash
+brew install ttyd
+ttyd -i 127.0.0.1 -O -m 1 -o -p 7681 -t fontSize=18 \
+  bash scripts/console_proof.sh services
+```
+
+Откройте `http://127.0.0.1:7681`. Вместо `services` можно указать `verify`, `benchmark` или `spark`. `verify` выполняет проверки повторно; два последних раздела читают сохранённые результаты. После выполнения PTY остаётся открытым на пять минут для снимка; закрытие вкладки завершает сервер.
 
 ## Источники
 

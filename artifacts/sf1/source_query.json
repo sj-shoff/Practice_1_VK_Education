@@ -1,5 +1,5 @@
 {
-  "id": "20261014_121235_00099_scgp8",
+  "id": "20261014_124626_00107_scgp8",
   "rows": [
     [
       "Customer#000128120",
@@ -477,20 +477,20 @@
     "queuedSplits": 0,
     "runningSplits": 0,
     "completedSplits": 67,
-    "planningTimeMillis": 47,
-    "analysisTimeMillis": 5,
-    "cpuTimeMillis": 5725,
-    "wallTimeMillis": 7967,
-    "queuedTimeMillis": 0,
-    "elapsedTimeMillis": 1374,
-    "finishingTimeMillis": 0,
+    "planningTimeMillis": 346,
+    "analysisTimeMillis": 121,
+    "cpuTimeMillis": 7962,
+    "wallTimeMillis": 11101,
+    "queuedTimeMillis": 4,
+    "elapsedTimeMillis": 2355,
+    "finishingTimeMillis": 3,
     "physicalInputTimeMillis": 0,
     "processedRows": 13802430,
     "processedBytes": 4500402,
     "physicalInputBytes": 0,
     "physicalWrittenBytes": 0,
     "internalNetworkInputBytes": 4503850,
-    "peakMemoryBytes": 42050058,
+    "peakMemoryBytes": 40873790,
     "spilledBytes": 0,
     "rootStage": {
       "stageId": "0",
@@ -501,8 +501,8 @@
       "queuedSplits": 0,
       "runningSplits": 0,
       "completedSplits": 9,
-      "cpuTimeMillis": 2,
-      "wallTimeMillis": 7,
+      "cpuTimeMillis": 1,
+      "wallTimeMillis": 2,
       "processedRows": 57,
       "processedBytes": 3448,
       "physicalInputBytes": 0,
@@ -518,8 +518,8 @@
           "queuedSplits": 0,
           "runningSplits": 0,
           "completedSplits": 52,
-          "cpuTimeMillis": 5370,
-          "wallTimeMillis": 7200,
+          "cpuTimeMillis": 7450,
+          "wallTimeMillis": 10210,
           "processedRows": 13652430,
           "processedBytes": 4500402,
           "physicalInputBytes": 0,
@@ -535,8 +535,8 @@
               "queuedSplits": 0,
               "runningSplits": 0,
               "completedSplits": 6,
-              "cpuTimeMillis": 353,
-              "wallTimeMillis": 760,
+              "cpuTimeMillis": 511,
+              "wallTimeMillis": 889,
               "processedRows": 150000,
               "processedBytes": 0,
               "physicalInputBytes": 0,
@@ -549,5 +549,5 @@
       ]
     }
   },
-  "wall_seconds": 1.399423127004411
+  "wall_seconds": 2.35589875
 }

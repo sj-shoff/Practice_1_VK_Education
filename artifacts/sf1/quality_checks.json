@@ -4,15 +4,11 @@
     0
   ],
   [
-    "null_customer",
-    0
-  ],
-  [
-    "null_lineitem",
-    0
-  ],
-  [
     "duplicate_gold_orders",
+    0
+  ],
+  [
+    "null_customer",
     0
   ],
   [
@@ -21,6 +17,10 @@
   ],
   [
     "silver_quantity_mismatch",
+    0
+  ],
+  [
+    "null_lineitem",
     0
   ],
   [
